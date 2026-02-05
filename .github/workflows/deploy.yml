@@ -56,8 +56,8 @@ jobs:
 
       - name: Password protect site
         run: |
-          # Encrypt all HTML files with password (--short bypasses short password warning)
-          for file in $(find site -name "*.html" -type f); do
+          # Encrypt all HTML files with password (using -print0 to handle spaces in filenames)
+          find site -name "*.html" -type f -print0 | while IFS= read -r -d '' file; do
             staticrypt "$file" -p "aryaduck" -o "$file" --short \
               --template-title "MotherDuck BDR Playbook" \
               --template-instructions "Enter password to access the playbook" \
