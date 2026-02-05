@@ -56,16 +56,25 @@ jobs:
 
       - name: Password protect site
         run: |
-          # Encrypt all HTML files with password (using -print0 to handle spaces in filenames)
-          find site -name "*.html" -type f -print0 | while IFS= read -r -d '' file; do
-            staticrypt "$file" -p "aryaduck" -o "$file" --short \
-              --template-title "MotherDuck BDR Playbook" \
-              --template-instructions "Enter password to access the playbook" \
-              --template-color-primary "#6B46C1" \
-              --template-color-secondary "#805AD5" \
-              --template-button "Unlock"
-          done
-          echo "=== Password protection applied to all HTML files ==="
+          # Create a script to encrypt each file
+          cat > /tmp/encrypt.sh << 'SCRIPT'
+          #!/bin/bash
+          file="$1"
+          staticrypt "$file" -p "aryaduck" -o "$file" --short \
+            --template-title "MotherDuck BDR Playbook" \
+            --template-instructions "Enter password to access the playbook" \
+            --template-color-primary "#6B46C1" \
+            --template-color-secondary "#805AD5" \
+            --template-button "Unlock"
+          SCRIPT
+          chmod +x /tmp/encrypt.sh
+
+          # Find and encrypt all HTML files
+          find site -name "*.html" -type f -exec /tmp/encrypt.sh {} \;
+
+          echo "=== Password protection applied ==="
+          # Verify encryption worked
+          head -c 500 site/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
