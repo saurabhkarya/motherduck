@@ -27,15 +27,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
       - name: Install dependencies
         run: |
           pip install mkdocs mkdocs-material mkdocs-minify-plugin
-          npm install -g staticrypt
 
       - name: Prepare docs folder
         run: |
@@ -53,28 +47,6 @@ jobs:
 
       - name: Build site
         run: mkdocs build
-
-      - name: Password protect site
-        run: |
-          # Create a script to encrypt each file
-          cat > /tmp/encrypt.sh << 'SCRIPT'
-          #!/bin/bash
-          file="$1"
-          staticrypt "$file" -p "aryaduck" -o "$file" --short \
-            --template-title "MotherDuck BDR Playbook" \
-            --template-instructions "Enter password to access the playbook" \
-            --template-color-primary "#6B46C1" \
-            --template-color-secondary "#805AD5" \
-            --template-button "Unlock"
-          SCRIPT
-          chmod +x /tmp/encrypt.sh
-
-          # Find and encrypt all HTML files
-          find site -name "*.html" -type f -exec /tmp/encrypt.sh {} \;
-
-          echo "=== Password protection applied ==="
-          # Verify encryption worked
-          head -c 500 site/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
