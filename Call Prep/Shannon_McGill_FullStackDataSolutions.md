@@ -1,4 +1,5 @@
 # Call Prep: Shannon McGill
+
 **Company:** Full Stack Data Solutions (Consultancy)
 
 **Title:** Principal Data Consultant / Founder
@@ -7,11 +8,16 @@
 
 **LinkedIn:** Active (posted in last 30 days)
 
+**Status:** MEETING BOOKED
+
 ---
 
-## AE BRIEFING: Discovery Call Insights (from BDR call)
+# AE/CE Section
+
+## Discovery Call Insights (from BDR call)
 
 ### Meeting Booked
+
 **Demo scheduled - check calendar for time**
 
 ### What We Learned
@@ -23,6 +29,7 @@
 - "Nothing too fancy" - straightforward reporting
 
 **Key Quote:**
+
 > "I have a small consulting company... the direction I'm trying to grow towards is having managed services where I manage the database instance for people. MotherDuck could be the central data repository that I use for my clients when I get to that point."
 
 **Business Vision:**
@@ -46,7 +53,7 @@
 ### AE Talking Points
 
 1. **Lead with the Consultant/MSP Angle**
-   - He wants to build a managed services business
+   - She wants to build a managed services business
    - MotherDuck as her standard stack = multiplier effect
    - "One platform for all your clients" positioning
 
@@ -64,11 +71,25 @@
    - As she adds clients, MotherDuck scales with her
 
 ### Red Flags / Risks
+
 - Only one client currently (small revenue potential short-term)
 - May be early in building her business
 - **Upside:** If she grows, we grow with her (land & expand via consultant)
 
+### Quick Facts About Shannon
+
+| Fact | Source |
+|------|--------|
+| 6 years running Full Stack Data Solutions | LinkedIn |
+| MS in Advanced Computer Science (Liverpool) | LinkedIn |
+| Previously: Director of Data Engineering at Real Chemistry | LinkedIn |
+| Skills: BigQuery, AWS, Azure, GCP, Airflow, Teradata | LinkedIn |
+| Building: CEO Sidekick (AI app, looking for beta testers) | Recent post |
+| Volunteers: Web dev for Hays-Caldwell Women's Center | LinkedIn |
+
 ---
+
+# BDR Section
 
 ## Why Shannon is a High-Priority Prospect
 
@@ -80,11 +101,10 @@
 | **Building AI app (CEO Sidekick)**    | Can pitch MCP server + PROMPT QUERY                          |
 | **Technical background**              | Will appreciate DuckDB architecture                          |
 
----
-
 ## Opening (Pick One)
 
 ### Option A: The Cost Angle (Recommended)
+
 ```
 "Hey Shannon, this is [Your Name] from MotherDuck.
 
@@ -96,6 +116,7 @@ What are you working on these days?"
 ```
 
 ### Option B: The Consultant Angle
+
 ```
 "Hey Shannon, this is [Your Name] from MotherDuck.
 
@@ -107,11 +128,10 @@ for clients who don't need petabyte scale.
 Curious what you're seeing out there?"
 ```
 
----
-
 ## Discovery Questions (Tailored for Shannon)
 
-### 1. Understand His Client Work
+### 1. Understand Her Client Work
+
 ```
 "What kinds of data challenges are you solving for clients right now?"
 
@@ -120,6 +140,7 @@ typically recommend?"
 ```
 
 ### 2. Probe the Snowflake Pain
+
 ```
 "You mentioned cutting Snowflake costs 20%—what's driving
 that for your clients? Is it idle compute or something else?"
@@ -129,6 +150,7 @@ Snowflake overkill for what they need?"
 ```
 
 ### 3. Sizing Questions
+
 ```
 "What's the typical data volume for your client projects?
 GB range? TB?"
@@ -137,17 +159,17 @@ GB range? TB?"
 ```
 
 ### 4. AI/CEO Sidekick Tie-In
+
 ```
 "I saw you launched CEO Sidekick—are you using any data
 backend for that? We have some cool AI integrations that
 might be relevant."
 ```
 
----
-
 ## Key Talking Points for Shannon
 
 ### 1. The Consultant Value Prop
+
 ```
 "A lot of consultants use MotherDuck as their standard
 recommendation for clients in the GB to low-TB range.
@@ -156,6 +178,7 @@ you look like a hero when you cut their costs 70%."
 ```
 
 ### 2. The Snowflake Cost Comparison
+
 ```
 "You mentioned 20% Snowflake savings—with MotherDuck,
 we typically see 70% savings because there's no idle
@@ -166,6 +189,7 @@ spend $400-600 on MotherDuck for the same workload."
 ```
 
 ### 3. The Technical Differentiator
+
 ```
 "MotherDuck is built on DuckDB—so instead of spinning up
 distributed clusters for everything, each user gets their
@@ -176,6 +200,7 @@ For 99% of analytical workloads, it's faster and way simpler."
 ```
 
 ### 4. The AI Angle (for CEO Sidekick)
+
 ```
 "We have an MCP server that connects AI tools like Claude
 directly to your database. So for something like CEO Sidekick,
@@ -185,11 +210,10 @@ from their data.
 We also have PROMPT QUERY built in—type a question, get SQL."
 ```
 
----
-
 ## Anticipated Objections
 
 ### "My clients are already on Snowflake"
+
 ```
 YOU: "Totally—Snowflake is solid for enterprises.
 
@@ -202,6 +226,7 @@ Would it help to show a comparison for one of your clients?"
 ```
 
 ### "I haven't heard of MotherDuck"
+
 ```
 YOU: "We're newer than Snowflake for sure.
 
@@ -213,6 +238,7 @@ test with a client project risk-free."
 ```
 
 ### "What about enterprise features?"
+
 ```
 YOU: "We're SOC 2 Type II, GDPR verified, HIPAA BAAs available.
 For most mid-market clients, we have what they need.
@@ -221,11 +247,10 @@ If a client truly needs complex governance at petabyte scale,
 Snowflake might be right. But that's maybe 5% of projects."
 ```
 
----
-
 ## The Ask
 
 ### Primary Ask: SA Session
+
 ```
 "Would it make sense to have one of our Solutions Architects
 walk through how MotherDuck could fit into your client toolkit?
@@ -237,15 +262,35 @@ How's next week look?"
 ```
 
 ### Backup Ask: Pilot Project
+
 ```
 "What if we started with one client project as a proof of
 concept? You'd see the cost savings firsthand, and it's an
 easy way to test before recommending to other clients."
 ```
 
+## Red Flags to Watch For
+
+| Signal | What It Means | Action |
+|--------|---------------|--------|
+| "All my clients are Fortune 500" | Likely petabyte scale | May not be a fit |
+| "I only recommend Snowflake" | Locked into ecosystem | Soft pitch, nurture |
+| "I'm not taking new tools" | Not open to change | Respect, follow up later |
+
+## Success Criteria
+
+- [ ] Learned about 2-3 current client projects
+- [ ] Understood her typical data volume range
+- [ ] Discussed Snowflake cost challenges
+- [ ] Mentioned AI features (MCP, PROMPT QUERY)
+- [ ] Booked SA meeting OR identified pilot client
+- [ ] Got permission to follow up
+
 ---
 
-## Call Notes (BDR Discovery Call - Completed)
+# Call Notes
+
+## BDR Discovery Call - Completed
 
 ```
 OUTCOME: MEETING BOOKED
@@ -272,37 +317,104 @@ Follow-up date: Check calendar
 
 ---
 
-## Quick Facts About Shannon
+# Call Feedback & Coaching
 
-| Fact | Source |
-|------|--------|
-| 6 years running Full Stack Data Solutions | LinkedIn |
-| MS in Advanced Computer Science (Liverpool) | LinkedIn |
-| Previously: Director of Data Engineering at Real Chemistry | LinkedIn |
-| Skills: BigQuery, AWS, Azure, GCP, Airflow, Teradata | LinkedIn |
-| Building: CEO Sidekick (AI app, looking for beta testers) | Recent post |
-| Volunteers: Web dev for Hays-Caldwell Women's Center | LinkedIn |
+## What You Did Well
 
----
+1. **Got the meeting booked** - Primary objective achieved
+2. **Let her talk** - Shannon shared her vision unprompted about managed services
+3. **Pivoted on the dashboard** - When she said she didn't know about dashboards, you offered to show her
+4. **Flexible on timing** - Accommodated her schedule without friction
 
-## Red Flags to Watch For
+## What You Should Have Done Differently
 
-| Signal | What It Means | Action |
-|--------|---------------|--------|
-| "All my clients are Fortune 500" | Likely petabyte scale | May not be a fit |
-| "I only recommend Snowflake" | Locked into ecosystem | Soft pitch, nurture |
-| "I'm not taking new tools" | Not open to change | Respect, follow up later |
+### 1. Rushed to Book - Missed Discovery
 
----
+**What happened:** You jumped to booking a demo at 2:40 into the call without completing discovery.
 
-## Success Criteria
+**What to do instead:** Before booking, you should have asked:
 
-- [ ] Learned about 2-3 current client projects
-- [ ] Understood his typical data volume range
-- [ ] Discussed Snowflake cost challenges
-- [ ] Mentioned AI features (MCP, PROMPT QUERY)
-- [ ] Booked SA meeting OR identified pilot client
-- [ ] Got permission to follow up
+- "How much is your client spending on Snowflake right now?"
+- "What's the data volume you're working with - GB or TB range?"
+- "How many users are querying the data?"
+
+**Why it matters:** The AE will walk into the demo blind. They don't know if this is a $500/month opportunity or a $5,000/month opportunity.
+
+### 2. Didn't Quantify the Pain
+
+**What happened:** She mentioned "faster and cheaper" but you didn't dig in.
+
+**What to do instead:**
+
+```
+"When you say cheaper - do you know roughly what your
+client is spending on Snowflake today? Monthly, annually?"
+```
+
+**Why it matters:** Cost savings is her main driver. If you can say "she's spending $3K/month and we could save her 70%," that's a compelling demo setup.
+
+### 3. Missed the Consultant Angle Deep-Dive
+
+**What happened:** She volunteered her managed services vision, but you didn't explore it.
+
+**What to do instead:**
+
+```
+"That's interesting - so you're looking to offer managed
+database services to multiple clients. How many clients
+are you thinking? And would they each have their own
+instance or share one?"
+```
+
+**Why it matters:** This is a MULTIPLIER opportunity. Understanding her growth plans helps the AE position MotherDuck as her platform, not just a tool.
+
+### 4. Didn't Mention CEO Sidekick / AI Features
+
+**What happened:** You had LinkedIn intel about her AI app but didn't use it.
+
+**What to do instead:**
+
+```
+"I also saw you're building CEO Sidekick - we have some
+AI integrations that might be relevant. We can cover
+that in the demo too."
+```
+
+**Why it matters:** Creates a second hook beyond cost savings. Shows you did your research.
+
+### 5. Didn't Set Clear Expectations for Demo
+
+**What happened:** Booked 20 minutes but didn't clarify what would be covered.
+
+**What to do instead:**
+
+```
+"In the 20 minutes, we'll show you the customer-facing
+stuff, walk through the cost comparison, and you can
+ask any technical questions. Sound good?"
+```
+
+**Why it matters:** Sets expectations and ensures she comes prepared.
+
+## Score Card
+
+| Criteria | Score | Notes |
+|----------|-------|-------|
+| Got the meeting | ✅ | Primary goal achieved |
+| Discovered current stack | ✅ | Snowflake for main client |
+| Quantified data volume | ❌ | Never asked |
+| Quantified spend/pain | ❌ | Never asked |
+| Understood timeline | ❌ | Never asked |
+| Used LinkedIn intel | ❌ | CEO Sidekick not mentioned |
+| Set demo expectations | ⚠️ | Partial - mentioned dashboards |
+
+**Overall:** Meeting booked, but AE goes in with limited intel. Next time, trade 2 more minutes of discovery for much better demo setup.
+
+## Key Takeaway
+
+> **"Book the meeting, but not before you have enough for the AE to run a great demo."**
+
+The sweet spot is 3-5 minutes of discovery THEN book. You booked at ~2:30 - could have spent one more minute getting data volume and spend info.
 
 ---
 
