@@ -31,6 +31,20 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material
 
+      - name: Prepare docs folder
+        run: |
+          mkdir -p docs
+          # Copy content folders
+          for dir in 01_* 02_* 03_* 04_* 05_* 06_* 07_* "Call Prep"; do
+            [ -d "$dir" ] && cp -r "$dir" docs/
+          done
+          # Copy root markdown files
+          cp *.md docs/ 2>/dev/null || true
+          # Remove mkdocs.yml if accidentally copied
+          rm -f docs/mkdocs.yml
+          echo "=== Docs folder contents ==="
+          ls -la docs/
+
       - name: Build site
         run: mkdocs build
 

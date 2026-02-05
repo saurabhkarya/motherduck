@@ -65,13 +65,5 @@ nav:
   - Reference:
     - Overview: 07_Reference/README.md
 
-docs_dir: .
-site_dir: site
-
-# Exclude non-documentation files
-exclude_docs: |
-  .obsidian/
-  .archive/
-  .claude/
-  site/
-  *.json
+# docs_dir defaults to 'docs/' - files will be copied there by GitHub Actions
+# site_dir defaults to 'site/'
