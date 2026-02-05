@@ -17,6 +17,7 @@
 ### What We Learned
 
 **Current Setup:**
+
 - Uses **Snowflake** for her main client
 - Use case: **Data repository / lakehouse** - loads raw data, integrates between business apps, reports on top
 - "Nothing too fancy" - straightforward reporting
@@ -25,16 +26,19 @@
 > "I have a small consulting company... the direction I'm trying to grow towards is having managed services where I manage the database instance for people. MotherDuck could be the central data repository that I use for my clients when I get to that point."
 
 **Business Vision:**
+
 - Currently has **ONE main client** (manages their Snowflake instance)
 - **Future goal:** Offer managed database services to multiple clients
 - Sees MotherDuck as potential **central platform for all her clients**
 
 **Why She's Interested:**
+
 - Heard MotherDuck is "**faster and cheaper than Snowflake**" at Day-to-Day conference
 - Attended a MotherDuck talk at the conference
 - **NOT aware** of dashboard/customer-facing capabilities - this is a NEW opportunity to show
 
 **How She Found Us:**
+
 - Day-to-Day conference
 - Got a hat, attended a talk
 - Booth person "wasn't super technical" but the talk sparked interest
@@ -42,7 +46,7 @@
 ### AE Talking Points
 
 1. **Lead with the Consultant/MSP Angle**
-   - She wants to build a managed services business
+   - He wants to build a managed services business
    - MotherDuck as her standard stack = multiplier effect
    - "One platform for all your clients" positioning
 
