@@ -12,7 +12,7 @@
 
 ---
 
-# AE/CE Section
+## AE/CE Section
 
 ## Discovery Call Insights (from BDR call)
 
@@ -89,7 +89,7 @@
 
 ---
 
-# BDR Section
+## BDR Section
 
 ## Why Shannon is a High-Priority Prospect
 
@@ -288,7 +288,7 @@ easy way to test before recommending to other clients."
 
 ---
 
-# Call Notes
+## Call Notes
 
 ## BDR Discovery Call - Completed
 
@@ -317,7 +317,7 @@ Follow-up date: Check calendar
 
 ---
 
-# Call Feedback & Coaching
+## Call Feedback & Coaching
 
 ## What You Did Well
 
