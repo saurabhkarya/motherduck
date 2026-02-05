@@ -58,7 +58,8 @@ jobs:
         run: |
           # Encrypt all HTML files with password
           find site -name "*.html" -type f | while read file; do
-            staticrypt "$file" "aryaduck" \
+            staticrypt "$file" \
+              -p "aryaduck" \
               --short \
               --template-title "MotherDuck BDR Playbook" \
               --template-instructions "Enter password to access the playbook" \
