@@ -1,0 +1,70 @@
+CALL TRANSCRIPT: Call with Rohit Verma
+========================================
+Company: Netlink Software Group America Inc
+Deal: None
+Date: Nov 26, 2025 12:26 PM EST
+BDR: Clark Fischer
+Duration: 0:55
+Outcome: CALLBACK SCHEDULED - Bad timing (late for prospect)
+
+CALL NOTES:
+- way too sleepy
+
+SUMMARY:
+Clark from Mother Duck called Rohit to discuss his feedback on a recent free trial. They agreed to callback on Monday due to timing issues (late night for Rohit).
+
+KEY NOTES:
+- Clark reached out to gather feedback about Rohit's experience with the free trial.
+- Rohit indicated he would provide feedback later and preferred to discuss at a later time.
+- They scheduled a follow-up call for Monday.
+- The initial call was brief and focused on rescheduling.
+
+TRANSCRIPT:
+-----------
+
+[0:03] Speaker 1: Lee your 6660 like there's a cloud.
+
+[0:09] Speaker 1: Well, a climate
+
+[0:13] Rohit Verma: Hello.
+
+[0:15] Clark Fischer: Hey Rohit.
+
+[0:17] Rohit Verma: Yeah, you too.
+
+[0:18] Clark Fischer: Yeah. Hey this is Clark from mother duck.
+
+[0:24] Rohit Verma: Yes, please.
+
+[0:25] Clark Fischer: I saw that you signed up for a free trial. I know that you're not expecting my call, but I wondered
+
+[0:36] Rohit Verma: Yeah, and I will let you know that.
+
+[0:39] Clark Fischer: okay, would it be better if I call back later? I know it's late over there. I'm sorry.
+
+[0:44] Rohit Verma: Yeah, you can call me later in the day time.
+
+[0:48] Clark Fischer: Okay. How about Monday would it help would this time be okay?
+
+[0:51] Rohit Verma: Yes. Okay.
+
+[0:53] Clark Fischer: Okay, talk to you on Monday. Bye-bye.
+
+========================================
+KEY LEARNINGS FROM THIS CALL:
+========================================
+
+1. BAD TIMING SCENARIO: Prospect was sleepy/tired (likely late night in their timezone)
+
+2. QUICK RECOGNITION: BDR quickly recognized the bad timing
+   - "I know it's late over there. I'm sorry."
+
+3. GOOD PIVOT: Instead of pushing, offered to callback
+   - "Would it be better if I call back later?"
+
+4. SPECIFIC FOLLOW-UP: Set specific callback time (Monday at same time)
+
+5. CALL DURATION: 0:55 - Appropriate for bad timing (quick reschedule)
+
+TALK TRACK TO REPLICATE:
+"I know it's late over there. I'm sorry. Would it be better if I call back later? How about Monday - would this time be okay?"

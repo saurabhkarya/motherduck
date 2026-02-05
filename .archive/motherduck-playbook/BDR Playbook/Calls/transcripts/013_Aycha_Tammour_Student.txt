@@ -1,0 +1,105 @@
+CALL TRANSCRIPT #013
+====================
+
+Contact: Aycha Tammour
+Company: N/A (Student)
+BDR: Clark Fischer
+Date: Jan 12, 2026 1:47 PM EST
+Duration: 4:02
+Call Type: Outbound
+Outcome: DQ - Student working on term project
+
+CALL NOTES
+----------
+Note: "student working on term project"
+
+SUMMARY (AI Generated)
+----------------------
+Aycha Tammour discussed her current applied research project involving machine learning and geospatial satellite data. She is working on building data pipelines and dashboards for visualizing results. The project spans two to three months, emphasizing data storage, manipulation, and presentation. Clark offered ongoing support and shared relevant resources.
+
+KEY NOTES
+---------
+- Aycha is working on a project using satellite geospatial data, focusing on building data pipelines and dashboards
+- She has received and is reviewing resources from Clark's colleagues, including a book by a University of Tennessee professor
+- She plans to share project results and may reach out with questions as her work progresses
+- Clark offered ongoing support and shared relevant resources during the call
+
+TOPICS DISCUSSED
+----------------
+Project Overview:
+- Aycha's project is an applied research effort involving machine learning and satellite geospatial data
+- The goal is to develop data science pipelines and a dashboard for visualizing results
+- The project spans two to three months, emphasizing data storage, manipulation, and presentation
+
+Resource Discussion:
+- Clark inquired about feedback on an ebook Aycha downloaded; she has not yet reviewed it fully
+- She mentioned a reference book by a professor from the University of Tennessee on managing geospatial data
+- She is reviewing additional resources shared by Clark's colleagues, including materials on space and data
+
+Future Collaboration:
+- Aycha expressed willingness to share her project results and may contact Clark with questions
+- Clark provided his contact info and offered ongoing support for her research efforts
+- The conversation concluded with mutual appreciation and plans for future communication
+
+FULL TRANSCRIPT
+---------------
+[0:12] Aycha Tammour: Hello, you speaking.
+
+[0:13] Clark Fischer: Hey, Joe.
+
+[0:16] Clark Fischer: Hi. This is Clark over from I said that you downloaded an ebook, be an action. I don't call that a b
+
+[0:26] Aycha Tammour: I'm sorry. I didn't hear the first part. Who are you? Who am I speaking to?
+
+[0:31] Clark Fischer: My name is Clark. I sent you an email not too long ago. I'm from a company called mother duck. We're
+
+[0:36] Aycha Tammour: Oh yeah, no.
+
+[0:49] Aycha Tammour: Well, thanks for calling. I haven't, I just bought through the book of a b. I i one of your colleagu
+
+[1:04] Clark Fischer: Oh cool.
+
+[1:31] Clark Fischer: Okay, that makes sense. It's it's for some kind of some kind of class
+
+[1:38] Aycha Tammour: It is a class. It's a it's a it's called applied research project. So then for the next two or three
+
+[2:30] Clark Fischer: That's the whole, that's the whole shebang. You got the, you know, front-end back-end. That should b
+
+[2:34] Aycha Tammour: Exactly, exactly. Is it. Exactly? Yeah. So it's going to be quite expensive. I think that could be w
+
+[3:12] Clark Fischer: Yeah, I'm I'm actually looking now in our like, shared email system. Yeah, he sent over like, you kn
+
+[3:15] Aycha Tammour: Yeah. Yeah.
+
+[3:19] Aycha Tammour: Yeah, I saw the first one. Yeah, but I haven't actually looked at the the rest I have another book f
+
+[3:25] Clark Fischer: Yes.
+
+[3:49] Clark Fischer: okay, well,
+
+[3:55] Clark Fischer: Nice, it's pretty exciting. Well, I hope it goes. I hope it goes well and you have my number over he
+
+[3:59] Aycha Tammour: Thank you.
+
+[4:01] Aycha Tammour: Yeah.
+
+[4:03] Aycha Tammour: Yeah.
+
+[4:09] Aycha Tammour: Yeah, sure. Thank you for calling.
+
+[4:10] Clark Fischer: You. I appreciate it. Talk to you later. Bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Student working on a 2-3 month term project (applied research)
+- Academic use case, not commercial
+- Using geospatial/satellite data for class project
+- Building pipelines and dashboards for school
+
+Playbook Notes:
+- Good discovery question: "It's for some kind of class?"
+- Quick identification of academic use case
+- Professional handling - offered resources and support
+- Left door open for future contact
+- Clark mentioned colleague already sent resources (team coordination)

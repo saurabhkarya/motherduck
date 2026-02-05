@@ -1,0 +1,98 @@
+CALL TRANSCRIPT #031
+====================
+
+Contact: Varun Muppalla
+Company: PCS (uses Databricks there)
+BDR: Ashley Conway
+Date: Dec 1, 2025 1:51 PM EST
+Duration: 2:53
+Call Type: Outbound
+Outcome: DQ - Not experimenting other DWH - using Databricks @ PCS
+
+CALL NOTES
+----------
+Note: "not experimenting other DWH - using Databricks @ PCS"
+
+SUMMARY (AI Generated)
+----------------------
+Varun Muppalla is using Mother Duck for a personal project involving financial services data, while at work (PCS) he uses Databricks and has no plans to experiment with other data warehouses there.
+
+KEY NOTES
+---------
+- Varun is exploring Mother Duck for a personal data project
+- He is currently using Databricks at PCS and plans to continue with it
+- Ashley offered to send resources and add him to the community Slack
+- The personal project involves collecting and analyzing financial services data from multiple sources
+
+TOPICS DISCUSSED
+----------------
+Personal Project with Mother Duck:
+- Varun is collecting financial services data from APIs and user applications
+- He has been running analytics but may face limitations soon
+- The project is independent and not linked to his work at PCS
+- He is exploring Mother Duck as an alternative data warehouse solution
+
+Current Work at PCS:
+- Varun uses Databricks for data management and analytics
+- His team has recently started building on Databricks
+- He does not plan to experiment with other data warehouses at PCS
+
+Community and Resources:
+- Ashley offered to send additional resources for his personal project
+- She suggested adding him to the community Slack for support
+- She acknowledged he will likely continue using Databricks for professional needs
+
+FULL TRANSCRIPT
+---------------
+[0:16] Varun Muppalla: Hello.
+
+[0:17] Ashley Conway: Hi Varun, it's Ashley with Mother. How are you dead?
+
+[0:21] Varun Muppalla: Who I'm doing good. How are you?
+
+[0:24] Ashley Conway: Hey, I noticed you signed up for a mother duck and you're in trial. So I wanted to call in see what...
+
+[0:31] Varun Muppalla: I was looking for a cloud data warehouse for something on the link so I did experiment with mother t...
+
+[0:42] Ashley Conway: Okay great. Yeah. Is that a personal project you're working on or or something that you'd be using w...
+
+[0:50] Varun Muppalla: Yeah, it's something personal.
+
+[0:53] Ashley Conway: Something personal.
+
+[0:54] Varun Muppalla: Yeah.
+
+[0:55] Ashley Conway: Oh, okay. Yeah, no just curious to hear what you're building and how you're using data today in the...
+
+[1:05] Varun Muppalla: I mean, I'm just trying to get some Financial Services data from different sources. Right now I have...
+
+[1:54] Ashley Conway: Yeah, no, that makes total sense of definitely the natural kind of progression there. So I'm happy t...
+
+[2:25] Varun Muppalla: Over here, we use data brakes and we just like, have started to build on it. So I don't think we're...
+
+[2:41] Ashley Conway: Okay. Yep. No I totally hear you. If all is good with databricks then by all means, continue there w...
+
+[3:03] Varun Muppalla: Of course, thank you so much.
+
+[3:04] Ashley Conway: All right, thanks for ruining.
+
+[3:06] Varun Muppalla: You too, bye-bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Personal project only
+- Company (PCS) uses Databricks - "just started to build on it"
+- "I don't think we're" going to experiment with other DWH
+- No business use case
+
+Playbook Notes:
+- Good qualifying question: "Is that a personal project or something you'd be using with work?"
+- Identified competitor (Databricks) at company
+- Offered resources and Slack community for personal project
+- Professional handling - respected his decision to stay with Databricks
+- Ashley showed genuine interest in his project
+
+Competitor Mentioned:
+- Databricks - used at PCS, recently started building on it
+

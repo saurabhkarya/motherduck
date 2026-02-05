@@ -1,0 +1,102 @@
+CALL TRANSCRIPT #015
+====================
+
+Contact: John Carnell
+Company: Unknown (Cloud/R&D professional)
+BDR: Weyman Cohen
+Date: Jan 5, 2026 10:48 AM EST
+Duration: 2:14
+Call Type: Outbound
+Outcome: DQ - Learning only, doesn't work in data, no internal contacts in data
+
+CALL NOTES
+----------
+Note: "signed up purely to learn, doesnt work in data, doesnt know anyone in data at company"
+
+SUMMARY (AI Generated)
+----------------------
+The conversation involved a user exploring the Mother Duck data warehouse out of personal interest and curiosity. The user signed up for a 21-day trial of Mother Duck out of curiosity, not for work. They work in cloud services and are not involved in data warehousing professionally. The conversation highlighted the user's familiarity with SQL Lite and interest in analytics. No immediate data projects or contacts related to data warehousing were identified.
+
+KEY NOTES
+---------
+- The user signed up for a 21-day trial of Mother Duck out of curiosity, not for work
+- They work in cloud services and are not involved in data warehousing professionally
+- The conversation highlighted the user's familiarity with SQL Lite and interest in analytics
+- No immediate data projects or contacts related to data warehousing were identified
+
+TOPICS DISCUSSED
+----------------
+Mother Duck Data Warehouse Introduction:
+- The user signed up to learn about Mother Duck after reading about it
+- They are exploring it out of personal interest, not for professional use
+- The conversation was exploratory, not transactional
+
+Personal vs. Work-Related Use Cases:
+- The user is using Mother Duck for personal projects only
+- They do not work on the data side professionally; their focus is on cloud and R&D
+- No current plans to apply Mother Duck at their company
+
+Comparison with SQL Lite:
+- The user has experience with SQL Lite and was curious about Mother Duck's capabilities
+- The conversation covered similarities and differences, especially in analytics and workload management
+- The user is interested in how Mother Duck compares for non-mega-scale data workloads
+
+FULL TRANSCRIPT
+---------------
+[0:19] Speaker 2 (John): Hello.
+
+[0:21] Speaker 1 (Weyman): I say, you signed up for our 21, day free trial, just curious what you're working on building.
+
+[0:28] Speaker 2 (John): I should have picked someone this morning.
+
+[0:31] Speaker 2 (John): What is this for?
+
+[0:34] Speaker 1 (Weyman): Mother duck data warehouse. I noticed that you signed out your mother. A little test runs, curious w
+
+[0:41] Speaker 2 (John): Oh nothing much I just was reading a book on Duck TV and you guys had mentioned in it so I was inves
+
+[0:50] Speaker 1 (Weyman): Okay, kind of cool. So just kind of exploring just kind of personal projects. Any work-related use c
+
+[0:53] Speaker 2 (John): So you just take this query.
+
+[0:56] Speaker 2 (John): you guys, you could do things like, you know,
+
+[1:02] Speaker 2 (John): No, just personal projects. I was kind of interested in it cuz I've used SQL Lite before. And so I w
+
+[1:09] Speaker 1 (Weyman): Oh, yeah, totally. We have actually have a good amount of folks, who kind of draw that comparison be
+
+[1:11] Speaker 2 (John): Certified project or something like that, right? Then that would be.
+
+[1:16] Speaker 2 (John): that would be an easier way to do that, but
+
+[1:21] Speaker 2 (John): Rajan. But
+
+[1:24] Speaker 2 (John): Check my work.
+
+[1:35] Speaker 2 (John): Yeah, no, no, I just would like I said, it was a complete play thing and clean up like, no, no, I'm
+
+[1:50] Speaker 1 (Weyman): Yeah, yeah, no. Totally understand. Yeah, what do you work in data professionally?
+
+[2:01] Speaker 1 (Weyman): Yep.
+
+[2:07] Speaker 1 (Weyman): Okay cool. Yeah yeah so yeah mother duck just kind of being the version. They managed service for ya
+
+[2:13] Speaker 2 (John): Yep. Yep. I'm not that I'm aware of. I've got to go. Thank you.
+
+[2:32] Speaker 1 (Weyman): Okay, thanks.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Signed up purely to learn (read about DuckDB in a book)
+- Personal project only, no work use case
+- Doesn't work in data professionally (cloud/R&D focus)
+- No contacts in data at his company
+- Quick exit: "I've got to go"
+
+Playbook Notes:
+- Good discovery question: "Any work-related use cases?"
+- Asked about professional data work to find potential referrals
+- Quick DQ recognition when prospect confirmed personal use only
+- Efficient call (2:14) - didn't waste time once DQ was clear
+- Source: Found MotherDuck mentioned in a DuckDB book

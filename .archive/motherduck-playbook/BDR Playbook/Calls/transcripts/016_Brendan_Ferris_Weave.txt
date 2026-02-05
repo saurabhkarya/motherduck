@@ -1,0 +1,158 @@
+CALL TRANSCRIPT #016
+====================
+
+Contact: Brendan Ferris
+Company: Weave (voice agents/AI platform)
+BDR: Clark Fischer
+Date: Jan 13, 2026 12:26 PM EST
+Duration: 7:59
+Call Type: Outbound
+Outcome: DQ - Using Snowflake, small data team, no budget for new vendors
+
+CALL NOTES
+----------
+Note: (frustration noted)
+
+SUMMARY (AI Generated)
+----------------------
+Brendan Ferris discussed his team's current focus on existing data capabilities and their lack of immediate interest in new solutions. His team uses Snowflake for data warehousing and is not currently seeking new solutions due to budget constraints. Clark explained Mother Duck's architecture advantages, but Brendan expressed that their current priorities are improving existing systems.
+
+KEY NOTES
+---------
+- Brendan signed up for a webinar on business analytics mainly due to his manager's interest
+- His team uses Snowflake for data warehousing and is not currently seeking new solutions due to budget constraints
+- Clark explained Mother Duck's architecture advantages, including cost reduction and resource predictability
+- Brendan expressed that their current priorities are improving existing systems and not onboarding new vendors
+- Clark offered to send documentation on Mother Duck's services for future reference
+
+TOPICS DISCUSSED
+----------------
+Webinar and Interest in Solutions:
+- Brendan signed up for a webinar to understand AI agents and automation
+- His team is focused on familiarizing themselves with tools like agents for repetitive tasks
+- Currently, they are not in the market for new solutions due to organizational priorities
+
+Data Warehouse Usage and Architecture:
+- Brendan's team uses Snowflake, citing its ecosystem and ease of use
+- Clark discussed the limitations of traditional distributed architectures, such as resource contention
+- Mother Duck's architecture splits tenants into single-mode environments, avoiding noisy neighbor issues
+
+Organizational Priorities and Future Engagement:
+- Brendan's team is concentrating on enhancing existing capabilities and has limited budget for new vendors
+- Clark highlighted Mother Duck's cost savings and quick setup options
+- Brendan indicated openness to future contact but emphasized current constraints and focus areas
+
+FULL TRANSCRIPT
+---------------
+[0:14] Brendan Ferris: Hello.
+
+[0:15] Clark Fischer: Hey, Brendan.
+
+[0:17] Brendan Ferris: Yes, this is Sam.
+
+[0:19] Clark Fischer: Yeah, this is Clark over at mother duck. I saw that you just signed up for a webinar agents with bus
+
+[0:28] Brendan Ferris: Yes, it does. One second.
+
+[0:31] Clark Fischer: I just wanted to reach out personally in like 45 seconds I can explain why I've called you specifica
+
+[0:42] Brendan Ferris: Sure.
+
+[0:43] Clark Fischer: So I checked out, I saw you signed up with a get we've email. I know you guys build kind of voice ag
+
+[0:47] Brendan Ferris: Yep.
+
+[0:59] Brendan Ferris: Oh, it's basically just shared by my manager. And I think it's something that, you know, that just o
+
+[1:16] Clark Fischer: Yes.
+
+[1:26] Clark Fischer: Cool. Is there a, is there kind of a data warehouse that you use today like snowflake bigquery redsh
+
+[1:32] Brendan Ferris: Yeah, we used snowflake.
+
+[1:33] Clark Fischer: Okay, cool. That makes sense a lot of the times we see in this kind of space to backup to like a mor
+
+[2:33] Clark Fischer: You'll have a bad query at scale. Does that kind of make sense?
+
+[2:38] Brendan Ferris: Yeah, makes sense.
+
+[2:40] Clark Fischer: With mother duck. We have a completely different architecture, so we're single mode and that totally
+
+[3:03] Brendan Ferris: I mean I think we're probably not we're not, you know, in the in the in the market for any Source so
+
+[3:13] Clark Fischer: Yes.
+
+[3:22] Clark Fischer: Well, I think that's kind of exactly why I reached out. A lot of the times people. I mean, of course
+
+[3:53] Brendan Ferris: No, that is cool. Cool. Are you guys going to go over all of this kind of stuff in the webinar?
+
+[4:00] Clark Fischer: I think we should the AI agents. I think it'll be kind of a general overview for like the first 30 m
+
+[4:32] Brendan Ferris: No. No I think I'm good. I'm not I'm not really interested mostly signed up because my manager is go
+
+[4:38] Clark Fischer: Okay.
+
+[4:54] Clark Fischer: Is that something that's interesting like to your manager or your organization? Like are you looking
+
+[5:07] Brendan Ferris: Yeah, well yeah, we don't really have. We're a very small data team. We don't have budgets. I don't
+
+[5:25] Clark Fischer: Okay, well, I like I appreciate the heads-up then.
+
+[5:28] Brendan Ferris: Yeah yeah I just save you some time I don't think like this year we're going to we have much budget
+
+[5:58] Clark Fischer: Cool. So it's cut about getting the system in place and maybe it's not the right time for like refin
+
+[6:05] Brendan Ferris: Yeah. Yeah. That's kind of where we're at this year. Yeah, but I'm not the manager of the team so, b
+
+[6:13] Clark Fischer: Okay, if I could just ask one, I'm just going to ask one last question. Then I'll let you go. Why, w
+
+[6:24] Brendan Ferris: Well, I don't know why I guess we'll snowflake. You can kind of like shut off your. You could shut o
+
+[6:41] Clark Fischer: Yeah, it's like row skiing or some b*******.
+
+[7:05] Brendan Ferris: Most things that you would run into one data engineering. So I think that was attractive. That was w
+
+[7:19] Clark Fischer: Yeah.
+
+[7:23] Clark Fischer: I guess if you guys are like a newer data team anyway, most of it is like how do we get off the grou
+
+[7:36] Brendan Ferris: Yeah, yeah, yeah, yeah. For sure.
+
+[7:39] Clark Fischer: Cool? That make sense. Well in that case. Yeah, I guess thanks for the the chat and enjoy the the we
+
+[7:59] Brendan Ferris: All right, cool. Yeah, yeah. Feel free to send it my way.
+
+[8:02] Clark Fischer: Yeah, you'll get an you'll get an email from me and like a minute. But anyway, thanks for chatting.
+
+[8:09] Brendan Ferris: All right, thank you, bye-bye.
+
+[8:10] Clark Fischer: Regulator by enjoy the weather.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Using Snowflake (competitor lock-in)
+- Very small data team with no budget for new vendors
+- Not the decision maker ("I'm not the manager of the team")
+- Manager just shared webinar, Brendan has no personal interest
+- Focus is on getting systems in place, not switching
+- "This year we're going to we have much budget"
+
+Why Snowflake:
+- Can shut off compute resources
+- Ecosystem and ease of use
+- Handles most data engineering needs
+
+Playbook Notes:
+- Good research: Clark knew Weave builds voice agents before the call
+- Good qualification question: "Is there a data warehouse you use today?"
+- Good architecture pitch: explained single-mode vs distributed architecture
+- Asked about manager interest to find potential champion
+- Asked "one last question" about why Snowflake - good competitive intel
+- Professional exit when DQ was clear
+- Offered to send documentation for future reference
+
+Key Objection:
+- "We're not in the market for any new solutions"
+- "We don't have budgets"
+- Small team focused on establishing basics, not optimizing

@@ -1,0 +1,99 @@
+CALL TRANSCRIPT #026
+====================
+
+Contact: Abhishek Batagi
+Company: Oben Electric
+BDR: Clark Fischer
+Date: Dec 16, 2025 10:59 AM EST
+Duration: 1:16
+Call Type: Outbound
+Outcome: DQ - Not super interested
+
+CALL NOTES
+----------
+Note: "not super interested"
+
+SUMMARY (AI Generated)
+----------------------
+Clark Fischer from Mother Duck called Abhishek Batagi to confirm he received a webinar invite scheduled for the next day at 1 p.m. EST / 11:30 p.m. IST. Abhishek was unsure about the invite and had to end the call abruptly due to an important incoming call.
+
+KEY NOTES
+---------
+- Clark was confirming the webinar invite with Abhishek
+- The webinar is scheduled for tomorrow at 1 p.m. EST / 11:30 p.m. IST
+- Abhishek was unsure about the invite and planned to check his calendar
+- The call ended abruptly due to Abhishek's urgent incoming call
+
+TOPICS DISCUSSED
+----------------
+Webinar Confirmation:
+- Clark called to verify if Abhishek received the webinar invite
+- The webinar is scheduled for the following day at 1 p.m. EST
+- Abhishek was asked to check his calendar for the invite details
+
+Schedule and Timezone:
+- The webinar timing is 1 p.m. EST, which is 11:30 p.m. IST
+- Abhishek acknowledged the scheduled time and planned to review his calendar
+
+Call Conclusion:
+- Abhishek had to end the call early due to an important incoming call
+- Clark expressed appreciation before ending the conversation
+
+FULL TRANSCRIPT
+---------------
+[0:21] Abhishek Batagi: Hello.
+
+[0:22] Clark Fischer: Hey, Abhishek.
+
+[0:24] Abhishek Batagi: Yes, who is this?
+
+[0:26] Clark Fischer: Hi, this is Clark Fisher from over at mother duck.
+
+[0:30] Abhishek Batagi: Problem.
+
+[0:31] Clark Fischer: From mother duck.
+
+[0:33] Abhishek Batagi: Okay.
+
+[0:34] Clark Fischer: I saw that you had are registered for one of our webinars. I just wanted to make sure that you got t
+
+[0:46] Abhishek Batagi: Let me check whether it. So the thing is,
+
+[0:50] Clark Fischer: It's for tomorrow. I'm calling from mother. I just kind of wondered I wanted to make sure that the i
+
+[0:58] Abhishek Batagi: what is the mail ID?
+
+[1:00] Clark Fischer: The mail ID. I think, maybe if you check your calendar, it should be for tomorrow.
+
+[1:07] Abhishek Batagi: Okay, let me check.
+
+[1:09] Clark Fischer: That Workshop.
+
+[1:12] Clark Fischer: And what's your, what's your timezone?
+
+[1:15] Abhishek Batagi: I mean, I've seen this under
+
+[1:17] Clark Fischer: 1 p.m. EST to, I see it should be for 11:30 p.m. ist.
+
+[1:24] Abhishek Batagi: Okay.
+
+[1:26] Abhishek Batagi: Okay, I'll check out. I got I'm getting an important call. Sorry, I have to drop.
+
+[1:30] Clark Fischer: Okay, thank you. Appreciate it. Talk to you later.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- "Who is this?" - no recognition of company
+- "Problem" - seemed inconvenienced
+- Didn't recall registering for webinar
+- Ended call abruptly for another call
+- Generally disengaged tone
+
+Playbook Notes:
+- Webinar confirmation call - prospect may have signed up but forgot
+- Call ended abruptly before any real discovery
+- Consider email follow-up instead for webinar reminders
+- Short call (1:16) with minimal engagement
+- Timezone conversion provided (good practice for international prospects)
+

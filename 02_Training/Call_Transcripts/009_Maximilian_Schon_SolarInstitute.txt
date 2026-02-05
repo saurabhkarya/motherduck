@@ -1,0 +1,147 @@
+CALL TRANSCRIPT #009
+====================
+
+Contact: Maximilian Schön
+Company: Institutet för solenergikvalitet (Solar Energy Quality Institute)
+BDR: Clark Fischer
+Date: Nov 18, 2025 10:39 AM EST
+Duration: 4:59
+Call Type: Outbound
+Outcome: DQ - too small (800K rows, single person doing analysis, using DuckDB locally)
+
+CALL NOTES
+----------
+Note: "too small!"
+
+SUMMARY (AI Generated)
+----------------------
+Maximilian Schön discussed their decision to use DuckDB for internal data management instead of MotherDuck. The team is using DuckDB for internal data management. They analyze solar inspection data, focusing on installation accuracy and contractor performance. The switch from PlanetScale was driven by performance issues with larger data sets. Maximilian is open to revisiting Mother Duck for future scaling needs. The current data volume is manageable with their existing setup.
+
+KEY NOTES
+---------
+- The team is using DuckDB for internal data management
+- They analyze solar inspection data, focusing on installation accuracy and contractor performance
+- The switch from PlanetScale was driven by performance issues with larger data sets
+- Maximilian is open to revisiting Mother Duck for future scaling needs
+- The current data volume is manageable with their existing setup
+
+TOPICS DISCUSSED
+----------------
+Database Management Decision:
+- Chose DuckDB over Mother Duck and PlanetScale based on current data size and performance
+- Data includes about 800,000 rows related to solar inspections and contractor faults
+- Considered optimizing PlanetScale but opted for DuckDB for simplicity and infrastructure alignment
+- Decided against Mother Duck initially due to loading and connector complexity
+
+Data Analysis Focus:
+- Analyzing data points from solar inspections to identify correct and incorrect installations
+- Data includes product types, project locations, contractor performance, and faults
+- Current dataset is relatively small but growing, influencing future scalability plans
+
+Future Considerations:
+- Open to revisiting Mother Duck if data volume increases
+- Noted that syntax compatibility with Mother Duck remains consistent
+- Currently managing with a self-built solution but considering more scalable options later
+
+FULL TRANSCRIPT
+---------------
+[0:11] Maximilian Schön: Betamax.
+
+[0:13] Clark Fischer: Hi, Max. This is Clark.
+
+[0:17] Maximilian Schön: Hello.
+
+[0:18] Clark Fischer: Hi, I saw you signed up for a free trial. I'm just wondering how it's going and what you've been wor
+
+[0:24] Maximilian Schön: So, we decided to just do stock DB internally for now.
+
+[0:30] Clark Fischer: Okay. What was the use case? Something seller.
+
+[0:33] Maximilian Schön: So we had yes, so we have like a lot of data on contractors. So we were doing before we had like an
+
+[0:51] Clark Fischer: Yeah.
+
+[0:56] Clark Fischer: Cool, that makes sense. We actually work pretty closely with Planet scale recently to do some postgr
+
+[1:07] Maximilian Schön: yeah, yeah, so we do conjure up to like generate Parts at files and then we query, we talked DB
+
+[1:16] Clark Fischer: How do you guys share it locally? Do you have multiple kind of data people that work on the same pro
+
+[1:24] Maximilian Schön: We we don't really just me basically, so it's not really an issue.
+
+[1:27] Clark Fischer: oh, really
+
+[1:30] Clark Fischer: Okay. Awesome. That makes sense. And what was it? Exactly. That you guys are analyzing. I saw the th
+
+[1:42] Maximilian Schön: Yeah, so we do solar inspections and like we collect data points on what is actually Incorrect and w
+
+[1:56] Clark Fischer: I see.
+
+[2:11] Clark Fischer: And the choice for duck TV. It was just was it simpler? If there isn't so much data,
+
+[2:17] Maximilian Schön: Yeah, well we don't have a lot of data so it was easy to set up and we were looking at bigquery to b
+
+[2:35] Clark Fischer: So if you have only 800,000 Rose, how was Planet scale getting slow or the queries really like neste
+
+[2:43] Maximilian Schön: Yeah. Yeah.
+
+[2:45] Maximilian Schön: Yeah, so so we have like a few other tables and we were so we have eight hundred thousand rows of li
+
+[3:04] Clark Fischer: Got so it's kind of like like a Cartesian kind of combination of all the different like like the tha
+
+[3:12] Maximilian Schön: Yeah, exactly. I think also like we had some, we could probably have stuck to Planet scale for a bit
+
+[3:35] Clark Fischer: Okay. Yeah, that makes sense. Did you get how much did you get to try out mother?
+
+[3:43] Maximilian Schön: Yeah. So the thing was since it's like I wanted a somewhat quick solution and I didn't really immedi
+
+[4:18] Clark Fischer: Okay. Yeah, that makes sense. We I see that your free trial is still open.
+
+[4:24] Clark Fischer: And do. Do you do you think it might make sense to connect later in the week to see if there was any
+
+[4:35] Maximilian Schön: I think like at the scale we are at now mother like is probably a bit Overkill but I will definitely
+
+[4:40] Clark Fischer: Okay.
+
+[4:52] Clark Fischer: Yeah, it should be basically like the syntax should be exactly the same.
+
+[4:57] Maximilian Schön: Yeah.
+
+[4:58] Clark Fischer: Okay, cool. Okay. Thank you.
+
+[5:00] Maximilian Schön: So I'll keep in mind, just in case, we will need it in the future.
+
+[5:05] Clark Fischer: Okay, thank you.
+
+[5:07] Maximilian Schön: Thank you.
+
+[5:08] Clark Fischer: Talk to you later. Bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Too small (800K rows only)
+- Single person doing all data analysis ("just me basically")
+- Using DuckDB locally - no collaboration needs
+- MotherDuck seen as "overkill" for their current scale
+- Quick solution needed - didn't want to figure out connectors/loading
+- No real-time or sharing requirements
+
+Previous Tech Stack:
+- PlanetScale (MySQL) - had performance issues with complex joins
+- Now using DuckDB locally with Parquet files
+
+Playbook Notes:
+- Good discovery question: "How do you guys share it locally? Do you have multiple data people?"
+- This question quickly identified no collaboration need (single user)
+- Prospect self-identified as too small: "at the scale we are at now mother is probably a bit overkill"
+- Kept door open for future scaling needs
+- Good note about syntax compatibility being the same (easy migration path)
+
+Key Objection:
+- "I wanted a somewhat quick solution and I didn't really immediately see how to load in data"
+- Loading/connector complexity was a barrier - important feedback for product
+
+Future Opportunity:
+- If their data grows, they know MotherDuck syntax is compatible
+- Good nurture candidate for future outreach

@@ -1,0 +1,178 @@
+CALL TRANSCRIPT #010
+====================
+
+Contact: Joel MacPherson
+Company: Uproot Clean
+BDR: Clark Fischer
+Date: Jan 23, 2026 2:15 PM EST
+Duration: 6:21
+Call Type: Outbound (Follow-up call)
+Outcome: NURTURE - Will try MotherDuck with new client project
+
+CALL NOTES
+----------
+Note: "This crazy sob"
+
+SUMMARY (AI Generated)
+----------------------
+Joel MacPherson discussed his interest in using Mother Duck for a new e-commerce project, expressing interest in testing it with an upcoming client. He is considering trying Mother Duck for a new e-commerce venture. He is currently using Paradigm and exploring compatibility. They discussed flat-rate pricing for multiple databases under one account. Data sovereignty and ownership transfer of 'ducklings' were also addressed. Joel plans to test Mother Duck with a new client to track sales and advertising data.
+
+KEY NOTES
+---------
+- Joel is considering trying Mother Duck for a new e-commerce venture
+- He is currently using Paradigm (dbt models) and exploring compatibility
+- They discussed flat-rate pricing for multiple databases under one account
+- Data sovereignty and ownership transfer of 'ducklings' were also addressed
+- Joel plans to test Mother Duck with a new client to track sales and advertising data
+
+TOPICS DISCUSSED
+----------------
+Interest in Mother Duck:
+- Joel is interested in using Mother Duck for a new e-commerce project
+- Hesitant to migrate his existing warehouse due to current workload
+- Sees potential in using Mother Duck for internal reporting and data analysis
+- Plans to test Mother Duck with upcoming client setups
+
+Pricing and Data Management:
+- Clark explained flat-rate pricing based on the account, allowing multiple databases ('ducklings') within one organization
+- Discussed data sovereignty and the ability to transfer ownership of ducklings
+- Clarified that ownership transfer is managed via shares and service accounts
+
+Future Plans and Compatibility:
+- Joel intends to experiment with Mother Duck using Paradigm and PostgreSQL
+- He is setting up a similar system for an Amazon/Shopify seller to track sales and customer acquisition
+- Both parties discussed the security and setup considerations for client projects
+- Clark mentioned the possibility of a follow-up call with a customer engineer
+
+FULL TRANSCRIPT
+---------------
+[0:10] Joel MacPherson: Hello, Joel here.
+
+[0:11] Clark Fischer: Hey Joel, it's Clark again.
+
+[0:15] Joel MacPherson: Great. How can I help you?
+
+[0:17] Clark Fischer: How was that? I sent you a loom. Do I get you at all? Any kind of Sparks going?
+
+[0:24] Joel MacPherson: Oh, are you talking about? Mother duck still?
+
+[0:26] Clark Fischer: Yeah. What do you mean? Still, what else is there to talk about?
+
+[0:31] Joel MacPherson: Yes.
+
+[0:34] Joel MacPherson: It definitely seems interesting. I just don't know if I could like migrate our warehouse right now,
+
+[0:40] Clark Fischer: I mean, yeah, you're the thing is, is that most people don't migrate the entire Warehouse. That's pr
+
+[1:13] Joel MacPherson: No, I'm, I'm already pretty sold on my other. I just, I don't think I can like, migrate the company.
+
+[1:36] Clark Fischer: Oh wow.
+
+[1:57] Clark Fischer: Yeah.
+
+[2:09] Clark Fischer: It's flat. It's it's a flat rate just based on your account. So you can have multiple kind of databa
+
+[2:09] Joel MacPherson: Is an organization.
+
+[2:14] Joel MacPherson: Okay.
+
+[2:20] Joel MacPherson: Yeah.
+
+[2:23] Joel MacPherson: Yes and like the ducklings are like are they like fairly separable. Like I'd like to give them kind
+
+[2:40] Clark Fischer: What do you mean? What do you mean by that?
+
+[2:43] Joel MacPherson: like,
+
+[2:45] Joel MacPherson: Can I transfer ownership of a duckling under my mother instance to someone afterward.
+
+[2:53] Clark Fischer: Of a well, like a database, like a duckling is instance.
+
+[2:58] Joel MacPherson: Okay. Yeah.
+
+[2:58] Clark Fischer: Are you talking about? Like the like like like how would you transfer over? I mean, I'm thinking lik
+
+[3:09] Joel MacPherson: Yeah.
+
+[3:10] Clark Fischer: Yeah. Today we accomplished that with shares. Generally, we tell people to set up service accounts,
+
+[3:16] Joel MacPherson: Yep.
+
+[3:22] Joel MacPherson: Okay.
+
+[3:27] Clark Fischer: You had 30 minutes next week.
+
+[3:30] Clark Fischer: Yumi customer engineer.
+
+[3:35] Joel MacPherson: I think I think I have to I have to try to build with a little bit first cuz I'm not going to have a
+
+[3:49] Joel MacPherson: I think I will give it a shot.
+
+[3:54] Joel MacPherson: Yeah, I'm currently using Paradigm like DVD models. I don't think that, I don't think there should b
+
+[4:09] Clark Fischer: Yeah. What's the other the the other Digger setting up your doing another kind of similar e-commerce
+
+[4:18] Joel MacPherson: Yep. Yeah, it's like
+
+[4:22] Joel MacPherson: that's like a Amazon Shopify seller. They don't have any like modern datastax. So I'm going to try t
+
+[4:32] Clark Fischer: Cool.
+
+[4:35] Clark Fischer: And the goal is kind of the same internal reporting. I mean as much as internal as it gets for a Sho
+
+[4:55] Joel MacPherson: Yeah, yeah that's the idea. Yeah. Just like tracking orders and advertising data a customer acquisit
+
+[5:08] Clark Fischer: Okay, good. Well, that makes sense. I actually last time we talked, you told me of, somebody said, s
+
+[5:31] Joel MacPherson: Yeah, it's fine. I'll, I'll give it a shot and, you know, I don't know how you guys can afford to sp
+
+[5:43] Clark Fischer: Hey, you know, like nothing but the best for you. Do, come on. Don't don't talk yourself down.
+
+[5:51] Joel MacPherson: Anyways. All right. Well, I will. I will try mother duck. I'll try it on this new client and we'll s
+
+[6:02] Clark Fischer: Okay. No worries. As you know, I am ever present. I am always near a name that I am expectantly awai
+
+[6:14] Joel MacPherson: Okay, all right. Talk to you later.
+
+[6:20] Joel MacPherson: Bye.
+
+OPPORTUNITY ANALYSIS
+--------------------
+Positive Signals:
+- "I'm already pretty sold on mother" - high interest level
+- "I think I will give it a shot" - commitment to try
+- "I will try mother duck. I'll try it on this new client" - concrete next step
+- Has a new e-commerce client project to test with
+- Using dbt (Paradigm) models - good compatibility with MotherDuck
+
+Use Case:
+- E-commerce analytics consultancy
+- Amazon/Shopify seller tracking
+- Orders, advertising data, customer acquisition tracking
+- Internal reporting and data analysis
+
+Blockers:
+- Doesn't want to migrate existing warehouse (too busy)
+- Wants to build/test first before booking SE call
+- Data sovereignty questions (transferring ownership to clients)
+
+Tech Stack:
+- Currently using dbt (Paradigm) models
+- PostgreSQL
+- Working with Amazon/Shopify data
+
+Questions Asked:
+- Pricing model (flat rate vs per database?)
+- Can ownership of databases be transferred to clients?
+
+Playbook Notes:
+- This is a follow-up call (previous Loom sent)
+- Good rapport between Clark and Joel ("This crazy sob" note shows familiarity)
+- Clark's persistence is working - Joel went from hesitant to committed to trying
+- Offered SE call but Joel wants to try first - respect that
+- Good objection handling: "most people don't migrate the entire Warehouse"
+- Keep nurturing - high potential for conversion
+
+Next Steps:
+- Joel will try MotherDuck with new Amazon/Shopify client
+- Follow up after he's had time to test

@@ -1,0 +1,78 @@
+CALL TRANSCRIPT #018
+====================
+
+Contact: Lexi Viripaeff
+Company: Unknown
+BDR: Clark Fischer
+Date: Dec 16, 2025 4:00 PM EST
+Duration: 1:07
+Call Type: Outbound
+Outcome: DQ - Just curiosity, not building anything
+
+CALL NOTES
+----------
+Note: "really not interested"
+
+SUMMARY (AI Generated)
+----------------------
+Clark Fischer from Mother Duck called Lexi Viripaeff to gather feedback on a DuckDB ebook, but Lexi hasn't reviewed it and has no feedback. She expressed general curiosity about technology but is not actively working on any related projects.
+
+KEY NOTES
+---------
+- Clark reached out regarding a downloaded DuckDB ebook
+- Lexi has not reviewed the ebook and has no feedback
+- Lexi is interested in technology but not actively working on related projects
+- The conversation was primarily exploratory, with no immediate follow-up planned
+
+TOPICS DISCUSSED
+----------------
+Feedback on DuckDB ebook:
+- Clark inquired about Lexi's thoughts on the ebook
+- Lexi has not looked at the ebook yet
+- No feedback was provided regarding the content
+
+Interest in Technology:
+- Lexi expressed a general curiosity about technology
+- She is not currently building any projects related to the technology
+- Future involvement is possible but not certain
+
+FULL TRANSCRIPT
+---------------
+[0:04] Clark Fischer: Lexi.
+
+[0:16] Lexi Viripaeff: Hello.
+
+[0:18] Clark Fischer: Lexi.
+
+[0:19] Lexi Viripaeff: Yes.
+
+[0:20] Clark Fischer: Hey, this is Clark Fisher from over at mother duck. Sorry for the unexpected call but I saw that you
+
+[0:36] Lexi Viripaeff: just just kind of interested in the technology and yeah, I haven't really looked at it yet, so no fa
+
+[0:46] Clark Fischer: Okay, cool. Are you kind of like a lake house guy? Like Just For the Love of the Game, you look into
+
+[0:53] Lexi Viripaeff: Yeah, yeah. Just kind of just kind of like, like looking at stuff. So yeah. Yeah.
+
+[0:58] Clark Fischer: Okay, no problem. I don't want to keep you from whatever you're doing then was there some technology
+
+[1:09] Lexi Viripaeff: Yeah, just for curiosity, this point, you know, not not even sure. I'm not really building anything
+
+[1:16] Clark Fischer: Okay, cool, thank you. I appreciate your time later. You too.
+
+[1:21] Lexi Viripaeff: Have a good one.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Just curiosity, no specific project
+- "I'm not really building anything"
+- Hasn't looked at the ebook yet
+- No concrete use case or need
+
+Playbook Notes:
+- Good qualifying question: "Are you kind of like a lake house guy? Just for the love of the game?"
+- Quick recognition of no project/use case
+- Professional, quick exit once DQ was clear
+- Very efficient call (1:07)
+- Didn't waste prospect's time

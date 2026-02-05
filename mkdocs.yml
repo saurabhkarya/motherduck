@@ -1,0 +1,77 @@
+site_name: MotherDuck BDR Playbook
+site_description: Complete sales resource and call prep toolkit
+site_author: Arya
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Call Playbook:
+    - Start Here: 01_Call_Playbook/00-Start/START HERE.md
+    - Opening:
+      - Inbound: 01_Call_Playbook/01-Opening/Inbound Opening.md
+      - Cold Outbound: 01_Call_Playbook/01-Opening/Cold Outbound Opening.md
+    - Objections: 01_Call_Playbook/05-Objections/Objection Quick Reference.md
+    - Competitors:
+      - Snowflake: 01_Call_Playbook/06-Competitors/Snowflake.md
+    - Close: 01_Call_Playbook/08-Close/Standard Close.md
+  - Call Prep:
+    - Overview: Call Prep/README.md
+  - Training:
+    - Onboarding: 02_Training/Onboarding/README.md
+  - Product Knowledge:
+    - Overview: 03_Product_Knowledge/README.md
+  - Reference:
+    - Overview: 07_Reference/README.md
+
+docs_dir: .
+site_dir: site
+
+# Exclude non-documentation files
+exclude_docs: |
+  .obsidian/
+  .archive/
+  .claude/
+  site/
+  *.json

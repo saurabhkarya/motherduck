@@ -1,0 +1,77 @@
+CALL TRANSCRIPT #029
+====================
+
+Contact: Joel Junior
+Company: Nubank
+BDR: Weyman Cohen
+Date: Jan 12, 2026 9:01 AM EST
+Duration: 0:51
+Call Type: Outbound
+Outcome: DQ - Not interested in data warehousing right now
+
+CALL NOTES
+----------
+Note: "not interested in data warehousing right now."
+
+SUMMARY (AI Generated)
+----------------------
+Weyman from MotherDuck followed up with Joel regarding the 21-day free trial of Mother Duck, but Joel indicated he is not interested in data warehousing at this time. Weyman offered to connect on LinkedIn to maintain the relationship.
+
+KEY NOTES
+---------
+- Weyman contacted Joel to check on the Mother Duck trial
+- Joel is not interested in data warehousing at this time
+- Joel mentioned no current focus on that area
+- Weyman intends to connect with Joel on LinkedIn to maintain contact
+
+TOPICS DISCUSSED
+----------------
+Trial Check-in:
+- Weyman called to follow up on the 21-day free trial of Mother Duck
+- Joel responded that he has no current interest in data warehousing
+- The conversation was brief, focusing on the trial status
+
+Future Connection:
+- Weyman expressed interest in staying in touch with Joel
+- He mentioned sending a LinkedIn connection request
+- Joel agreed to stay connected, indicating no immediate interest
+
+FULL TRANSCRIPT
+---------------
+[0:17] Weyman Cohen: Hey, Joel, you there?
+
+[0:20] Joel Junior: Hey, hello.
+
+[0:21] Weyman Cohen: Hey, Joel. This is Wayne calling from Auto Warehouse, I noticed that you signed up for mother ducks...
+
+[0:36] Joel Junior: Sorry guys, I don't have any increase in on that right now.
+
+[0:40] Weyman Cohen: Okay, no problem is data warehousing not in a focus area right now.
+
+[0:42] Joel Junior: No problem.
+
+[0:48] Joel Junior: Yeah, no, no, no more folks on that, sorry.
+
+[0:51] Weyman Cohen: Okay. No problem. Yeah, I'll send you a connection requests on LinkedIn. Would love to stay in touch...
+
+[0:57] Joel Junior: No problem.
+
+[0:58] Weyman Cohen: Thank you.
+
+[0:59] Joel Junior: Bye-bye, thank you.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- "I don't have any interest in on that right now"
+- "no more folks on that" - no focus on data warehousing
+- Quick dismissal of the call
+- Very short call (51 seconds)
+
+Playbook Notes:
+- Good qualifying question: "Is data warehousing not in a focus area right now?"
+- Professional handling of rejection
+- Offered LinkedIn connection to maintain relationship for future
+- Quick DQ identification - didn't push when clearly not interested
+- Nubank is a large fintech company - could be worth nurturing long-term
+

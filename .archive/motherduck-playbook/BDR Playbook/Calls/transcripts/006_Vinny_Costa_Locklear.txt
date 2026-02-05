@@ -1,0 +1,178 @@
+CALL TRANSCRIPT #006
+====================
+
+Contact: Vinny Costa
+Company: Locklear
+BDR: Weyman Cohen
+Date: Dec 2, 2025 4:13 PM EST
+Duration: 10:00
+Call Type: Outbound
+Outcome: DQ - volume too low, side project
+
+CALL NOTES
+----------
+Note: "volume too low"
+
+SUMMARY (AI Generated)
+----------------------
+Vinny Costa discussed his initial exploration of Mother Duck's data warehouse platform for a side project. He signed up for a free trial to experiment with data analysis on a large dataset. He is currently using MongoDB and is in early product development stages. The project focuses on studying the trucking industry, unrelated to production databases. Weyman offered ongoing support and invited Vinny to join the community for further assistance.
+
+KEY NOTES
+---------
+- Vinny signed up for a free trial to experiment with data analysis on a large dataset
+- He is currently using MongoDB and is in early product development stages
+- The project focuses on studying the trucking industry, unrelated to production databases
+- Weyman offered ongoing support and invited Vinny to join the community for further assistance
+
+TOPICS DISCUSSED
+----------------
+Mother Duck Free Trial:
+- Vinny signed up for a trial to explore data analysis capabilities
+- He has not yet used the platform extensively
+- The trial is part of his side project work on a large dataset
+
+Data Sources and Tools:
+- Vinny is using MongoDB for his project
+- The dataset is large but manageable, with low current data volume
+- No migration plans to SQL are in place due to early project stage
+
+Project Focus:
+- The project involves analyzing data for the trucking industry
+- It is a research study, not linked to production systems
+- Vinny aims to query and understand a large online database for his analysis
+
+Support and Community Engagement:
+- Weyman offered to assist and keep in touch
+- He suggested Vinny join the Mother Duck community for resources and idea exchange
+- Vinny indicated that migration to a more scalable database is not a priority at this stage
+
+FULL TRANSCRIPT
+---------------
+[0:14] Vinny Costa: Hello.
+
+[0:18] Weyman Cohen: Hey, Benny you there?
+
+[0:21] Vinny Costa: Hello.
+
+[0:22] Weyman Cohen: Hey Benny and noticed you signed up for the mother duck data warehouse free trial. So just wanted to
+
+[0:32] Vinny Costa: Hey, I haven't really used Vin. Just create a account, but I didn't have much time to play with it.
+
+[0:40] Weyman Cohen: Yeah, absolutely. Yeah, just curious like you have like a dashboard or application that you're looki
+
+[0:49] Vinny Costa: I was just using for like some data analysis, not really connected to a really to like a database or
+
+[1:06] Weyman Cohen: Who I got it and is it connected to Locklear? Or is it more of like a side project?
+
+[1:14] Vinny Costa: It's connected to Locklear, but it would be more for like a, a study on on something like a, like a,
+
+[1:40] Weyman Cohen: Oh nice. Okay, yeah, that sounds super cool. It just just curious. How did you find out about mother
+
+[1:43] Vinny Costa: Yeah.
+
+[1:48] Vinny Costa: I was actually, was it catch a p? T, I think or something? Yeah, I was doing some research on like w
+
+[1:53] Weyman Cohen: Oh nice.
+
+[2:38] Weyman Cohen: Okay, got it. Yeah, yeah, we actually have a lot of people who come to us from that TV. T, I think i
+
+[3:02] Vinny Costa: Yeah.
+
+[3:21] Vinny Costa: We're using Mongo.
+
+[3:23] Weyman Cohen: Okay, yes, it's more like do sequels here. Kind of wondering what the transition would be, from no s
+
+[3:42] Vinny Costa: It's like it's it's it's low. We're like getting started. So we launched our products like about a m
+
+[3:58] Weyman Cohen: Yeah.
+
+[4:08] Weyman Cohen: Yep. Yep.
+
+[4:16] Weyman Cohen: So a quote that makes sense. Yeah, would you say low you're talking about like megabytes gigabytes?
+
+[4:22] Vinny Costa: No, it's like it's yeah it's really low like I I can't give you. I don't have the exact number to gi
+
+[4:27] Weyman Cohen: Right right. No worries.
+
+[4:36] Weyman Cohen: Okay. Yeah that makes sense and then would this is this like more of a customer-facing application o
+
+[4:51] Vinny Costa: You mean like our production database? Or or the the project we we uploaded to
+
+[4:57] Weyman Cohen: Yeah, the project. Yeah.
+
+[5:01] Vinny Costa: It would be more of like a study. We want to publish about the the trucking industry and we have lik
+
+[5:09] Weyman Cohen: Okay.
+
+[5:26] Vinny Costa: Yeah, so I'm like a not like a data scientist myself. So for me, it's like, you know, even like to t
+
+[5:30] Weyman Cohen: Yep.
+
+[5:42] Vinny Costa: with our two.
+
+[5:44] Weyman Cohen: Okay, got it. Okay. So probably the trucking companies would use the dashboard to capture their like
+
+[6:00] Vinny Costa: Correct. Yeah.
+
+[6:02] Weyman Cohen: Okay quotes. Check out your website. Yeah. Okay. Yeah I'm sure like like sounds like you're just get
+
+[6:30] Vinny Costa: Yeah.
+
+[6:52] Vinny Costa: Yeah.
+
+[7:02] Weyman Cohen: You know anything, then, yes, you know, well, just kind of keep using it until Till There are some g
+
+[7:08] Vinny Costa: Yeah.
+
+[7:14] Vinny Costa: Yeah, no, that that sounds correct. And that's that's why it wasn't like, you know, a priority. It's
+
+[7:24] Weyman Cohen: Yeah.
+
+[7:46] Weyman Cohen: Exactly.
+
+[7:51] Weyman Cohen: Exactly. Yep. Right.
+
+[8:01] Weyman Cohen: It's it's going to be a good problem to have one day. So like, like you said,
+
+[8:04] Vinny Costa: Yeah, I wish I had that problem to be honest.
+
+[8:07] Weyman Cohen: Okay, one day you will, it's okay. But yeah, like you said for aggregations getting a bunch of data,
+
+[8:10] Vinny Costa: Yeah.
+
+[8:25] Vinny Costa: Yeah.
+
+[8:41] Vinny Costa: Yeah.
+
+[8:44] Vinny Costa: Yeah.
+
+[8:48] Vinny Costa: Yeah.
+
+[8:57] Vinny Costa: Yeah. Are you on the sales team? Or are you like if if that changes I should just reach out to you o
+
+[9:10] Weyman Cohen: Exactly. That's that's exactly what I'm here for. Basically helping companies go from zero to one as
+
+[9:34] Vinny Costa: Got it. Okay. Yeah. I mean if things change I'll I'll definitely consider you guys but I don't think
+
+[9:43] Weyman Cohen: Absolutely, we're on the same page. Thank you so much, Betty. I'm going to send you an email with ou
+
+[9:55] Vinny Costa: Sounds good. All right. Have a good one.
+
+[9:57] Weyman Cohen: Thank you. Have a good night.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Side project / research study (not production use case)
+- Very low data volume (just getting started)
+- Using MongoDB (NoSQL) with no SQL migration plans
+- No immediate need for data warehouse
+- Company is early stage (product launched ~1 month ago)
+- Not a priority for the contact
+
+Source: Found MotherDuck via DBPT/DuckDB research
+
+Playbook Notes:
+- Good discovery questions from Weyman about use case, data volume, and timing
+- Proper nurture approach - offered community resources and kept door open
+- Clean DQ - right decision to not push further

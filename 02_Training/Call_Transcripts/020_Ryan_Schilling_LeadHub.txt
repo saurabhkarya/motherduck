@@ -1,0 +1,57 @@
+CALL TRANSCRIPT #020
+====================
+
+Contact: Ryan Schilling
+Company: LeadHub (Marketing partner for home service companies)
+BDR: Clark Fischer
+Date: Nov 6, 2025 4:59 PM EST
+Duration: 1:01
+Call Type: Outbound
+Outcome: NO CONTACT - Ryan on paternity leave, left message
+
+CALL NOTES
+----------
+Note: "press 3, baybay!"
+
+SUMMARY (AI Generated)
+----------------------
+Clark Fischer called to reach Ryan Schilling but Ryan is on paternity leave. Clark left a congratulations message to be passed along.
+
+KEY NOTES
+---------
+- Clark Fischer reached out to congratulate Ryan Schilling on his paternity leave
+- Ryan Schilling is currently out on paternity leave for a few weeks
+- Clark left a message for Ryan
+- Ryan's colleague indicated they would send the message to Ryan
+
+FULL TRANSCRIPT
+---------------
+[0:01] Clark Fischer: Fraud.
+
+[0:02] Ryan Schilling (IVR): Hello, thank you for calling lead Hub. Your marketing partner for home. Service companies, if you ar
+
+[0:13] Ryan Schilling (IVR): if you're a prospective client looking to do business with lead Hub, press two,
+
+[0:19] Ryan Schilling (IVR): For all other inquiries, please press three.
+
+[0:28] Clark Fischer: Hi.
+
+[0:34] Colleague: Thank you for calling lead Hub. How can I help you?
+
+[0:36] Clark Fischer: I'm looking for Ryan Schilling.
+
+[0:39] Colleague: So Ryan is currently out. He's been on paternity leave for a little bit. Over a few weeks now. I can
+
+[0:52] Clark Fischer: Okay, yeah, it's Clark at mother duck and tell him. Congratulations.
+
+[0:57] Colleague: Yeah, for sure. I'll go ahead and I'll send that over to him right now. Yes sir. Thank you.
+
+[0:59] Clark Fischer: Thank you, appreciate it. Bye-bye.
+
+PLAYBOOK NOTES
+--------------
+- No contact made with target - on paternity leave
+- Company: LeadHub - marketing for home service companies (could be interesting use case)
+- Left friendly message to build rapport
+- Follow up after paternity leave ends
+- Good touch to say "congratulations" - builds goodwill

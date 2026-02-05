@@ -1,0 +1,65 @@
+Call Title: Call with Sean McCullough
+Company: sketch.dev
+Contact: Sean McCullough
+BDR: Clark Fischer
+Date: Nov 6, 2025 4:03 PM EST
+Duration: 2:53
+Call Type: Outbound call
+Outcome: DQ - Personal project, not working with anyone
+
+Call Notes: "fuckkkkkk i FUCKED up"
+
+Summary: Clark Fischer from Mother Duck contacted Sean to gather feedback after his recent sign-up, learning Sean hasn't tried the platform yet. Sean used DuckDB (Duck TV) for local data analysis and has BigQuery experience from Google. His analysis is personal and ad hoc - not part of a team or data warehouse.
+
+Key Notes:
+- Sean has not yet used Mother Duck since signing up
+- He previously used Duck TV for local data analysis
+- Sean has experience with BigQuery from Google
+- His analysis is personal and ad hoc, not part of a team or data warehouse
+- No current formal data sharing or lineage tracking is involved
+
+---
+
+TRANSCRIPT:
+
+[0:14] Speaker 2 (Sean): Hello.
+
+[0:16] Clark Fischer: Hey, is this Sean?
+
+[0:18] Speaker 2 (Sean): It is.
+
+[0:19] Clark Fischer: Hi. This is Clark from mother duck. I saw you just signed up. I'm wondering if you had any feedback
+
+[0:27] Speaker 2 (Sean): Oh, shoot. No. I have not tried it yet. Sorry, I know I signed up for a couple of weeks ago.
+
+[0:31] Clark Fischer: Oh,
+
+[0:33] Clark Fischer: That's a, that's a classic thing. I've done that 10000 times you sign up. And then it's like, well,
+
+[0:49] Speaker 2 (Sean): The letter. Yeah basically I used duct TV for some you know, local data analysis type use cases, yea
+
+[1:18] Clark Fischer: yeah, so you were mostly working on kind of like ad hoc like like just throw stuff into duck TV and
+
+[1:27] Speaker 2 (Sean): Yeah. Yeah I had some I don't want to go to menu details but I had some Json data that I acquired is
+
+[1:36] Clark Fischer: Yeah.
+
+[1:45] Clark Fischer: Okay, cool, that makes sense. I know you mentioned bigquery. Is that what you guys are on today?
+
+[1:52] Speaker 2 (Sean): Well, I'm not currently working with anybody at this point. I had been working with a start-up, the
+
+[2:16] Clark Fischer: Yeah not yeah, that makes sense like not it's not like a true data warehouse like corporate insights
+
+[2:33] Speaker 2 (Sean): Yeah exactly. Yeah there wasn't any didn't even audit Trail didn't need to have any kind of like lin
+
+[2:40] Clark Fischer: Okay that makes sense. And mother mother duck was just I guess the logical The Logical next step lik
+
+[2:49] Speaker 2 (Sean): Yeah. Yeah.
+
+[2:56] Speaker 2 (Sean): Yeah, yeah. That's yeah. I don't waste your time either, right?
+
+[2:59] Clark Fischer: Okay, perfect. Thank you. Is there anything else I can help you with?
+
+[3:03] Speaker 2 (Sean): No. No thanks.
+
+[3:04] Clark Fischer: Okay, thank you. Bye-bye.

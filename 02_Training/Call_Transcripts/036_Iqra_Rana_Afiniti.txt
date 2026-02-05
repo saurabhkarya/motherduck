@@ -1,0 +1,103 @@
+CALL TRANSCRIPT #036
+====================
+
+Contact: Iqra Rana
+Company: Afiniti
+BDR: Clark Fischer
+Date: Nov 25, 2025 4:29 PM EST
+Duration: 2:14
+Call Type: Outbound
+Outcome: DQ - Job Seeker
+
+CALL NOTES
+----------
+Note: "job seeker"
+
+SUMMARY (AI Generated)
+----------------------
+Iqra Rana is exploring Mother Duck's features for Power BI to improve her skills as a data analyst while job hunting. She hasn't used the platform yet but signed up for training purposes.
+
+KEY NOTES
+---------
+- Iqra is currently seeking jobs as a data analyst
+- She signed up for a free trial of Mother Duck for Power BI features
+- Her goal is to upscale her skills in preparation for upcoming opportunities
+- She has not yet had the chance to explore or use the platform extensively
+- Clark reached out to collect feedback, but none was provided
+
+TOPICS DISCUSSED
+----------------
+Platform Exploration:
+- Iqra installed Mother Duck primarily for Power BI purposes
+- She is interested in dashboarding and data exploration features
+- She hasn't used the platform yet, citing limited time
+- Her intention was to train herself and improve her dashboard skills
+- She wanted to explore Power BI's query features but hasn't done so
+
+Job Market and Upskilling:
+- Iqra is actively looking for a data analyst role
+- She aims to enhance her skills to be better prepared for new opportunities
+- She plans to use Mother Duck as part of her upskilling efforts
+
+Feedback and Next Steps:
+- Clark reached out to gather feedback on the trial experience
+- Iqra did not have specific feedback due to limited exploration
+- She did not suggest any improvements at this time
+
+FULL TRANSCRIPT
+---------------
+[0:13] Iqra Rana: Hello.
+
+[0:15] Clark Fischer: A crow. Hey, this is Clark Fisher from mother duck.
+
+[0:16] Iqra Rana: Yes.
+
+[0:22] Clark Fischer: I had seen that you signed up for a free trial with us. I know that you weren't expecting my call. I...
+
+[0:32] Iqra Rana: Actually, I didn't get a chance to use it. I, I think I installed it for power bi purposes. It does...
+
+[0:44] Clark Fischer: Yes. Well we we usually plug into an existing dashboard. We have some data exploration features was...
+
+[0:51] Iqra Rana: Okay.
+
+[1:00] Iqra Rana: I think I wanted to start exploring Kar VI more, from training perspective. I just wanted to use it...
+
+[1:12] Clark Fischer: Okay.
+
+[1:25] Clark Fischer: What do you want today? Like what prompted the exploration just curiosity or was yeah.
+
+[1:33] Iqra Rana: Just to kill myself. I'm right now I'm in the in the job market, looking for jobs right now and I'm...
+
+[1:54] Clark Fischer: Yeah, that makes sense. I mean like feels like a million people use power bi like it's common as hel...
+
+[2:00] Iqra Rana: Yeah.
+
+[2:02] Iqra Rana: Yeah.
+
+[2:03] Clark Fischer: Cool. Any any feedback were there? Any ways that you thought we could improve? I know, maybe you did...
+
+[2:10] Iqra Rana: Yeah.
+
+[2:12] Iqra Rana: Yeah, so I mean I don't have much feedback to offer right now, I'm sorry.
+
+[2:16] Clark Fischer: Okay, well, thank you. I appreciate it. I guess have a good Tuesday and enjoy your holidays and yeah...
+
+[2:18] Iqra Rana: Of course.
+
+[2:24] Iqra Rana: Thank you. You as well. Bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- "In the job market, looking for jobs right now"
+- Upskilling for personal development, not business use
+- No company use case
+- Hasn't even used the platform yet
+
+Playbook Notes:
+- Good qualifying question: "What prompted the exploration?"
+- Quick identification of job seeker status
+- Asked for feedback even though DQ
+- Professional and brief wrap-up
+- Common DQ signal: Power BI training/learning use case
+

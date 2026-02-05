@@ -1,0 +1,105 @@
+CALL TRANSCRIPT: Call with Sia Talebi
+========================================
+Company: Kappa Bar (Capybara)
+Deal: None
+Date: Dec 8, 2025 11:24 AM EST
+BDR: Ashley Conway
+Duration: 2:44
+Outcome: WRONG CONTACT - Got referral to Clark (tech-savvy colleague)
+
+CALL NOTES:
+- wrong contact @ company
+- someone else at the company
+- try Claus- tech guy
+- +46 70 147 9502
+
+SUMMARY:
+Ashley Conway from Mother Duck called Sia Talebi regarding a trial of their data warehouse service. Sia was not the correct contact but provided a referral to Clark, a more tech-savvy colleague.
+
+KEY NOTES:
+- Ashley reached out about a trial with Mother Duck, but Sia was not the correct contact.
+- Sia suggested contacting Clark, a more tech-savvy colleague, for follow-up.
+- The conversation included a brief interruption due to Sia's barking dog.
+- Sia provided Clark's contact number for further communication.
+
+TRANSCRIPT:
+-----------
+
+[0:09] Ashley Conway: Hi Sia. This is Ashley with mother duck. I saw that you kicked off a trial with us. I wanted to give
+
+[0:17] Sia Talebi: Sorry with what? Where are you from?
+
+[0:22] Sia Talebi: Mother duck.
+
+[0:24] Ashley Conway: Yes, looks like you signed up for a trial through cap. Again, it's a data warehouse, a lot of people
+
+[0:31] Sia Talebi: Sorry, my dog is barking. I can't hear you.
+
+[0:33] Ashley Conway: Oh, that's okay. I love dogs. Don't worry.
+
+[0:36] Sia Talebi: Which did you say? It was from
+
+[0:39] Ashley Conway: It looks like the trial is with capybara and then I'm calling from other. Does that ring a bell or d
+
+[0:47] Sia Talebi: Capybara Rings about mother duck doesn't. What kind of what is it a software or fast or what is it?
+
+[0:55] Ashley Conway: Yeah it's a data warehouse. So a lot of people use us for customer-facing analytics built on top of
+
+[1:06] Sia Talebi: Right. Was it in my name, cuz I'm not.
+
+[1:11] Ashley Conway: That's my see here or maybe is it possible? You downloaded. Re-book any of that ring a bell?
+
+[1:19] Sia Talebi: I'm sorry, mother duck. Let's see whether duck is I'm just Googling it right now to see if it makes
+
+[1:39] Ashley Conway: No worries at all. Is there another contact? I should maybe try sorry for the confusion.
+
+[1:43] Sia Talebi: Yeah, you can try maybe cloth. Who's the he's? The more tech-savvy guy might be him. It's his number
+
+[1:56] Ashley Conway: Okay, okay.
+
+[1:57] Sia Talebi: 708.
+
+[2:00] Sia Talebi: 1478.
+
+[2:03] Ashley Conway: Okay.
+
+[2:03] Sia Talebi: 95 a month.
+
+[2:06] Sia Talebi: 0 to 5.
+
+[2:08] Ashley Conway: Go to OK, + 46 700-147-9502. Okay. Oh my gosh. No worries. What kind of dog do you have?
+
+[2:14] Sia Talebi: Yes, that's correct. I'm sorry about the puppy, dog.
+
+[2:20] Sia Talebi: It's a mix between a Bernese and a Leonberger. So he's quite decisive about when he needs to go out
+
+[2:31] Ashley Conway: Well I'll let you to it, then I appreciate you taking a couple of minutes and sorry about the confus
+
+[2:36] Sia Talebi: No worries. No worries. Talked to Clarkson, he might know what's going on.
+
+[2:40] Ashley Conway: Okay, will do. Thanks again.
+
+[2:42] Sia Talebi: Take care. Bye.
+
+[2:43] Ashley Conway: All right. Bye-bye.
+
+========================================
+KEY LEARNINGS FROM THIS CALL:
+========================================
+
+1. WRONG CONTACT SCENARIO: Prospect didn't recognize the product or company
+
+2. GOOD PIVOT: BDR asked "Is there another contact I should maybe try?"
+   → Got referral to Clark with direct phone number
+
+3. RAPPORT BUILDING: Even with wrong contact, BDR built rapport
+   - "I love dogs. Don't worry."
+   - Asked about the dog breed
+   - Kept conversation friendly
+
+4. REFERRAL OBTAINED: +46 70 147 9502 (Clark - tech-savvy colleague)
+
+5. CALL DURATION: 2:44 - Appropriate length for wrong contact (quick DQ)
+
+TALK TRACK TO REPLICATE:
+"No worries at all. Is there another contact I should maybe try? Sorry for the confusion."

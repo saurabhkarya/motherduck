@@ -1,0 +1,89 @@
+CALL TRANSCRIPT #037
+====================
+
+Contact: Rimo Francis (Rimoldeen Francis)
+Company: Appvia
+BDR: Ashley Conway
+Date: Jan 8, 2026 8:39 AM EST
+Duration: 0:49
+Call Type: Outbound
+Outcome: DQ - Has to be hosted locally (cloud restrictions)
+
+CALL NOTES
+----------
+Note: "Has to be hosted locally"
+
+SUMMARY (AI Generated)
+----------------------
+Rimo Francis accidentally signed up for a trial with Mother Duck and has no current interest in evaluating it. He has cloud restrictions that prevent him from using cloud-based solutions.
+
+KEY NOTES
+---------
+- Rimo signed up for the trial by mistake (was trying to access DuckDB)
+- He has no immediate interest in using Mother Duck or a data warehouse
+- Rimo cannot use cloud services due to restrictions
+- Ashley offered to send helpful resources and maintain contact
+
+TOPICS DISCUSSED
+----------------
+Trial Signup:
+- Rimo signed up accidentally while trying to access something else (DuckDB)
+- He clarified there is no real interest in evaluating Mother Duck at this time
+
+Interest in Services:
+- Rimo has no current need or interest in the data warehouse
+- He expressed that he is unlikely to pursue the service soon
+
+Cloud Usage Restrictions:
+- Rimo mentioned he cannot put anything on the cloud
+- This restriction impacts his ability to evaluate cloud-based solutions
+
+Future Communication:
+- Ashley offered to send helpful resources for future reference
+- Both agreed to stay connected for potential opportunities later
+
+FULL TRANSCRIPT
+---------------
+[0:10] Rimo Francis: Hello.
+
+[0:11] Ashley Conway: Hi, Ramon. This is Ashley with the duck. I saw U kicked off a trial with us. I wanted to give you a...
+
+[0:19] Rimo Francis: It was accident too young, as I was trying to go to talk. T v. Is the same thing.
+
+[0:24] Ashley Conway: Signed up by accident.
+
+[0:25] Rimo Francis: Yeah.
+
+[0:27] Ashley Conway: Okay, so no real interest in mother duck or evaluating data warehouse.
+
+[0:32] Rimo Francis: none of the moment, I'm just going to likely
+
+[0:35] Ashley Conway: Okay. Gotcha. Are there like restraints around using cloud or
+
+[0:40] Rimo Francis: Yeah, it's for what. Obviously I can't put anything on the cloud.
+
+[0:45] Ashley Conway: Okay, gotcha. All righty. Well, I can send you some resources that might be helpful. If anything cha...
+
+[0:54] Rimo Francis: Yes, that's good. Thank you.
+
+[0:56] Ashley Conway: Hi. Thanks for email by.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Signed up by accident (confused with DuckDB)
+- "Can't put anything on the cloud" - cloud restrictions
+- No interest in data warehouse evaluation
+- Technical requirement: Local hosting only
+
+Playbook Notes:
+- Good qualifying question: "Are there like restraints around using cloud?"
+- Quick identification of cloud restriction DQ
+- Short, efficient call (49 seconds)
+- Offered resources despite DQ to maintain relationship
+- Note: Prospect confused MotherDuck with DuckDB - common issue
+
+Technical DQ Pattern:
+- Cloud restrictions = immediate DQ for MotherDuck
+- Local hosting requirement incompatible with cloud-based solution
+

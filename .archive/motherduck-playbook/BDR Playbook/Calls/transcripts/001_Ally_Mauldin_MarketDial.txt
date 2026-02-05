@@ -1,0 +1,161 @@
+CALL TRANSCRIPT: Call with Ally Mauldin
+========================================
+Company: MarketDial
+Deal: MarketDial - Ramping
+Date: Nov 5, 2025 12:30 PM EST
+BDR: Clark Fischer
+Duration: 7:47
+Outcome: MEETING BOOKED
+
+SUMMARY:
+Ally Mauldin discussed her experience evaluating Mother Duck for a large dataset, expressing concerns about its slower query performance compared to BigQuery. They planned a follow-up meeting after Ally's return from vacation to explore optimization options.
+
+KEY NOTES:
+- Ally is assessing a dataset with 1.5 billion rows using Mother Duck.
+- She finds Mother Duck significantly slower than BigQuery for similar queries.
+- The team is on the light plan, which may limit performance.
+- A follow-up meeting with a Solutions architect is scheduled for after Ally's return on the 20th.
+- Upgrading instance size could improve query speed.
+
+TRANSCRIPT:
+-----------
+
+[0:08] Ally Mauldin: Hello.
+
+[0:09] Clark Fischer: Hi. Is this Ali?
+
+[0:10] Ally Mauldin: yeah, this is
+
+[0:12] Clark Fischer: Hey, Allie. It's it's park at mother duck. I saw that you signed up. How's it going?
+
+[0:17] Ally Mauldin: It's going good. Yeah.
+
+[0:19] Clark Fischer: Oh really. Okay, that's good to hear. What what have you been working on?
+
+[0:24] Ally Mauldin: So we've been like, assessing a new dataset and we're using the other to like, hosts it basically. So I've just been like home during the data set within mother.
+
+[0:37] Clark Fischer: Okay, that makes sense. Was it more for performance or cost? Or was it just like it's easier to kind of work collaboratively with duct with mother duck? Like, what, what took you to the to the platform?
+
+[0:49] Ally Mauldin: So I have a co-worker who made the decision for us to be on mother duck. And my understanding is that he likes it better because it's cheaper than bigquery, which is what we typically use and then he's also said that it's faster than bigquery. So those are the reasons why I think he he brought us onto that.
+
+[1:01] Clark Fischer: Yeah.
+
+[1:10] Clark Fischer: Oh, you're tempered it with a with a, he said and I think you're not convinced yet.
+
+[1:15] Ally Mauldin: Well, I'm not convinced of the speed. I will say that.
+
+[1:18] Clark Fischer: Oh, really way. It's been slower than bigquery so far.
+
+[1:22] Ally Mauldin: Yeah, yeah. So like I have the data set has like one point five billion lines which is a lot. But I query that much frequently and the queries are taking like four or five minutes to come back where than bigquery they'll take seconds. So the cost part cost part I'm like yeah that probably I don't know but the the it's the time part I'm I don't I'm not seeing it but
+
+[1:28] Clark Fischer: Yeah.
+
+[1:38] Clark Fischer: Okay, that's not good at all.
+
+[1:48] Clark Fischer: That's kind of actually terrible. That makes no sense a billion rows. It's a billion rows, right? That's not really that much nowadays. Like that is it's actually pretty surprising to me that that's a more performant.
+
+[1:53] Ally Mauldin: Yeah, it's like one point five billion I think.
+
+[1:57] Ally Mauldin: Yeah.
+
+[2:02] Ally Mauldin: Yeah, that's that was part of why I was like I don't know why this is so slow, so yeah.
+
+[2:11] Clark Fischer: Did you just copy the queries directly from bigquery?
+
+[2:15] Ally Mauldin: No, and and it's not like the same query, but it's just like simple queries like summing over the table. So it's not like I'm not joining a lot of things or doing anything crazy. So that's why I like it's not an exact copy of what I'm doing in bigquery, but it's something that I would expect to be fast.
+
+[2:20] Clark Fischer: Yeah.
+
+[2:32] Clark Fischer: Yeah, that's that is that's actually totally bizarre. I feel like that doesn't make any sense. I mean, I think some of the issues. Well, has it. What kind of instant size are you using? Are you on like a poem? Also a light, or sorry, a pulse, a like a
+
+[2:47] Clark Fischer: A standard, a jumbo, do you know?
+
+[2:50] Ally Mauldin: I think that we are probably on, whatever your cheapest version is. Yeah, that that would be my guess. I think that. I think that we recently upgraded something else cuz we've got, we're, we're using that Phoebe and two places, and I think we upgraded it for another thing. But for what I'm on, I think it's like the Dodge Jeep or free version.
+
+[2:56] Clark Fischer: Okay.
+
+[2:58] Clark Fischer: Yeah, that makes sense.
+
+[3:09] Clark Fischer: Yeah.
+
+[3:15] Clark Fischer: I see that you guys are on the the light plan which makes sense. I will say that one of the complicated things about like, usage-based billing on one hand, it's it's more straightforward than like a bigquery is notorious for how how hard it is to predict your cost cuz it's based on something like like line scan, which is not like a way that the human mind naturally thinks about queries. But if you're using the cheapest option like the pulse, the smallest instance, sometimes it can cost more because you run into issues like like flushing with a certain amount of rose. And so it it becomes much much more inefficient than just using like a standard instance and the cost. The cost in France is not really that dramatic like per per second because the billing spell into the minute, like the like, even if you're under a minute, it's the same price. Anyway and so, uh, I think that there's kind of more complicated. Uh like there's a there's a right, there's a better way to configure it. Yep.
+
+[3:34] Ally Mauldin: Yeah.
+
+[4:14] Clark Fischer: That leads to those performance gains wage.
+
+[4:15] Ally Mauldin: Yeah.
+
+[4:18] Ally Mauldin: Yeah. I mean that makes sense to me to like optimize the performance. Yeah, to to make that math, make more sense. I transfer phone, not even close to being the person that makes that kind of a decision. Um, that I think the when we did upgrade that was r, c, t, o, r So but like I can definitely give that feedback of like, hey, we probably will get a better result from Duck DB if we decide to upgrade. So,
+
+[4:20] Clark Fischer: Thursday.
+
+[4:34] Clark Fischer: Yeah.
+
+[4:41] Clark Fischer: Yeah.
+
+[4:54] Clark Fischer: Yeah. And and just the instance, cuz I see that you already are on the light plan. So like, you already, you already have a choice. It would seem like, all the features you need to test it. So it's not like a, we need more features thing. It just might be like, so selecting the, the right type of instant size which I hope is an easier and easier ask than, like, hey let's put our credit card in and buy the buy more stuff, you know, actually, I'm just on the the product team it might help. Do you do you think you guys have time like early next week to talk to one of our Solutions architects?
+
+[5:11] Ally Mauldin: Okay.
+
+[5:20] Ally Mauldin: Yeah.
+
+[5:29] Ally Mauldin: Potentially.
+
+[5:32] Clark Fischer: I I could I could send over like a tentative invite and you can see if there's interest in we could Circle back but
+
+[5:39] Ally Mauldin: Yeah, let me just a second cuz I am out of office at the end of next week. And so, I'm like, trying to see what my days are like at the beginning. Cuz part part of what we're doing right now. This new dataset. We're exploring. We have like a 30 day trial with um, and so it's like, because I've got out of office. like, right in the middle of that 30-day trial. I'm trying to get as much work done before long as possible. So, I'm a, I'm a bit busy or like specifically, then, but I do think that like we are interested in using duck TV package or places. Um I know that like yeah.
+
+[5:45] Clark Fischer: We?
+
+[5:55] Clark Fischer: Yeah.
+
+[6:03] Clark Fischer: Yeah, that makes a lot of sense.
+
+[6:16] Clark Fischer: When did sorry. When do you come back like late, late, November?
+
+[6:22] Ally Mauldin: I am back on the 18th.
+
+[6:25] Clark Fischer: Okay. I mean, I could send a slot over for, like, the 19th or the 20th. I bet you'll have, I bet you'll be pretty booked.
+
+[6:36] Ally Mauldin: Yes, that would be fine.
+
+[6:39] Ally Mauldin: Let's do, let's do the 20th, that's an in-office day, so then I can have the people that are
+
+[6:47] Ally Mauldin: would be relevant to that conversation. It's easier to get done there.
+
+[6:53] Clark Fischer: Okay that yeah actually. That's kind of better for us too because we have a bunch of people off next week.
+
+[7:10] Ally Mauldin: Yes.
+
+[7:16] Clark Fischer: Malden. Malden. Okay, got it. Okay, perfect. I'll send over an invite and I'll put on Logan. Who's part of the solutions architect team and myself.
+
+[7:16] Ally Mauldin: Malden MA. Yeah, Mauldin, yeah.
+
+[7:34] Ally Mauldin: Sounds good.
+
+[7:40] Ally Mauldin: Okay.
+
+[7:42] Ally Mauldin: Okay, sounds good. Thank you.
+
+[7:45] Ally Mauldin: Yeah, thanks. Bye.
+
+========================================
+KEY LEARNINGS FROM THIS CALL:
+========================================
+
+1. OPENING: Trigger-based - "I saw that you signed up. How's it going?"
+
+2. DISCOVERY: Asked "What have you been working on?" then "Was it more for performance or cost?"
+
+3. OBJECTION SURFACED: Prospect said MotherDuck was SLOWER than BigQuery (1.5B rows, 4-5 min vs seconds)
+
+4. HANDLING:
+   - Did NOT get defensive
+   - Acknowledged: "Okay, that's not good at all" / "That's actually kind of terrible"
+   - Diagnosed: Asked about instance size
+   - Reframed: "It's not about buying more features, it's about selecting the right instance size"
+
+5. MEETING ASK: "Do you think you guys have time early next week to talk to one of our Solutions architects?"
+
+6. OUTCOME: Meeting booked for the 20th with Solutions Architect

@@ -1,0 +1,83 @@
+CALL TRANSCRIPT #012
+====================
+
+Contact: Jimmy Posso
+Company: N/A (Student)
+BDR: Weyman Cohen
+Date: Jan 6, 2026 1:01 PM EST
+Duration: 1:17
+Call Type: Outbound
+Outcome: DQ - Student (learning data analytics, not currently working in data)
+
+CALL NOTES
+----------
+Note: "student"
+
+SUMMARY (AI Generated)
+----------------------
+Jimmy Posso is learning data analytics with the goal of eventually working in the field, and Weyman offered support and encouragement. Jimmy is focused on building skills for future employment, currently studying various analytics tools. He is transitioning from a sales role and is interested in acquiring relevant skills.
+
+KEY NOTES
+---------
+- Jimmy is focused on building skills in data analytics for future employment
+- He is currently studying various analytics tools and concepts
+- Weyman is supportive and encourages Jimmy to stay in touch as he progresses
+- Jimmy is transitioning from a sales role and is interested in acquiring relevant skills
+
+TOPICS DISCUSSED
+----------------
+Learning Data Analytics:
+- Jimmy is studying data analytics and exploring different tools
+- His main goal is to work in data analytics in the future
+- He is currently building his skill set through self-study and courses
+
+Career Goals and Transition:
+- Jimmy plans to work in data analytics at some point in his career
+- He is transitioning from a sales role to gain relevant skills
+- He mentioned the importance of learning tools for future job requirements
+
+Support and Resources:
+- Weyman offers assistance and encourages Jimmy to keep him updated
+- The conversation focused on Jimmy's learning journey and future plans
+- Weyman expressed willingness to help as Jimmy continues to explore the field
+
+FULL TRANSCRIPT
+---------------
+[0:08] Jimmy Posso: Hello.
+
+[0:10] Weyman Cohen: Jimmy this way home from noticed that you signed up for the TV ebook. So just curious what you're wo
+
+[0:14] Jimmy Posso: 16.
+
+[0:20] Jimmy Posso: I'm learning to be at that Alice, and I'm, I'm, I'm the stage of going to learn different type of At
+
+[0:33] Weyman Cohen: Yeah just more. So trying to help people who are, you know, just ensure your success as you know, ev
+
+[0:44] Jimmy Posso: For.
+
+[0:46] Jimmy Posso: Yeah, it's for a second. Be able to work at one point in my life.
+
+[0:53] Weyman Cohen: Oh okay great. So then and then how late your current role going, you currently working in data righ
+
+[1:00] Jimmy Posso: No, I'm just going to sell training. What are these jobs? They say that they require to have to pick
+
+[1:12] Weyman Cohen: Okay, great. Well thank you so much. You know. Keep me posted as you kind of continue to dive into t
+
+[1:22] Jimmy Posso: All right. Great. Thank you. Bye.
+
+[1:23] Weyman Cohen: Thanks everyone.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Student/learner (not currently working in data)
+- No immediate professional use case
+- In sales, trying to transition to data analytics
+- Learning phase, not implementation phase
+
+Playbook Notes:
+- Quick qualification question: "you currently working in data right?"
+- Identified DQ signal immediately when prospect said he's learning
+- Professional handling - offered to stay in touch for future
+- Very efficient call (1:17) - recognized student status quickly
+- Good nurture opportunity if he gets a data role in the future

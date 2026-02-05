@@ -1,0 +1,874 @@
+﻿🦆 Welcome to the Flock 🦆[a]
+Congratulations, you can now call yourself a “MotherDucker”. Take a breath and a look around. There are a lot of moving pieces between teams, technologies, positioning, style, etc. 
+
+My goal for you is to find your footing and place here, and exercise your skills to your best ability. We are at that special stage where one person can change the course of the company. 
+
+Ducks are exceptional animals. They can swim, fly, walk, and some claim they can even run. Upon hatching, fledgling ducks go through the process of “imprinting” where they attach to the first moving object they see and copy its every move. Sometimes ducks accidentally imprint on the wrong thing…. That almost never ends well. 
+
+You are in the process of “imprinting” at MotherDuck. Be intentional with this period of time, and be aware that you are forming the foundation of what comes next and what you will build upon. 
+
+The MotherDuck Way:
+* What blocks the way, becomes the way. 
+* Don’t make assumptions. 
+* Assume positive intent. 
+* Make your mark. 
+Learning Philosophy. Go wide before going deep. You don't need to be a data engineer, but you need to understand how the pieces fit together and where MotherDuck adds value.
+
+This 5 Week onboarding program is designed to take new BDRs and AEs from limited technical knowledge to confident, credible conversations with those in the ecosystem. The curriculum balances foundational learning with practical application, building both technical understanding and sales effectiveness.
+
+“We have to continually be jumping off cliffs and developing our wings on the way down.”
+-Vonnegut
+
+Ducks can fly!
+Week 1: Where am I?
+Day 1: Welcome to the Team
+Goal: Get oriented, understand the basics, and join the Team. 
+
+Note: “Slow is smooth, smooth is fast” 
+
+There is a lot to take in over the coming weeks. Hopefully, you are thinking “How do I get in, book meetings, close deals… NOW!”. 
+
+But, you are about to be thrown into the deep end and need to know how to swim. Stay calm, stay steady, and learn. 
+
+
+Tools:
+* HubSpot [daily] 
+* Slack [daily]
+* LinkedIn Sales Navigator [daily]
+* Calendly [daily]
+* Fathom [daily - self-register]
+* LISN [daily]
+* Claude [daily] 
+* ChatGPT [daily]
+* CrossBeam [as needed][b][c]
+* MDW [as needed] 
+* GitHub [as needed][d][e]
+* Guru [as needed]
+* Instantly [as needed]
+* Omni [as needed]
+* Clay/CommonRoom/Apollo [as needed]
+* Orb [as needed]
+
+
+See how to get access to Software & Services here. 
+Many tools are accessible when you login with your Google account. 
+When in doubt, reach out to https://portal.kaliotek.com/app. 
+
+
+Systems:
+* Key Dashboards on Omni
+   * Quarterly Sales Dashboard
+   * Compute tables for AEs
+   * Customer Terminal for AEs
+   * BDR Terminal for BDRs
+* Key Views on HubSpot
+   * For BDRs
+      * Newly Routed Contacts: 
+         * My New Demand Gen Leads
+         * My New PLG Leads
+         * My New Contacts from Deals and Customers
+         * My Auto Sequenced Contacts
+      * Active Contacts: 
+         * My Existing Leads with Website Visit
+         * My Existing Leads with Usage
+         * My Existing Leads with Response
+         * My Manually Contacted Leads
+   * For AEs:
+      * My open deals
+
+
+Actions
+- Complete HR/IT setup and get access to the tools you need (see Tools above)
+- Join Slack channels:
+* #team-sales
+* #team-bdr 
+* #team-gtm
+* #the-jungle
+* #bdr-n-scott (BDRs only)
+* #ask-sales
+* #ask-gtm
+* #ask-product
+* #ask-anything
+* #discuss-advocacy-and-marketing
+* #discuss-industry
+* #all-announcements
+* #all-hiring
+* #all-kudos
+* #all-watercooler
+* #wins
+* #guru-cards
+* #pipelineparty (Notes/Background for when a meeting is booked)
+* #hubspot-notifications (any & all hubspot notifications)
+* Join the Community Slack Group here[f]
+* As you start to book meetings, Slack channels will be spun up for prospective customers- these are good to monitor as well 
+* Other culture related channels as desired :) 
+
+
+AE
+- Schedule ride-alongs with 2-3 experienced AE’s 
+- Read: Big Data is Dead, MotherDuck is Born
+- Read: Big Data is Dead by Jordan
+
+
+Read: AE Process[g]
+- Review HubSpot Navigation Guide
+- Schedule Introduction meetings with:
+* Scott
+* Hsio
+* Customer Engineers 
+* Account Executives
+
+BDR
+- Schedule ride-alongs with 2-3 experienced BDRs
+- Read: SDR Playbook and BDR Focus Principles[h]
+- SQA DefiGOOLINERnition and SQA Leaderboard on BDR Terminal [bookmark both]
+- Review HubSpot navigation guide
+- Schedule Introduction meetings with:
+   * Scott
+   * Hsio
+   * Customer Engineers 
+   * Account Executives
+   * Current BDR Team
+
+
+Exercise: Write down 10 questions you have about what MotherDuck does and send them to Scott.
+
+The MotherDuck Comprehensive Exam: Back to school!  At the end of your third week you will complete the MotherDuck Comprehensive Exam. It is designed to be difficult, and help pinpoint gaps and areas you can focus on. It also will showcase where you will naturally feel out of your depth with customers. 
+
+No surprises here! Here is the exam, and the questions you can expect.
+
+The point is not to ace the exam, it is to learn from it and provide an honest lens for your own development. 
+
+
+
+
+Days 2-3: Data Warehousing 101
+
+Goal: Understand the data landscape and basic terminology.
+
+Note: To be credible sellers we need to know our history. Having the basics of data warehousing, its evolution, and the different technologies in play are key to building trust with prospects. 
+
+This is an audience which is typically avoidant of sellers, thinking of us as surface level, superficial, pushy, annoying, and generally un-helpful. 
+
+We need to challenge that assumption. The only way to do that is to show up knowing our stuff and having an informed perspective. 
+
+Action: Schedule a Whiteboarding session with Scott
+   * Whiteboarding session - Updated Dec 15. 2025
+
+
+Core Concepts to Learn
+- What is a database, data warehouse, data lake?
+- OLTP vs OLAP (transactional vs analytical)?
+- ETL vs ELT pipelines?
+
+
+Back to School
+- Read: Databases 101: A Simple Guide for Non-technical Users
+- Read: Understanding the Data Warehouse: A Beginners Guide
+- Watch: MotherDuck in 100 Seconds 
+- Watch: ETL vs ELT Explained
+- Watch: OLTP vs OLAP Explained
+- Watch: Data Lake vs Data Warehouse vs Lakehouse & read through our case studies
+- Review: Modern Duck Stack Ecosystem diagram
+- Review which tools fit in each category (Sources, Ingestion, Transformation, BI, etc.) 
+
+Example Calls & Case Studies[i]
+
+
+Case Study Sheet
+Call Library
+
+
+Process
+- Review: Customer 360 Dash
+- Review: AE Terminal & BDR Terminal
+- Review: Quarterly Tracker
+
+Exercise: Review in 30 minute session with Scott 
+- In your own words, explain the difference between OLTP and OLAP, ELT and ETL.
+- Identify examples of a OLTP database and when companies might use them? OLAP?
+- Why would someone switch?
+- Draw the data flow: Source → Ingestion → Storage → Transformation → BI
+- Task: Create your own copy and fill out this ecosystem template or draw ecosystem on whiteboard with Scott
+
+Days 4-5: The Evolution of Data Infrastructure
+
+
+Goal: Understand where MotherDuck fits in the history of data technology
+
+
+Core Concepts:
+- How did we get here? Evolution from on-prem to cloud data warehouses
+- The rise and limitations of Big Data
+- Why "Big Data is Dead" and what comes next
+
+
+Back to School
+- Read: History of Data Warehousing
+- Read: Evolution of Data Warehousing
+- Read: About Us
+- Listen: Database School: Scaling DuckDB in the Cloud [60 min][j]
+- Test Yourself: Evolution of Data Warehousing Flash Cards
+- Test yourself: MotherDuck Ecosystem Flash Cards
+
+
+Process
+- Review: Routing, Sequencing, and Qualification[k]
+
+
+Example Calls & Case Studies
+
+
+
+
+
+
+
+
+Exercise: Find 30 minutes with Scott before the end of your first week.
+-In your own words, speak to these questions: "Why does MotherDuck exist? What problem are we solving that other data warehouses can't?"
+- Explain what on-prem is and what use cases fall under that need vs cloud data warehouses and what patterns to look for when differentiating the two
+- Explain the difference between Distributed Warehouses and MotherDuck’s Architecture.
+- Big Data is Dead Talk Track 
+
+
+
+
+
+
+________________
+Week 2: Competitive Landscape & MotherDuck's Position
+Days 1-2: Understanding the Competition[l]
+Goal: Know the competitive landscape and positioning
+
+Note: We exist in a competitive ecosystem. Customers, prospects, and partners will all work with and engage in activities with our competitors. This means we must always be on guard, suspicious, and thinking through the nuanced relationships which tie the data ecosystem together. 
+
+But, remember, never let a customer or prospect suspect we are concerned about competitors. That is effectively blood in the water. You must always portray relaxed, calm, confidence. 
+
+Competitor? No big deal. We work with them all the time. We replace them all the time. We co-exist with them all the time. 
+
+One of our greatest strengths is our ability to co-exist with competitors. Our low barrier to entry land and expand motion make it incredibly easy for us to slip behind enemy lines, get a footprint and expand. 
+
+More often than not, our customers feel neglected by competitors, and that gives us a unique opportunity to pull them away.
+
+- Clickhouse relies on self-service for most SMB-MM accounts, they are largely left unattended. 
+- Snowflake, BQ, and Databricks focus on Enterprise +
+- AWS Reps are not really paying much attention to Redshift
+
+Know their origin, their architecture, their weakpoints, tell the story of the data landscape changing, and why they will be left behind. 
+
+Find your best path based on customer needs, and play the long game. 
+
+
+Core Concepts:
+- Major competitors: Snowflake, BigQuery, Redshift, Databricks, ClickHouse
+- Each competitor's architecture, strengths, and weaknesses
+- Cost models and where MotherDuck wins
+
+
+Back to School
+- Competitive Positioning Guide
+- Read: Snowflake Competitors Analysis
+- Battle Cards: DuckDB, Redshift, Clickhouse, Databricks, Postgres, Snowflake
+- Read: Faster Ducks
+
+Example Calls & Case Studies
+
+
+
+
+
+
+Exercise: Competitive Positioning 
+Practice pitch the differences between MotherDuck and one of the above competitors with Scott. 
+
+
+
+
+Disco Call Role Play
+- Scenario 1: "We're already using Snowflake, why would we consider MotherDuck?"
+- Scenario 2: “ We’re evaluating MotherDuck and Clickhouse- what are the main differences” 
+
+
+
+Days 3-4: Deep Dive on DuckDB & MotherDuck
+Goal: Understand what makes DuckDB special and how MotherDuck extends it
+
+Notes: DuckDB wasn’t named because it sounds cute or quirky. It literally comes from the Hannes’ pet duck named Wilbur. The duck ended up inspiring the mascot and branding around how versatile and resilient DuckDB is.
+
+DuckDB began as a research project at CWI in the Netherlands, where the team realized there was a missing quadrant in database tech. An analytical (OLAP) engine that runs inside a process without needing a big server infrastructure. They started building at DB as simple as SQLite but built for big, analytical workloads
+
+Prototyping began in 2018, and by 2021 they were ready to spin it out. Today, DuckDB racks up millions of downloads per month from users all over the world, including brands like Tesla, Apple, and others Garrett O'Brien
+
+Core Concepts:
+- DuckDB basics: embedded OLAP, columnar engine, single-node architecture
+- Why DuckDB is so fast (vectorized execution, columnar format)
+- MotherDuck's dual execution model
+- Scale-up vs scale-out philosophy
+- Hypertenancy and cloud orchestration
+
+
+Back to School
+- Watch: DuckDB in 100 Seconds [1.5min]
+- Watch: Why should you care about DuckDB? [14min]
+- Watch: DuckDB & MotherDuck for Beginners [36min]
+- Watch: Why Web Developers Should Care About Analytical Databases [9min]
+- Read: Customer Facing Analytics 
+- Read: Advanced Sorting for Fast Selective 
+- Read: Cloud Analytics Without the Overhead
+- Read: Read Scaling
+- Read + Review: MotherDuck Capabilities 
+-  Architecture and Capabilities 
+-  Database Concepts 
+- Read: DuckDB UI
+
+
+
+
+
+
+
+
+Example Calls & Case Studies
+
+
+
+
+Key Talking Points to Master
+   * Single Node
+   * HyperTenancy
+   * Serverless
+   * Dual Execution & Instant SQL
+
+
+Exercise: Present what makes MotherDuck and DuckDB different to Scott
+Write your elevator pitch: What is MotherDuck in 2-3 sentences?
+
+
+
+
+
+
+Day 5: The Modern Duck Stack Ecosystem
+Goal: Understand how MotherDuck fits into the broader data ecosystem
+
+
+Core Concepts:
+- MotherDuck's integrations and partnerships
+- The "friendly ecosystem" philosophy
+- Common tool combinations (dbt + MotherDuck, BI tools, data sources)
+
+
+Back to School
+- Read: Data Warehousing How-tos and Our Ecosystem
+- Partner Webinars[m][n]
+- Read: Partners Overview
+- Save/Review: External Facing MotherDuck Integrations Docs
+- Save: *Internal Only* MotherDuck Integrations Status
+
+
+Example Calls & Case Studies:
+
+
+
+
+
+
+Process
+- Read: Selling with Partners[o]
+
+
+
+
+
+
+Questions to Ask CE/AE:
+1. Which integrations are most common we see from customers? What tools do we work best with?
+2. What's the typical "Modern Stack"?
+3. Create 2-3 more questions to ask
+
+
+Exercise: Book time with alliances to review the below.
+
+Map out 3 common data stacks:
+1. Startup stack (e.g., Fivetran → MotherDuck → dbt → Metabase)
+2. Mid-market stack
+3. Enterprise analytics team stack
+
+
+________________
+Week 3: Customer Personas & Sales Skills
+Days 1-2: Know Your Audience
+Goal: Understand who buys MotherDuck and why.
+
+Note: We sell to two primary audiences. Data Engineers working on a Data Warehouse, and Software Engineers, Product, working on a product or Application. 
+
+Each has distinct areas of focus, concern, skill sets. 
+
+However, they share similar characteristics. Engineers can be skeptical, flakey, and prone to working in bursts. They may schedule a call and ghost, get pulled into urgent issues, or disappear for hours or even days while heads-down in a project. 
+
+Reading the room is critical: know when to push, when to pause, and when to provide resources quietly. Build trust by breaking through and listening, asking thoughtful questions, and showing that you understand their world. 
+
+Pay attention and know your shit!  
+
+You can’t fake understanding with this audience. Take the time to learn the technical concepts, workflows, and pain points that matter to them. Engineers respect someone who has clearly done the homework: know the stack, understand data pipelines, and think like they do. 
+
+Lastly, have fun! Read your audience, engage them, relax, and let it go. People buy from people who make them feel good. This is not to say you shouldn’t challenge, push, and drive the deal. But, get on the same side of that table.
+
+
+Core Concepts:
+- MotherDuck ICP (Ideal Customer Profile)
+- Key personas: Data Engineers, Analytics Engineers, Data Analysts, Data Scientists
+- Different use cases by persona and industry
+- Objection Handling Session with Scott
+
+
+Back to School
+- Read: MotherDuck ICP documentation
+- Read: Influencing Software Engineers
+- Read: SV Engineers
+- Read: The Engineering Mindset
+
+Example Calls & Case Studies
+   * [Trunkrs] Replaced costly Redshift setup with serverless architecture  
+   * [FinQore] Migrated from Postgres, launched AI Powered agents using MotherDuck
+   * [DoSomething] - Migrated from Postgres to MotherDuck
+   * [ATM] - Cuts Analytical Costs by 65% while Gaining SQL Expressibility 
+
+
+Exercise: Persona Mapping
+- For each persona, document:
+- Their day-to-day challenges
+- What do they care about (speed? cost? ease of use?)
+- Common objections they might have
+- How MotherDuck solves their problems
+
+
+Industry Use Cases:
+Research and document a use cases for:
+- Logistics/Supply Chain (Trunkrs example)
+- Fintech
+- SaaS/Product Analytics
+- E-commerce
+
+
+
+
+Days 3-4: Discovery & Qualification
+Goal: Learn to ask the right questions and identify good-fit prospects
+
+Note: Discovery is hunting for clues, not giving a sales pitch. Be disarming, loose, and fun to get the answers you need. 
+
+It’s about asking smart questions, listening harder than you talk, and figuring out what actually matters to the person in front of you. Don’t position or pitch until you have a sense of what they are thinking about and why. 
+
+Engineers and technical buyers are unpredictable. They work in bursts, get pulled into fires, and sometimes disappear for a few days. Your discovery is your safety net, it is your map, and will be your guide through the deal. 
+
+Your job is to read the signals, adapt, and stay curious.
+Be direct about what you think matters, be open, and don’t make assumptions. 
+
+
+Core Skills:
+- Running effective discovery calls
+- Qualification frameworks 
+- Identifying pain points that MotherDuck solves
+- When to schedule with CE/AE
+
+
+Back to School
+- Review: Discovery calls (shadow and review through Fathom)
+- Join: All calls that you book + write 3-5 questions you want to review after 
+- Study and Practice: SDR Call Script
+- Practice: Mock call with a peer or record yourself 
+- Read: Sandler Discovery Questions
+- Listen:  You Can’t Teach a Kid to Ride a Bike 
+- Read & Save: Disco Questions / Intro Meeting Template
+- Read: Disco Call Tips & Tricks
+
+
+Example Discovery Calls 
+
+
+
+Exercise: Book time with Scott and review below
+Write 3 different versions of your outreach message:
+1. To a Data Engineer frustrated with Snowflake costs
+2. To a startup CTO building their first data stack
+3. To an Analytics Engineer at a mid-market company
+
+
+Role Play Scenarios
+- Discovery call with an inbound lead (warm)
+- Cold call to a qualified prospect
+- Follow-up call as they near their end of trial with MotherDuck
+
+
+
+
+Day 5: The Sales Cycle & Handoff Process
+Goal: Understand the full customer journey and your role in it
+
+
+Notes: Buyers don’t evaluate solutions for fun. They evaluate to solve real problems and achieve real impact. An organized sales cycle gives them clarity, confidence, and structure. It helps them understand the solution, justify the investment internally, and make decisions efficiently. Our role is to provide that structure, polish, and guidance, so we make the process easy, credible, and impactful for them.
+At the same time, a disciplined process helps us focus on customers with real commercial intent, so our energy goes where it matters most. Every step, from discovery to closing, is designed to ensure that both buyer and seller move forward efficiently, with transparency and trust.
+In short: our clear, structured sales cycle doesn’t just make our lives easier. It makes it easier for our buyers to succeed.
+Core Concepts
+- Typical sales cycle stages for MotherDuck
+- What is a qualified meeting?
+- How to execute a warm handoff to AE/CE
+- How to stay involved post-handoff
+
+
+Activities:
+- Review SQA Doc
+- MotherDuck Sales Stages and Qualification
+- Trial Kickoff Guide 
+- Executive Summary Doc 
+- Pricing Talk Track
+- Shadow as many AE/CE calls as possible
+- Watch To Sell is Human 
+
+Understanding Consumption 
+- Review: Customer 360 Dash
+- Review: AE Terminal & BDR Terminal
+- Review: Quarterly Tracker
+
+Positioning 
+- Practice: MotherDuck Deck
+
+
+MD Pitch
+Short Version
+Long Version
+
+Your Handoff Checklist:
+Before passing to AE/CE, you should aim to gather the following:
+- Their current data stack
+- Primary use case(s)
+- Team size and structure
+- Rough data volume/shape of data 
+- Budget/timeline
+- Key decision makers
+- Specific pain points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+Week 4: Going Live
+Days 1-2: Hands-On with MotherDuck
+Goal: Use the product yourself to build authentic credibility. Understand the user experience for our core use cases, and learn enough SQL to be dangerous.
+
+Note: You can’t sell what you don’t know. The best way to build authentic credibility is to use the product yourself. Dive in, explore the core use cases, and see the experience through your customers’ eyes. 
+By doing this, you’ll not only speak the language of our users, but also develop the insight and intuition that makes every interaction more credible, relevant, and impactful.
+Activities
+- Sign up for a new MotherDuck account
+- Start W3Schools SQL tutorial (basic SELECT, WHERE, JOIN, GROUP BY)
+        - Tip: Test your knowledge through W3 embedded exercises & demo environments
+- Run queries on sample datasets in MotherDuck
+- Test Omni, a business intelligence (BI) tool; they’re our closest partner!
+
+
+
+
+Exercises:
+1. Access a sample dataset on MotherDuck
+2. Run a few analytical queries
+3. Create a simple visualization with Omni (our closest BI partner)
+4. Share your results with the team
+
+
+Follow along!
+Create a new MotherDuck account and join the Omni sandbox organization for access. Contact Garrett O'Brien for an invitation to Omni.
+
+
+[VIDEO]: Intro to MotherDuck UI.
+[VIDEO]: Running your first queries.
+[VIDEO]: Building a simple chart with Omni.
+
+
+Share your experience: 
+- What was intuitive?
+- What was surprisingly fast?
+- How does it compare to what you've heard about other warehouses?
+
+
+
+
+Days 3-4: Pricing & Technical Deep Dives
+Goal: Confidently discuss pricing and handle technical questions
+
+
+Core Learning:
+- MotherDuck's pricing model
+- How to position value vs. cost
+
+
+Resources:
+- Study: Pricing Page
+- Review: How to Cut Cloud Data Warehouse Costs by 70% with DuckDB and MotherDuck
+- ATM.com Case Study
+- Pricing Talk Track 
+- Revisit: Competitive Battle Cards from Week 2
+
+
+
+Common Technical Questions to Prep:
+- "Can MotherDuck handle [X] TB of data?"
+- "How does security work?"
+- "What about data residency/compliance?"
+- "Can we migrate from [competitor]?"
+- "What happens if we outgrow MotherDuck?"
+
+Example Calls & Case Studies
+
+
+
+Process
+
+
+
+
+Exercise:
+Create a one-pager comparing MotherDuck vs. Snowflake for:
+1. 100 GB dataset, moderate queries
+2. 5 TB dataset, heavy usage
+3. Team of 10 analysts vs. team of 100
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 5: Certification & Go-Live
+Goal: Demonstrate readiness and get feedback
+
+
+Final Assessment: Complete the following and review results with Scott.
+- Written Comprehensive
+- Live Demo: Show your manager a 5-minute MotherDuck demo
+- Role Play: Complete 3 scenarios:
+  1. Cold outreach call
+  2. Discovery call with inbound lead
+  3. Handling objection: "We're happy with Competitor XYZ" 
+- Persona Exercise: Present one persona's journey and how you'd engage them
+- Deck Certification: Mock Discovery + Deck 
+
+
+Feedback Session:
+- What went well? 
+- What are weak points, areas for improvement? 
+- Where to focus?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Week 5: Outbound at MotherDuck & Weekly Rhythm
+[p]
+Days 1-3: 
+Goal: Prospecting is the game. Open source gives us a big audience, but it doesn’t hand us pipeline. We have to go out and find the real opportunities.
+
+
+In a consumption model, nothing is “closed”; every customer is just a set of future workloads you haven’t uncovered yet. The only way to stay ahead is to keep talking to people, keep surfacing projects, and keep replacing what you just won. Inbound is nice, community love is nice, but disciplined, everyday prospecting will change the our trajectory. 
+
+
+Core Concepts
+Account Books: Community Signals, Recycling, Look-a-like
+
+Activities
+Sourcing Companies & Contacts
+Leveraging LinkedIn, The MotherDuck Network
+Calling
+Leveraging Events
+
+Resources
+Fanatical Prospecting
+
+Process
+
+Exercises:
+Identify 10 Target Accounts Based on our ICP, outline your approach to engaging them and building Pipeline.
+
+Share your experience: 
+Review your plan with Scott and get started!
+
+
+
+
+
+Appendix: Additional Technical Concepts & Documentation
+
+
+
+WASM Client
+[Blog] Build sub-second data applications with MotherDuck’s Wasm SDK
+[Blog] Hybrid/Dual Execution: Scaling DuckDB to the Cloud
+
+
+MCP
+[Blog] Building an answering machine
+[Blog] Building the MotherDuck Remote MCP Server: A Journey Through Context Engineering and OAuth Proxies
+[Fathom Recording] Client Example - Hamilton Beach (Jan 13, 2026) >> Slack notes
+[Fathom Recording] Client Example - FIDO (Jan 14, 2026)
+
+
+DuckLake
+[Recording | Notes by Gemini] Onboarding session w/ Alex
+[Youtube] Introducing DuckLake by DuckDB Labs founders. 
+Accepting An Opportunity
+
+
+Post-meeting, you just go in to the deal in Hubspot and:
+   * Tag the account as Key, Core, or Starter
+   * Key = one of your top accounts that you will really focus on
+   * Core = the majority of the accounts you will work
+   * Starter = when they will likely only need the free plan or very unlikely to reach $6k of consumption annually
+   * Mark the DEAL STAGE as Qualified or Closed Lost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+[a]event tracker (pre and post even activities)
+product marketing weekly meeting
+how to send swag
+pitch deck
+how to work with Jerel, Carly, Garett
+pre-event briefing
+[b]@hamidreza@motherduck.com to verify
+_Assigned to hamidreza@motherduck.com_
+[c]It doesn’t look like the sales team currently has access to Crossbeam. I’ll plan to look into this in the new year to see whether it makes sense for us, keeping in mind there is a cost associated with it.
+[d]@scott@motherduck.com - added these to Onboarding. is MDW daily or as needed?
+_Assigned to scott@motherduck.com_
+[e]MDW is as needed IMO
+[f]Link doesn't work
+[g]@hsio@motherduck.com Sales Stages?
+[h]Should this be linked?
+[i]@garrett@motherduck.com @hsio@motherduck.com 
+
+
+I am working on crowd sourcing Fathom clips. Could use a hand though. 
+
+
+Looking for examples of the below that we can slot in.
+
+
+Good Discovery
+Good Competitive Comparison
+Good Pricing Talk Track
+Objection Handling
+1-2 Good deals to follow along with.
+1 total reaction
+Hsio Ling Hee reacted with 👀 at 2025-12-10 19:34 PM
+[j]Added new podcast with Jordan
+1 total reaction
+Hsio Ling Hee reacted with 🔥 at 2025-12-19 00:37 AM
+[k]@hsio@motherduck.com
+[l]Recommend Flipping W2/D1-2 with D3-4; Leading with MD Deep Dive and follow the competition
+[m]Do we have a repository? I can organize them if we do.
+[n]@scott@motherduck.com
+[o]missing content
+[p]@clark@motherduck.com @hsio@motherduck.com

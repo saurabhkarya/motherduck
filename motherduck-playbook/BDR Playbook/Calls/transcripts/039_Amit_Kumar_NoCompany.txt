@@ -1,0 +1,32 @@
+Call Title: Call with Amit Kumar
+Company: Unknown
+Contact: Amit Kumar
+BDR: Clark Fischer
+Date: Jan 15, 2026 9:31 AM EST
+Duration: 0:24
+Call Type: Outbound call
+Outcome: NO CONTACT - Audio issues, prospect couldn't hear
+
+Call Notes: None
+
+Summary: Clark Fischer from Mother Duck called Amit Kumar to request feedback on an ebook, but faced technical audio issues. The prospect couldn't hear Clark clearly, preventing effective communication.
+
+Key Notes:
+- Clark initiated the call to gather feedback on an ebook
+- Amit experienced difficulty hearing Clark due to audio issues
+- Technical problems affected the flow of the conversation
+- The call was short and did not cover detailed feedback
+
+---
+
+TRANSCRIPT:
+
+[0:19] Clark Fischer: Hello. Yo, Amit off, this is Clark over at mother duck. I saw you got an ebook. I just wondered if y
+
+[0:21] Amit Kumar: Yes.
+
+[0:24] Amit Kumar: Yeah.
+
+[0:33] Amit Kumar: I cannot hear you your voice, not.
+
+[0:38] Clark Fischer: Wait, give me 1 second, let me try again.

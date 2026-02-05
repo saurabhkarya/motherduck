@@ -1,0 +1,91 @@
+CALL TRANSCRIPT #007
+====================
+
+Contact: Rajat Chelani
+Company: Claritas Rx
+BDR: Ashley Conway
+Date: Nov 24, 2025 2:27 PM EST
+Duration: 1:14
+Call Type: Outbound
+Outcome: DQ - Using and enjoying Snowflake (competitor)
+
+CALL NOTES
+----------
+Note: "Using and enjoying Snowflake - not evaluating others"
+
+SUMMARY (AI Generated)
+----------------------
+Ashley followed up with Rajat after a conference visit, discussing their data warehouse solutions. Rajat's company is using Snowflake for their data warehouse. They are satisfied with Snowflake and not exploring alternative solutions. Rajat mentioned that if any changes occur, they will reach out.
+
+KEY NOTES
+---------
+- Ashley reached out to follow up on a previous interaction at a conference
+- Rajat's company is using Snowflake for their data warehouse
+- They are satisfied with Snowflake and not exploring alternative solutions
+- Rajat mentioned that if any changes occur, they will reach out
+
+TOPICS DISCUSSED
+----------------
+Follow-up and Next Steps:
+- Ashley contacted Rajat after their booth visit at Small Data conference
+- Offered to connect Rajat with a Solutions engineer
+- Rajat indicated that the decision is not solely on him; others within the company are involved
+
+Current Data Warehouse Usage:
+- Rajat's team is currently using Snowflake
+- Not all data is brought into Snowflake as part of their warehouse
+- No plans to evaluate other options currently
+
+Customer Satisfaction and Evaluation:
+- Rajat expressed satisfaction with Snowflake
+- They are not actively seeking alternative data warehousing solutions
+- Any future changes will prompt them to reach out
+
+FULL TRANSCRIPT
+---------------
+[0:09] Rajat Chelani: Hello.
+
+[0:11] Rajat Chelani: Hello.
+
+[0:12] Ashley Conway: Hi, it's Ashley with no. How are you?
+
+[0:15] Rajat Chelani: I'm good, how are you?
+
+[0:17] Ashley Conway: Doing well. Hey, I wanted to follow up on that email, I sent over, I know that you pop by our booth
+
+[0:33] Rajat Chelani: I think it's really not on me. I saw the demo and have told within my company and then maybe if some
+
+[0:49] Ashley Conway: Okay. Yeah, out of curiosity. What are you guys using for your data warehouse today?
+
+[0:54] Rajat Chelani: I currently don't bring everything in those snowflakes as part of our warehouse.
+
+[0:59] Ashley Conway: Okay. Yes. It's currently using Snowflake and do you know if the person responsible on your team is
+
+[1:09] Rajat Chelani: No actually happy with it so that no other options we are currently looking at.
+
+[1:14] Ashley Conway: Okay, well I will let you go. Then I appreciate the transparency. If anything changes you know where
+
+[1:17] Rajat Chelani: Yeah.
+
+[1:20] Rajat Chelani: Thank you.
+
+[1:21] Ashley Conway: All right, thanks, have a good one.
+
+[1:22] Rajat Chelani: Bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Using Snowflake and happy with it (competitor lock-in)
+- Not evaluating other options
+- Decision is not solely on him - needs buy-in from others
+- No pain or need to change
+
+Source: Conference booth visit at Small Data
+
+Playbook Notes:
+- Good discovery question from Ashley about current data warehouse
+- Quick DQ recognition - didn't push when prospect said they're happy
+- Kept door open for future: "If anything changes you know where to find us"
+- Clean, professional exit - didn't waste prospect's time
+- Short call (1:14) shows efficient qualification

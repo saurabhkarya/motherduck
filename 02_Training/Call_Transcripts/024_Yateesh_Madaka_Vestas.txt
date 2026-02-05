@@ -1,0 +1,101 @@
+CALL TRANSCRIPT #024
+====================
+
+Contact: Yateesh Madaka
+Company: Vestas
+BDR: Ashley Conway
+Date: Dec 8, 2025 8:58 AM EST
+Duration: 2:32
+Call Type: Outbound
+Outcome: DQ - Personal project, not work-related
+
+CALL NOTES
+----------
+Note: "personal project-"
+
+SUMMARY (AI Generated)
+----------------------
+Yateesh Madaka discussed his initial trial experience with Mother Duck's data warehouse, focusing on testing a small app and learning the platform. Ashley Conway offered to provide resources and connect him with a Solutions architect to support his efforts.
+
+KEY NOTES
+---------
+- Yateesh is new to data warehousing and has not deployed any applications yet
+- He is currently testing a small project as part of a tutorial
+- Ashley offered to send helpful resources and connect him with a Solutions architect
+- The project is for a personal or public initiative, not a professional deployment
+
+TOPICS DISCUSSED
+----------------
+Trial Experience:
+- Yateesh recently started his trial with Mother Duck
+- He is in the learning phase, testing a small app for practice
+- No deployment or extensive testing has been completed yet
+
+Support Offer:
+- Ashley offered to send resources to assist Yateesh
+- She suggested pairing him with a Solutions architect for guidance
+- Follow-up support is planned to maximize his 21-day trial
+
+Background and Project Scope:
+- Yateesh has no prior experience with data warehouses
+- He is coding in PyCharm and working on a personal/public project
+- The project is unrelated to his employer, Vestas
+
+FULL TRANSCRIPT
+---------------
+[0:05] Yateesh Madaka (IVR): Hi, if you record your name and reason for calling, I'll see if this person is available.
+
+[0:11] Ashley Conway: Ashley bestest.
+
+[0:18] Yateesh Madaka (IVR): Thanks, please. Stay on the line.
+
+[0:28] Yateesh Madaka: Hello.
+
+[0:29] Ashley Conway: Hey, it's he's this is Ashley with Mother. How are you?
+
+[0:35] Ashley Conway: Can you hear me? Hi. It's Ashley with mother duck. I saw U kicked off a trial with us. I wanted to g
+
+[0:37] Yateesh Madaka: Yes.
+
+[0:45] Yateesh Madaka: What?
+
+[0:47] Ashley Conway: Mother duck. It's a data warehouse. Um, do you? Yeah.
+
+[0:50] Yateesh Madaka: Oh okay. Okay yeah I'm just I'm just trying to think so going through a computer I'm going through t
+
+[0:59] Ashley Conway: Okay, cool. What have you been able to test out so far?
+
+[1:05] Yateesh Madaka: nothing much I want to deploy one small app just for the testing purpose and actually I'm still lear
+
+[1:17] Ashley Conway: Okay great. Yeah I see you just picked it off today. So usually we like to you know pair you with a
+
+[1:37] Yateesh Madaka: No, this is the first time and I'm trying something like this. So as of now I'm doing everything lik
+
+[1:56] Ashley Conway: Yeah, so first time working with the data warehouse then is this going to be a something you impleme
+
+[2:05] Yateesh Madaka: It's more of a Boston Public. Nothing to do it. Yeah.
+
+[2:10] Ashley Conway: Okay. I see, would it be helpful if I send over some resources to help? You have success in the tria
+
+[2:17] Yateesh Madaka: Yeah, sure. Why not?
+
+[2:31] Yateesh Madaka: Yeah, sure.
+
+[2:33] Ashley Conway: Okay. Thank you. Have a great day.
+
+[2:34] Yateesh Madaka: Thanks you too. Thanks.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Personal project only ("It's more of a Boston Public. Nothing to do it.")
+- First time using data warehousing
+- Not related to work at Vestas
+- Still learning, no deployment yet
+
+Playbook Notes:
+- Good qualifying question: "Is this going to be something you implement at work?"
+- Offered resources despite DQ to maintain relationship
+- Quick identification of personal project vs work use
+- Professional handling, short efficient call
+

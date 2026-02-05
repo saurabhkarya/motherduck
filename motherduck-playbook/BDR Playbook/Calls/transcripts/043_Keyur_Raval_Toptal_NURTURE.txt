@@ -1,0 +1,120 @@
+Call Title: Call with Keyur Raval
+Company: Toptal (works there, building side project)
+Contact: Keyur Raval
+BDR: Clark Fischer
+Date: Jan 13, 2026 9:14 AM EST
+Duration: 6:52
+Call Type: Outbound call
+Outcome: NURTURE - Early stage indie SaaS builder, startup program potential
+
+Call Notes: None recorded
+
+Summary: Keyur Raval is exploring Mother Duck for managing large stock market data (~12GB), but exceeds the 10GB free plan limit. He's building an indie SaaS product as a side project with no current clients. Clark highlighted the startup program with potential discounts up to 50%. Keyur is in early development, acquiring domain and building dashboard.
+
+Key Notes:
+- Keyur is exploring Mother Duck for stock market data but exceeds 10GB free plan limit
+- The free trial offers unlimited storage for two weeks
+- Keyur is building indie SaaS product, early in development, no current clients
+- Clark highlighted startup program with up to 50% discounts
+- Planning to set up MCP server for natural language querying
+- Currently using VM but facing high costs
+
+---
+
+TRANSCRIPT:
+
+[0:12] Keyur Raval: Hello.
+
+[0:14] Clark Fischer: Hey Cara.
+
+[0:16] Keyur Raval: Yeah.
+
+[0:17] Clark Fischer: This is Clark Fisher. I'm over at I said that you signed up for an account, it was just called out o
+
+[0:29] Keyur Raval: for which
+
+[0:33] Clark Fischer: For mother duck. We're like a day where house built on.
+
+[0:36] Keyur Raval: Oh yeah, oh yeah, yeah, yeah. So basically thing on stock market data, and that's the reason he basi
+
+[1:10] Clark Fischer: Yeah, our free plan is only 10.
+
+[1:14] Keyur Raval: Yeah, yeah. So that's why I signed up and I didn't go like using the product.
+
+[1:24] Clark Fischer: Okay, cool, that makes sense. What do you think you'll continue with instead?
+
+[1:29] Keyur Raval: Yes, can you give me? But it's just that, it's a, it's still on my machine. It's like it's on the VM
+
+[1:40] Clark Fischer: And why were you looking to put it in the cloud? Is it just like kind of ease of use or like, it's a
+
+[1:48] Keyur Raval: Yeah, it's kind. It's is so kind of time doing this using which is, which is like kind of spot insta
+
+[2:12] Clark Fischer: I'm just checking your your account. It looks like your free trial runs for another two weeks or so.
+
+[2:43] Keyur Raval: Yeah, sure, sure. I'll do that. Okay.
+
+[2:45] Clark Fischer: How did you get into? Go ahead.
+
+[2:49] Keyur Raval: yeah, so convicting that I have like 10 GB of the, on my anyway, directly to me or I have to take ou
+
+[3:02] Clark Fischer: You should be able to directly upload it if it's inductee. Be its last time I did it. It was a was a
+
+[3:14] Keyur Raval: Okay, sure sure. I'll try to drive it.
+
+[3:17] Clark Fischer: Is there a, how did you get into this? Kind of project? Are you sort of a data engineer data analyst
+
+[3:30] Keyur Raval: I said I wanted like so. Okay. So like I had offered the product around it so I have been doing some
+
+[4:02] Clark Fischer: Nice. This and this is related to that SAS project, right?
+
+[4:07] Keyur Raval: Yeah. Yeah yeah. Yeah.
+
+[4:08] Clark Fischer: What is the is it kind of hard up?
+
+[4:09] Keyur Raval: so,
+
+[4:13] Keyur Raval: Yeah, I'm planning to build a starter but mostly it would be an indie product, not. Clearly.
+
+[4:22] Clark Fischer: Cool. We have a we have a startup program. If that's something that sounds interesting to you are it
+
+[4:33] Keyur Raval: Okay.
+
+[4:51] Keyur Raval: So currently I have so I'm in the process of buying Main and but, but it's like I can send you the U
+
+[5:05] Clark Fischer: Yeah.
+
+[5:07] Clark Fischer: Go ahead.
+
+[5:22] Clark Fischer: Rocket hyphen scan, hyphen 6.
+
+[5:30] Keyur Raval: Yeah, it's versatile.
+
+[5:35] Clark Fischer: Cool. I'll check it out and I have your, I have your email, have you? How are you thinking about? Do
+
+[5:44] Keyur Raval: No no no no, no, no, no. And I'm still in the process of building.
+
+[5:46] Clark Fischer: It's still early, right?
+
+[5:50] Clark Fischer: We're still, we're still early, right?
+
+[5:52] Keyur Raval: Yeah. We're very early and just process of acquiring the domain and building the payout immigration
+
+[6:05] Clark Fischer: Nice.
+
+[6:07] Clark Fischer: That's great. I'm going to send you actually something that's been helpful a lot for other people in
+
+[6:36] Keyur Raval: Sure, sure. Sure.
+
+[6:37] Clark Fischer: And I have your Gmail 18. Right, cool. Well, look out for an email from me. My name is Clark at home
+
+[6:41] Keyur Raval: Yeah. Yeah.
+
+[6:47] Keyur Raval: Yes.
+
+[6:51] Keyur Raval: Sure, sure. Sure.
+
+[6:53] Clark Fischer: Well, nice to talk to you. Thank you for yeah, thanks for the feedback. I appreciate it. I'll put th
+
+[7:00] Keyur Raval: Sure, perfect. Thank you.
+
+[7:01] Clark Fischer: Talk to you soon. Bye.

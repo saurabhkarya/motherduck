@@ -1,0 +1,108 @@
+﻿Snowflake Competitive Battle Card 
+By: Weyman Cohen
+
+Last Updated: Dec 22th, 2025
+
+
+1. Competitor History & Origin
+* Snowflake was built for a world that never existed.
+* Founded: 2012 - peak “big data” is coming era
+* Assumption was everyone would query petabytes of data daily
+* Reality: majority of queries fit on a single modern server, yet Snowflake forces them through complex, multi-node distributed systems 
+* Why this matters: Snowflake’s architecture bakes in network overhead and cost from problems most teams will never face.
+* MotherDuck POV: We’re built for how data teams actually work in the modern world. Serverless, unique node scaling model and dual execution. 
+2. What to Know 
+Architecture: 
+* Hybrid architecture approach: Combines shared-disk (central data repository accessible to all compute nodes) with shared-nothing (MPP compute clusters that store portions of data locally), delivering both data management simplicity and performance scalability
+* Three-layer structure: Database Storage (optimized columnar format with micro-partitions in cloud storage), Compute (independent virtual warehouses that don't share resources), and Cloud Services (coordinates security, metadata, query optimization, and infrastructure management)
+* Fully managed cloud service: No hardware or software to install/configure, runs exclusively on public cloud infrastructure (AWS, Azure, GCP), with Snowflake handling all maintenance, upgrades, and tuning automatically
+
+
+Pricing Structure
+* Pay per warehouse, per second: All queries, loads, and DML require a running virtual warehouse. You’re billed in Snowflake credits per second (60-second minimum each start).
+* Size = cost multiplier: Warehouse sizes scale from X-Small to 6X-Large, and each size step roughly doubles cost (e.g., X-Small ≈ 1 credit/hr → X-Large ≈ 16 → 5X-Large ≈ 256).
+* Elastic but easy to overspend: Warehouses can be resized and multi-clustered on the fly—great for bursts, but costs rise linearly with size and concurrency, often leading to unpredictable bills at scale.
+
+
+Bottom Line: For 99% of teams not querying petabytes daily, MotherDuck delivers much better price/performance with transparent pricing.
+
+
+Strengths:
+* Multi-petabyte data platforms with heavy governance, data marketplace, or cross-org data sharing requirements
+* Deep ecosystem investment (Snowpark, Streamlit, extensive sharing) where migration costs outweigh benefits
+* Hundreds of concurrent users requiring complex role hierarchies and fine-grained access controls
+* 24/7 enterprise support SLAs and compliance certifications (SOC 2 Type II, HIPAA, etc.)
+
+
+Weaknesses:
+* Runaway costs by design: Accidental retries, bad defaults, and opaque pricing regularly create surprise bills (thousands to tens of thousands)
+* Warehouse sprawl is inevitable: Hundreds of underutilized warehouses, exponential sizing jumps, broken resource monitors, and RBAC chaos create a permanent ops tax
+* Price ≠ performance: Teams report faster queries and $30–40k/year savings after leaving Snowflake. High cost + latency hurts real-time use cases and unit economics
+
+
+4. Why MotherDuck
+1. Cost structure: We charge per query, not per warehouse-hour. For intermittent or ad-hoc analytics, this can be 70-90% cheaper. No paying for idle compute, plus Snowflake = minimum billable unit is a minute, whereas ours is a second
+2. Hybrid execution: Queries run locally in DuckDB (even in-browser) and only use cloud compute when needed- saving time and money
+3. No cold starts: DuckDB's embedded architecture means instant query execution. Snowflake warehouses need to spin up, causing delays and costs
+
+
+
+5. Landmines 
+
+* The Best Tool for the Job Mindset: Teams strategically diversify their data stack, using the right tool for each specific job rather than relying on a single solution for all use cases
+* The Common Migration Pattern: Customers typically start with MotherDuck for customer-facing analytics and reporting alongside Snowflake, then expand to transformation layers as confidence builds—a pragmatic approach that begins with MotherDuck's strengths before broader adoption
+* Quotes from Recurrency Case Study (Pierrick Ganon, VP of Engineering):
+* "Because of the performance, we thought, why not try to shift all Snowflake workloads to MotherDuck? We were able to eliminate it from our stack, saving a good amount of money every year."
+* "What started as a project to replace Postgres for data transformations expanded in scope when the team realized MotherDuck could handle their Snowflake workloads as well."
+* "We picked the tool that would solve our most complicated problem: transforming data slowly without sacrificing too much on the read side. The speed at which MotherDuck worked, the responsiveness, the support - there's been great chemistry between the two companies."
+
+
+6. Objection Handling
+* "Can MotherDuck scale to petabyte-level like Snowflake?"
+   * Built for the 99% of workloads operating at terabyte scale (where most teams actually are). 
+   * Delivers better performance at fraction of the cost for terabyte-scale (or lower) datasets. 
+   * Can query 10s of terabytes at a time; 
+      * DuckLake available for petabyte-level needs.
+* "Snowflake has more integrations and ecosystem"
+   * DuckDB/Motherduck: Rapid innovation velocity with consistent performance improvements. 
+   * Partnership approach works closely with customers to prioritize missing features.
+   * Early adopter advantage: partnering with innovative technology proves strategic over time.
+* "Our team knows Snowflake - migration would be costly"
+   * Speaks standard SQL, dbt works with minimal changes.
+   * Most customers running in days; cost savings justify effort.
+* "We're already committed to Snowflake spend"
+   * Use MotherDuck alongside Snowflake for a hybrid approach that optimizes spend. Move serving-layer/gold-tier analytics, or other smaller and/or strategic workloads over to Motherduck at first. Keep Snowflake for certain workloads while reducing costs elsewhere.
+
+8. Red Flags / When We Lose
+Walk away if they:
+* Actually query multi-petabyte data daily with heavy governance/compliance requirements
+* Deeply invested in Snowflake ecosystem (Snowpark, Streamlit, extensive data sharing across orgs)
+* Need 24/7 support SLAs and enterprise compliance certifications they can't compromise on
+
+
+9. Customer Stories & Fathom
+* Customer Story: DoSomething
+   * Industry: NGO, Non-profit
+   * Size (People): 200
+   * Stack: Postgres, Tableau, dbt, Fivetran
+   * Use Case: IBI
+   * Moved From: Postgres
+   * Competitors: Snowflake
+   * Why MotherDuck: TCO was much better
+   * Short Summary: DoSomething, a non-profit serving 8 million young people, replaced Postgres with MotherDuck after analytical queries were taking all night to run, achieving significantly lower total cost of ownership while enabling non-technical team members to self-serve analytics that previously required data team support.
+   * Quote: MotherDuck’s integration with Tableau Cloud unlocks familiar Business Intelligence at the speed of DuckDB, supercharged by MotherDuck’s powerful cloud technology.
+* Customer Story: Gardyn
+   * Industry: Agriculture, Manufacturing
+   * Size (People): 105
+   * Stack: Azure data lake with parquet and csv, Hashboard, dagster, fivetran, dbt, hex
+   * Use Case: IBI, Pipelines
+   * Moved From: MySQL
+   * Competitors: Snowflake, Databricks, BigQuery
+   * Why MotherDuck: 10x cheaper than others
+   * Short Summary: Gardyn, a smart indoor gardening company, reduced their analytics pipeline from 24+ hours to under one hour by replacing their MySQL-based analytics with MotherDuck, enabling complex analysis across IoT device telemetry, ecommerce, and production data that was previously impossible to wrangle across multiple databases.
+   * Quote: "Before MotherDuck, our daily data pipeline took more than 24 hours to run. Today, it’s less than an hour. Previously, we could only analyze at the monthly level, but MotherDuck's efficient windowing capability computes quickly enough to provide deeper insights into our data."
+ 
+10. External Resources
+1. As the CTO of FourSquare said, Snowflake built their business around a model that profit from compute consumption. Every time you write a suboptimal job, they make more money.
+   1. This is part of the reason Snowflake decided to build a distributed (scale-out) architecture - they knew that using more nodes = more compute, and this inefficiency results in more revenue for them.
+   2. MotherDuck, built on DuckDB’s single-node, serverless scale-up model, takes the opposite approach: we optimize for usage-efficiency and simplicity, not maximizing compute. We don't profit from inefficient compute, so our incentives are aligned with helping you do more with less.

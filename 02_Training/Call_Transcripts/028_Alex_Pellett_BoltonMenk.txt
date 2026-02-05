@@ -1,0 +1,147 @@
+CALL TRANSCRIPT #028
+====================
+
+Contact: Alex Pellett (Charles Pellett in transcript)
+Company: Bolton & Menk
+BDR: Clark Fischer
+Date: Jan 8, 2026 12:30 PM EST
+Duration: 5:11
+Call Type: Outbound
+Outcome: DQ - Not interested
+
+CALL NOTES
+----------
+Note: "Not interested"
+
+SUMMARY (AI Generated)
+----------------------
+Alex Pellett is exploring data science and AI tools related to his work in water and wastewater management. He was experimenting during the holidays but is not actively looking for a data warehouse solution. Clark offered to send resources about MCP server on Claude.
+
+KEY NOTES
+---------
+- Alex is experimenting with AI and data tools, specifically interested in RAG (retrieval-augmented generation)
+- He works as a water and wastewater specialist with experience in data analytics, primarily handling small datasets
+- Clark offered to send a resource about a new feature involving Claude that could streamline RAG data
+- Most of Alex's data processing is in-memory, with datasets typically around 5-10 GB
+- He is exploring deployment options for custom data packages within his organization
+
+TOPICS DISCUSSED
+----------------
+Data Science & AI Exploration:
+- Alex is trying out various AI tools and packages, including RAG databases
+- He is interested in improving code assistant performance and recoding data
+- Clark discussed a new feature involving Claude that could help with RAG workflows
+
+Data Tools & Infrastructure:
+- Alex's datasets are relatively small, mostly in-memory, with the largest around 43 billion observations
+- He currently does not use a dedicated data warehouse, relying on in-memory processing
+- Clark inquired about his current data storage solutions, and Alex indicated no formal warehouse
+
+Project and Future Collaboration:
+- Alex has been experimenting during the holidays and is still exploring deployment options
+- Clark offered to send relevant resources and mentioned potential future support
+- They discussed organizational decision-making processes and deployment considerations
+
+FULL TRANSCRIPT
+---------------
+[0:10] Alex Pellett: Hello. Yeah.
+
+[0:11] Clark Fischer: Hey Alex! Hi! This is Clark over at mother duck.
+
+[0:19] Alex Pellett: Oh, I'm not interested. I was just trying out different things. I'm not, I don't know.
+
+[0:29] Clark Fischer: okay, just just signing up for curiosity, but not
+
+[0:34] Alex Pellett: Yeah, I've never used anything like that. I was just trying to get like an just mess around with a l...
+
+[0:34] Clark Fischer: no.
+
+[0:49] Clark Fischer: Yeah. Okay, man. I, I don't want to bother you if if there's no opportunity here. I just so you're y...
+
+[1:03] Alex Pellett: A little bit. I'm a water and wastewater specialist and I'm kind of a little bit of a data scientist...
+
+[1:17] Clark Fischer: Oh, so you're do it. I guess you must do some kind of like basic analytics or something. And then li...
+
+[1:22] Alex Pellett: Yeah.
+
+[1:26] Alex Pellett: Yeah.
+
+[1:27] Clark Fischer: What do you what do you use that? Got you interested in like Obama and Rag and whatnot.
+
+[1:33] Alex Pellett: I I use our and I was just interested in using a for, you know, to recoding stuff. And so I was look...
+
+[1:57] Alex Pellett: Or yeah, mother duck and make a rag database that. So that the code assistant can like query that wi...
+
+[2:07] Clark Fischer: Okay, that makes and what what? Made it the
+
+[2:12] Clark Fischer: What made it the wrong fit?
+
+[2:15] Alex Pellett: Nothing. Nothing really. I'm just I was just playing around with it over sort of a low during the br...
+
+[2:22] Clark Fischer: Yeah.
+
+[2:26] Clark Fischer: Now you're now you're back in it you know, January 8th. Yeah, I guess just not much time nowadays, r...
+
+[2:37] Alex Pellett: Yeah, yeah. And I mean, I guess I was, I was, you know, looking into this stuff and it just, it wasn...
+
+[2:53] Clark Fischer: Yes.
+
+[3:00] Clark Fischer: You know, maybe did you get the check out we just put out like an mCP, silver on Claude that has bee...
+
+[3:17] Alex Pellett: That sounds interesting.
+
+[3:19] Clark Fischer: That might be good. I could I could send you a link to that. It's kind of low lift and you could jus...
+
+[3:28] Alex Pellett: Okay, yeah, that'd be great.
+
+[3:30] Clark Fischer: Is there any thought about using my other dog? Is just like a normal old like Warehouse. Like, I mea...
+
+[3:42] Alex Pellett: Yeah, I mean, you know, there's a whole like corporate structure above me that, you know, makes the...
+
+[3:52] Clark Fischer: Okay. Okay cool. I'm going to ask you one last question, then I'll send you that e-mail. Let you go.
+
+[4:06] Alex Pellett: Nothing. I mean most of my data sets aren't that big? I mean, I can, I don't know. I have like, my b...
+
+[4:20] Clark Fischer: Okay. So, you know, five five to ten gigs is what that kind of feels like to me.
+
+[4:26] Alex Pellett: Yeah, I guess so. Yeah.
+
+[4:27] Clark Fischer: Okay, okay.
+
+[4:29] Alex Pellett: And most of them are much smaller than that. So it's just you know, are typically just works in memo...
+
+[4:36] Clark Fischer: Yeah, that makes sense and you're doing kind of like imperative kind of just programming over the da...
+
+[4:43] Alex Pellett: yeah, usually
+
+[4:44] Clark Fischer: Instead of using people.
+
+[4:47] Alex Pellett: Instead of using. Yeah, and I make our packages. And then we're looking at ways to, like, deploy tho...
+
+[4:49] Clark Fischer: Yeah.
+
+[5:05] Clark Fischer: Oh, okay, cool. Well, I'll send you that, I'll send you that article over and if there's anything I...
+
+[5:15] Alex Pellett: Excellent, thank you.
+
+[5:16] Clark Fischer: Thank you, buddy, talk to you later, bye-bye.
+
+[5:18] Alex Pellett: All right, bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- "I'm not interested. I was just trying out different things"
+- Small data sets (5-10 GB) - works in-memory
+- Corporate structure controls purchasing decisions
+- Was just experimenting during holidays
+- No formal data warehouse need
+
+Playbook Notes:
+- Good pivot by Clark: Instead of ending call immediately, asked qualifying questions
+- Discovered prospect was exploring RAG/AI use cases
+- Offered relevant content (MCP server on Claude)
+- Good data size qualification question
+- Professional handling - sent resources to maintain relationship
+- Prospect uses R for analytics - different tech stack
+

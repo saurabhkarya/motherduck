@@ -1,0 +1,141 @@
+CALL TRANSCRIPT #032
+====================
+
+Contact: Xhoni Bora and 1 other
+Company: Small Construction Company (no website/LinkedIn)
+BDR: Weyman Cohen
+Date: Dec 3, 2025 5:00 PM EST
+Duration: 8:18
+Call Type: Outbound
+Outcome: DQ - Not a real company
+
+CALL NOTES
+----------
+Note: "not a real company"
+
+SUMMARY (AI Generated)
+----------------------
+The conversation involved Weyman from MotherDuck discussing data warehousing resources with a potential user who downloaded the DuckDB e-book. The user is trying to help a small, non-technical construction company with operational challenges like permit management and scheduling.
+
+KEY NOTES
+---------
+- The user downloaded DuckDB's e-book while studying AWS and Azure for certification
+- They are assisting a small, non-technical construction company with operational challenges
+- The company needs help with permit management, scheduling, and modernizing their digital presence
+- Weyman offered to send architectural diagrams and resources to help build a database system
+- The user is interested in practical examples and tools to visualize and develop their database
+
+TOPICS DISCUSSED
+----------------
+User Background and Intent:
+- The user is studying cloud platforms like AWS and Azure
+- Downloaded DuckDB's e-book for free resources
+- Aims to help a construction company streamline permit and scheduling processes
+- Has limited technical skills and seeks resources to build a relational database
+- Interested in understanding how to integrate data from multiple sources
+
+Construction Company Needs:
+- The company handles permits across different jurisdictions with complex requirements
+- Most employees are field workers and non-technical administrative staff
+- They want to modernize operations, including online presence and digital forms
+- Focused on improving scheduling and permit management as priority areas
+- Business is seasonal, with high activity in fireplace servicing during winter
+
+Resources and Support:
+- The user inquired about examples or templates to build their database
+- Weyman offered to send architectural diagrams showing data warehouse setup
+- The diagrams would illustrate data ingestion and visualization tools
+- The user appreciated the offer and requested further assistance
+- The user mentioned they are busy but eager to explore provided resources
+
+FULL TRANSCRIPT
+---------------
+[0:13] Speaker 2: Hello.
+
+[0:14] Weyman Cohen: This is the other duck noticed that you kind of just kind of curious if you had a chance to take a l...
+
+[0:26] Speaker 2: I'm sorry. You broke up there for a second. Who is this? I'm sorry.
+
+[0:30] Weyman Cohen: Yeah, this is women from Team, I noticed that you downloaded, the duck TV ebook in that Doug duck TV...
+
+[0:45] Speaker 2: Oh wait, I didn't know you guys made phone calls. I thought it was just like an email form kind of t...
+
+[0:51] Weyman Cohen: yeah, I mean
+
+[1:21] Weyman Cohen: Yeah.
+
+[1:26] Weyman Cohen: Yeah, exactly. Right? No, yeah, curious. Do you have like a use case dashboard application? Where yo...
+
+[1:41] Speaker 2: So I'm not like too too familiar. I was like, mostly like looking into I guess like the structures o...
+
+[2:41] Weyman Cohen: Yeah, absolutely. See, a lot of those points that you mentioned like, right up, our alley in that mo...
+
+[3:11] Speaker 2: Yeah. Yeah.
+
+[3:29] Speaker 2: So yeah, they don't have any like, I guess like technical like coders or you know, like Cloud engine...
+
+[4:29] Speaker 2: Now they do like the construction, like the axle, you know, a laborer of it and, you know, they're t...
+
+[5:26] Weyman Cohen: Is the company like big enough to where like they'd have like a LinkedIn or a website that I can che...
+
+[5:32] Speaker 2: I don't think so because that's something that they asked me to build out for them to like, in part...
+
+[5:33] Weyman Cohen: Samples.
+
+[5:38] Weyman Cohen: I'm sorry.
+
+[6:32] Speaker 2: Off.
+
+[6:33] Speaker 2: Thursday.
+
+[6:34] Weyman Cohen: Thank you so much. I appreciate you. Giving me a little, and you know where to reach me. So feel fre...
+
+[6:43] Speaker 2: Yeah, I'm assuming you guys have. I didn't take too much of a look yet because you know, like I said...
+
+[7:15] Weyman Cohen: Yeah. So like for instance one thing I can do is I can send you an architectural diagram of showing...
+
+[7:37] Speaker 2: Oh yeah. I mean that's something that you can do that. That'd be. That'd be amazing. Yeah.
+
+[7:41] Weyman Cohen: Perfect, I'll send it right now.
+
+[7:42] Speaker 2: Yeah. Yeah. I appreciate that. Yeah, thank you.
+
+[7:46] Weyman Cohen: Yes.
+
+[7:48] Speaker 2: Yep, that's the one.
+
+[7:51] Weyman Cohen: Well, let me know.
+
+[7:55] Weyman Cohen: Scott, the email I just sent it.
+
+[7:58] Speaker 2: Okay.
+
+[8:06] Speaker 2: I'm sorry, I'm driving. So I think it might be me but like, you keep breaking up here.
+
+[8:08] Weyman Cohen: Oh no worries. Well I think it should be in your inbox whenever you get to where you need. It gets h...
+
+[8:14] Speaker 2: Yeah.
+
+[8:20] Speaker 2: All right, man, thank you. Appreciate it.
+
+[8:22] Weyman Cohen: Thank you. Have a good night.
+
+[8:23] Speaker 2: Yeah, I'm doing. Okay, bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Helping friend's construction company (not decision maker)
+- Company too small - no website or LinkedIn
+- User is learning/studying, not professional data engineer
+- Company has no technical staff
+- Downloaded ebook just for free resources while studying
+
+Playbook Notes:
+- Good qualifying question: "Is the company big enough to have a LinkedIn or website?"
+- Identified quickly this wasn't a real opportunity
+- Still provided value (architectural diagrams) to maintain relationship
+- User was driving during call, poor connection
+- Prospect was learning AWS/Azure certifications, exploring free resources
+- Long call (8:18) but good rapport building despite DQ
+

@@ -1,0 +1,199 @@
+CALL TRANSCRIPT #019
+====================
+
+Contact: Vishnu Kchitti
+Company: Unknown (Uses Microsoft Fabric at work)
+BDR: Clark Fischer
+Date: Nov 3, 2025 5:03 PM EST
+Duration: 6:44
+Call Type: Outbound
+Outcome: DQ - Hobby use (Polymarket betting), work uses Fabric
+
+CALL NOTES
+----------
+Note: "Really nice guy! BUT just using us as a hobby for poly market"
+Note: "Using Fabric at work -- First DWH"
+
+SUMMARY (AI Generated)
+----------------------
+Vishnu Kchitti discussed using Mother Duck for personal data projects, including market data analysis for Polymarket betting. He finds Mother Duck more user-friendly and ergonomic compared to AWS and Microsoft Fabric. At work, they're constrained and moving to Fabric as their first data warehouse.
+
+KEY NOTES
+---------
+- Vishnu is testing Mother Duck for personal projects involving market data and betting analysis
+- He finds Mother Duck more user-friendly and ergonomic compared to AWS and Microsoft Fabric
+- He uses Mother Duck to manage data for local projects and experiments with data loading workflows
+- There is interest in adding more data loading features for corporate use
+- Organizational constraints limit the integration of additional vendors - using Fabric at work
+
+TOPICS DISCUSSED
+----------------
+Personal Data Projects and Market Analysis:
+- Vishnu uses Mother Duck for analyzing Polymarket data, including betting on U.S. politics
+- He believes betting on certain political outcomes can be profitable based on market predictions
+- Using DuckDB locally, wanted cloud version for persistence
+
+Data Warehousing and Platform Preferences:
+- Comparison between Mother Duck, AWS, BigQuery, and Microsoft Fabric
+- Vishnu prefers Mother Duck for its simplicity and ergonomic SQL interface
+- Using dbt adapter with Mother Duck
+
+Data Loading and Integration:
+- Mentioned using files, SQL, and tools like dbt for data ingestion
+- Interested in more data loading features for corporate workflows
+- Discussed potential integration of Mother Duck with other tools and workflows
+
+Organizational Constraints:
+- Work is moving to Fabric as their first DWH
+- Can't add more vendors at work
+- Fabric typically chosen by orgs without existing DWH knowledge
+
+FULL TRANSCRIPT
+---------------
+[0:20] Clark Fischer: Hello.
+
+[0:24] Clark Fischer: Hello.
+
+[0:28] Vishnu Kchitti: Hello. Who is this?
+
+[0:29] Clark Fischer: Hey, is this this to
+
+[0:31] Vishnu Kchitti: Yes, speaking.
+
+[0:32] Clark Fischer: Hey, this is Clark from other duck. I saw you signed up. I just wondered if you had any feedback or
+
+[0:40] Vishnu Kchitti: Oh yeah. No. I'm just like testing this out for my personal project. Yeah.
+
+[0:44] Clark Fischer: Oh, really cool. What is there are you building something cool or something? Lame.
+
+[0:49] Vishnu Kchitti: I'm just doing some like, you know, Polly Market.
+
+[0:54] Clark Fischer: Are you are you like, gambling?
+
+[0:57] Vishnu Kchitti: Well, I just like wanted to analyze the market data. Yeah.
+
+[1:01] Clark Fischer: Okay, nice. Nice. Do you have any you have any hot hot hot tips for what to what to bet on?
+
+[1:08] Vishnu Kchitti: I mean like us politics like you can make like free money. I mean like yeah, definitely. It's like i
+
+[1:13] Clark Fischer: Really.
+
+[1:22] Clark Fischer: Are you you thinking about like maybe the the New York mayor mayor's race? Oh, you're going to get t
+
+[1:28] Vishnu Kchitti: Yeah, yeah, I mean it's pretty much set. We pretty much snow what's going to happen so, you know, yo
+
+[1:34] Clark Fischer: Get that, get that Cuomo money. If if you believe the market
+
+[1:36] Vishnu Kchitti: Yeah. No, no, it's not. He's at 84%.
+
+[1:39] Clark Fischer: That's cool. How's the?
+
+[1:42] Clark Fischer: I know. Well, you get the people who, who bet on Cuomo you get there. You could write, how's it? How
+
+[1:46] Vishnu Kchitti: Oh yeah, yeah.
+
+[1:50] Vishnu Kchitti: This is pretty good. Yeah, it's like pretty nice using it cuz I used up TV for local so I'm like, I
+
+[2:03] Clark Fischer: Oh yeah, that makes sense. Is there. Why did you reach for? So you reached for mother. Because of wa
+
+[2:05] Vishnu Kchitti: Yeah.
+
+[2:15] Vishnu Kchitti: No. I mean people use like AWS just raw or just raw bigquery so like instead of doing it raw and lik
+
+[2:21] Clark Fischer: Yeah.
+
+[2:34] Clark Fischer: Yep. Okay cool. Well, thank you for the
+
+[2:39] Vishnu Kchitti: Yeah, I guess if you had more, if you had more like data loading stuff, that would be cool to like,
+
+[2:49] Clark Fischer: yeah.
+
+[3:05] Clark Fischer: Yeah.
+
+[3:19] Clark Fischer: Yeah, that makes sense. Are you so, yeah, I think are you like a data engineer data and not? That's
+
+[3:20] Vishnu Kchitti: Yeah.
+
+[3:25] Vishnu Kchitti: Yeah. Yeah.
+
+[3:35] Vishnu Kchitti: Yeah.
+
+[3:40] Vishnu Kchitti: Yeah, as well as like the the DBT adapter. That was pretty helpful too.
+
+[3:46] Clark Fischer: for the data loading is that like to feed data into it from DVT and out of it into Power, bi
+
+[3:54] Vishnu Kchitti: No, I meant more. So like like I guess like you can just kind of read from like files or read from a
+
+[4:06] Clark Fischer: Yeah.
+
+[4:12] Clark Fischer: Yeah, you can always, you can always add more stuff. You know, I mean it makes sense, was there any
+
+[4:16] Vishnu Kchitti: Yeah. Yeah.
+
+[4:25] Vishnu Kchitti: I mean like not really because like we're pretty constrained and already going to fabric like we wan
+
+[4:37] Clark Fischer: Yeah. Oh my God I can I can imagine I can imagine that's what I hear that for fabric all the time. I
+
+[4:45] Vishnu Kchitti: it's cuz like everyone who's moving to fabric is someone who has like, they don't have a data wareho
+
+[4:52] Clark Fischer: Right. Yeah, I think that's kind of those. Like, I mean, I do this all day. So like I hear a lot of
+
+[5:09] Vishnu Kchitti: Yeah. Yeah.
+
+[5:17] Vishnu Kchitti: Yeah.
+
+[5:25] Vishnu Kchitti: Yeah. Yeah.
+
+[5:30] Vishnu Kchitti: Yeah, did you reach out to me on Wednesday and I think? Oh yeah, I think, yeah, I think I saw it. I
+
+[5:32] Clark Fischer: I think I did, I think I connected with you.
+
+[5:38] Clark Fischer: No problem. You were busy busy, making the bets again that money.
+
+[6:03] Clark Fischer: Yeah.
+
+[6:12] Clark Fischer: Oh my God, that's crazy.
+
+[6:17] Clark Fischer: Yeah.
+
+[6:28] Clark Fischer: Yeah that makes sense. Okay well that's pretty funny that's cool. I don't want to take up too much o
+
+[6:29] Vishnu Kchitti: Yeah.
+
+[6:31] Vishnu Kchitti: Yeah.
+
+[6:36] Vishnu Kchitti: Yeah. Yeah.
+
+[6:37] Clark Fischer: So I'm officially digging into your free time. So sorry about that. And this the Sun is setting now,
+
+[6:41] Vishnu Kchitti: No. I mean I was just working anyways. Yeah.
+
+[6:46] Vishnu Kchitti: Yeah. Yeah. I mean hopefully I'll hopefully we'll once I schedule this up will be using will be in t
+
+[6:54] Clark Fischer: Yeah, feel free to feel free to reach out. Yeah, yeah. Anyway, thank you. Goodnight.
+
+[6:59] Vishnu Kchitti: Cool. All right, take care of it.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Personal project only (Polymarket betting analysis)
+- Work is locked into Fabric (can't add vendors)
+- First DWH at work - no existing data warehouse knowledge
+- No professional use case for MotherDuck
+
+Product Feedback:
+- Would like more data loading features
+- dbt adapter was helpful
+- Likes ergonomic SQL interface vs raw AWS/BigQuery
+
+Competitive Intel:
+- Companies moving to Fabric often have no existing DWH
+- Fabric adoption driven by Microsoft lock-in
+
+Playbook Notes:
+- Good rapport building: "Do you have any hot tips for what to bet on?"
+- Fun conversation while still qualifying
+- Asked about work use case to find potential opportunity
+- Identified Fabric lock-in as blocker
+- Clark's insight: "everyone who's moving to fabric doesn't have a data warehouse"

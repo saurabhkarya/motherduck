@@ -1,0 +1,109 @@
+CALL TRANSCRIPT #023
+====================
+
+Contact: Mohith Akash
+Company: Unknown (Personal Project)
+BDR: Ashley Conway
+Date: Dec 4, 2025 12:14 PM EST
+Duration: 3:45
+Call Type: Outbound
+Outcome: DQ - Personal project, solo work
+
+CALL NOTES
+----------
+Note: "personal project"
+
+SUMMARY (AI Generated)
+----------------------
+Ashley Conway and Mohith Akash discussed Mohith's personal project using language models to gather news data. The project is for personal productivity, not team-based. Ashley offered to provide resources and add Mohith to a community Slack for collaboration.
+
+KEY NOTES
+---------
+- Mohith is developing a news data gathering application with AI, working solo for personal productivity
+- Ashley offered to provide resources and add Mohith to a community Slack for collaboration
+- The conversation highlighted challenges in finding quality online data and the potential for community support
+
+TOPICS DISCUSSED
+----------------
+Personal Project Overview:
+- Mohith is building an application to collect real-time news events using AI
+- The project is for personal use and productivity, not team-based
+- He is currently working on data gathering and background integration
+
+Community Support:
+- Ashley offered to send resources to help Mohith continue his project
+- She proposed adding him to a community Slack to connect with others and share insights
+- Mohith expressed interest in more information due to difficulty finding quality data online
+
+Data Gathering Challenges:
+- Mohith mentioned challenges in sourcing high-quality data from online sources
+- He is seeking additional information and community support to improve his project
+
+FULL TRANSCRIPT
+---------------
+[0:20] Ashley Conway: Hello. Is this Ashley?
+
+[0:24] Mohith Akash: Hello.
+
+[0:25] Ashley Conway: I believe it's Ashley. We were just chatting over email. I figured it might be easier. Just continue
+
+[0:33] Mohith Akash: Yeah, I just need to get the car or something.
+
+[0:41] Ashley Conway: Oh, sorry about that. Yeah, it's just me from other duck. Like I said, we were just chatting over. E
+
+[1:05] Mohith Akash: No, I'm just doing with the help of language models.
+
+[1:11] Mohith Akash: Play port for you, but from me.
+
+[1:15] Ashley Conway: Yeah, interesting. So when the AI Bots answers the questions is it running the queries across the fu
+
+[1:26] Mohith Akash: Yeah, it's actually runs the data through the day and if you have, what are the events happening now
+
+[1:48] Ashley Conway: Yes.
+
+[1:53] Ashley Conway: Yeah, that that's really cool and sorry I missed it when you mentioned whether this is just somethin
+
+[2:09] Mohith Akash: Yeah, it it is so low. I'm not actually it's just like for personal productivity.
+
+[2:21] Ashley Conway: Oh, okay. Got it.
+
+[2:22] Mohith Akash: I'll tell you again after I. Can you get background? I'm just trying to enter into this data backgro
+
+[2:33] Mohith Akash: So since I had some gas bills and making a project to make up for it and set up line for those outsi
+
+[2:33] Ashley Conway: Thanks.
+
+[2:41] Ashley Conway: Okay yeah, no thanks for sharing that. That, that sounds really cool. In terms of the personal proje
+
+[3:04] Mohith Akash: Pardon, I didn't hear what you said at the end.
+
+[3:08] Ashley Conway: Oh the email that I have here. I'd love to send you an invite to the community slack so you can ask
+
+[3:20] Mohith Akash: Yeah, sure because I didn't find much data about something in the YouTube video low-quality, so I th
+
+[3:21] Ashley Conway: Okay, cool.
+
+[3:37] Ashley Conway: Yeah, definitely. And that way you can stay connected to others that are either in trial or current
+
+[3:51] Mohith Akash: Sure, thank you.
+
+[3:53] Ashley Conway: All right, well, thanks for chatting today and I'll get you an invite shortly.
+
+[3:59] Mohith Akash: Sure, thank you.
+
+[4:00] Ashley Conway: Okay. Thanks. Bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Personal project only ("just like for personal productivity")
+- Working solo, not team-based
+- Not a professional use case
+
+Playbook Notes:
+- Good probing: Asked about whether solo or team
+- Nice pivot to community value when DQ became clear
+- Offered Slack community invite to maintain relationship
+- Professional handling of personal project user
+- Kept door open for future engagement
+

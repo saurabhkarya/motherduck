@@ -1,0 +1,72 @@
+CALL TRANSCRIPT: Call with George Cosio
+========================================
+Company: Splunk/Cisco
+Deal: None
+Date: Dec 15, 2025 4:37 PM EST
+BDR: Clark Fischer
+Duration: 21:10
+Outcome: DISQUALIFIED - Personal project, not business use case
+
+CALL NOTES: "YAPPER!!!"
+
+SUMMARY:
+George Cosio, a sales professional, is actively exploring generative AI through a professional course at MIT, discussing its potential for automation and productivity. He emphasizes the importance of understanding AI fundamentals to leverage its full benefits in business and personal projects.
+
+KEY NOTES:
+- George is taking an MIT course to deepen his understanding of generative AI and its applications.
+- He believes AI will significantly impact organizational productivity and operational efficiency.
+- He is working on personal AI projects, including an options trading app, to apply his knowledge.
+- George highlights the growing adoption and hype around AI tools, predicting rapid growth by 2026.
+- He advocates for increased awareness and education to accelerate AI adoption across industries.
+
+DISQUALIFICATION REASON:
+- Personal learning/education use case, not business application
+- Works in sales, exploring DuckDB for personal AI projects
+- No immediate business need or budget
+
+TRANSCRIPT EXCERPTS:
+--------------------
+
+[0:04] George Cosio: Hi, if you record your name and reason for calling, I'll see if this person is available.
+
+[0:10] Clark Fischer: Hey, George. This is Clark over at MotherDuck.
+
+[0:36] George Cosio: Hey Clark. How are you?
+
+[0:48] Clark Fischer: Oh, what I saw you signed up for mother. I just wanted to know what you were working on and if you had any questions.
+
+[0:55] George Cosio: None at all yet, I'm I'm a student. I'm taking some generative AI classes and I'm basically trying to learn...
+
+[1:07] Clark Fischer: Oh, that's awesome. Is it kind of like a final project?
+
+[1:11] George Cosio: No no no no this is me doing my own Discovery. I'm attending a professional education program at MIT.
+
+[1:37] Clark Fischer: Do you work in data now?
+
+[1:40] George Cosio: No, I work in sales so I work for a company called Splunk.
+
+[1:42] Clark Fischer: Oh cool. No wonder you picked up the cold call.
+
+[18:58] Clark Fischer: Yeah, yeah, it's a lot easier. We, you know, we've been on the phone for 20 minutes and it's been a great conversation...
+
+[20:59] Clark Fischer: No, yeah, I'm ready for it. I'm ready for it. Well, I guess, you know, enjoy the last two minutes of your day.
+
+[21:08] George Cosio: You got it. Thanks for that.
+
+[21:09] Clark Fischer: Thank you. George bye-bye.
+
+========================================
+KEY LEARNINGS FROM THIS CALL:
+========================================
+
+1. DISQUALIFICATION SIGNAL: "I'm a student" / "I work in sales" + "personal AI projects"
+
+2. THIS CALL SHOULD HAVE BEEN SHORTER: 21 minutes is too long for a disqualified prospect
+
+3. QUALIFYING QUESTION THAT WORKED: "Do you work in data now?" - Revealed immediately this wasn't a fit
+
+4. NOTE FOR FUTURE: When someone says "I'm a student" or mentions personal projects without business context, qualify quickly:
+   - "Is this for a company use case or personal exploration?"
+   - "Who would be using this at your organization?"
+
+5. STILL VALUABLE: The prospect picked up because he works in sales - shows cold calling works on salespeople!

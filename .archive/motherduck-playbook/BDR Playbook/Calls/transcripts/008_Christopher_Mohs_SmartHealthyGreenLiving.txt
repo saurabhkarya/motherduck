@@ -1,0 +1,111 @@
+CALL TRANSCRIPT #008
+====================
+
+Contact: Christopher Mohs
+Company: Smart Healthy Green Living
+BDR: Weyman Cohen
+Date: Jan 6, 2026 2:34 PM EST
+Duration: 4:13
+Call Type: Outbound
+Outcome: DQ - too small (2 GB, 2 employee company, monthly batch uploads)
+
+CALL NOTES
+----------
+Note: "use case only 2 GB and monthly batch uploads. 2 employee company. too small."
+
+SUMMARY (AI Generated)
+----------------------
+Christopher Mohs discussed his challenges with data management and lack of coding skills, while Weyman introduced the MCP server feature for natural language data queries. Christopher handles about 3 GB of data monthly with around 10 million lines. He performs batch uploads at the end of each month for year-end reporting. He finds current tools like Google Analytics and Excel clunky for large datasets.
+
+KEY NOTES
+---------
+- Christopher handles about 3 GB of data monthly with around 10 million lines
+- He performs batch uploads at the end of each month for year-end reporting
+- He finds current tools like Google Analytics and Excel clunky for large datasets
+- Weyman introduced the MCP server feature for natural language data queries
+
+TOPICS DISCUSSED
+----------------
+Data Management Challenges:
+- Uses Google Analytics for large CSV uploads but finds it cumbersome
+- Lacks coding skills, making SQL-based tools difficult to use
+- Performs batch uploads for reporting purposes, not real-time data access
+
+Introduction of MCP Server Feature:
+- Weyman explained the new MCP server that allows querying data in natural language
+- The feature aims to reduce complexity for users without coding experience
+- Christopher plans to review the feature later in the week
+
+Data Volumes and Usage:
+- Handles approximately 3 GB of data per month, about 10 million lines
+- Data is uploaded in batches at month-end for reporting
+- Interested in potential real-time data connections, but current needs are batch-based
+
+FULL TRANSCRIPT
+---------------
+[0:02] Christopher Mohs: Hi, if you record your name and reason for calling, I'll see if this person is available.
+
+[0:09] Weyman Cohen: Mother duck data warehouse.
+
+[0:17] Christopher Mohs: Thanks Mother. Please. Stay on the line.
+
+[0:23] Christopher Mohs: Hello, this is Christopher.
+
+[0:25] Weyman Cohen: Hi, Chris. This is William in from mother duck data warehouse. Notice you signed up for the platform
+
+[0:36] Christopher Mohs: Yeah, I was looking at something to be like a easy drag-and-drop alternative gazelle whole analytics
+
+[0:55] Weyman Cohen: Okay, got it. And then did you say that the main reason for Banning it was you find another solution
+
+[1:06] Christopher Mohs: Well, I'm using analytics at the moment to upload large CSV files that I can't pivot table in Excel
+
+[1:45] Weyman Cohen: It does make sense actually it is kind of timely that I'm calling because we actually just dropped a
+
+[2:14] Christopher Mohs: Okay, let me I got email from you. So let me loop back around on that later this week. Right now I'm
+
+[2:29] Weyman Cohen: Absolutely, no. Yeah, no worries. And no need to tie anything down right now. I understand it's, you
+
+[2:51] Christopher Mohs: Oh, it's usually there about, let's see here. So in a month, we have a serious would be about 30 tim
+
+[3:09] Weyman Cohen: Three. Okay, about three weeks.
+
+[3:11] Christopher Mohs: Yeah, it's usually about, it's usually about 10 million lines of data.
+
+[3:12] Weyman Cohen: Okay, great. And then
+
+[3:16] Weyman Cohen: 10 million lines. Okay, got it. And then, do you need that in real time? Or is that like more like a
+
+[3:24] Christopher Mohs: It's a batch upload thing that I do at the end of the month to get my year-end reporting. So I can p
+
+[3:28] Weyman Cohen: Okay.
+
+[3:49] Weyman Cohen: Okay, I got it. Yeah.
+
+[3:51] Weyman Cohen: Regarding yeah, feel free to check back with the emails. Check out the MCPE server and do a little d
+
+[4:09] Christopher Mohs: All right, sounds good. Perfect, thank you so much.
+
+[4:11] Weyman Cohen: Thank you. Have a good one.
+
+[4:13] Christopher Mohs: All right, bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Very small company (2 employees)
+- Low data volume (~3 GB monthly, 10 million lines)
+- Batch uploads only (monthly, end-of-month reporting)
+- No real-time data needs
+- Lacks coding skills - looking for drag-and-drop solution
+- Currently using Google Analytics + Excel
+
+Playbook Notes:
+- Good qualification questions from Weyman about data volume and frequency
+- Asked about real-time vs batch needs - important qualification question
+- Introduced MCP server feature (natural language queries) as potential fit for non-technical user
+- Kept conversation brief once DQ signals were clear
+- Left door open for future contact
+
+Key Discovery Questions Used:
+- "How much data are you working with?"
+- "Do you need that in real time? Or is that more like a batch upload?"

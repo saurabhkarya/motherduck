@@ -1,0 +1,137 @@
+CALL TRANSCRIPT #017
+====================
+
+Contact: Sanjay Kumar
+Company: Loylty (Loyalty application company)
+BDR: Ashley Conway
+Date: Dec 5, 2025 10:18 AM EST
+Duration: 3:11
+Call Type: Outbound
+Outcome: NURTURE - Evaluating, will check with team, prefers email
+
+CALL NOTES
+----------
+Note: sanjaykumar@loylty.com
+
+SUMMARY (AI Generated)
+----------------------
+Ashley from Mother Duck contacted Sanjay Kumar to discuss his trial of their data warehouse application. Sanjay is unsure if he needs the application but will consider it after team evaluation. He prefers communication via email over phone calls and will follow up once he has more clarity from his team.
+
+KEY NOTES
+---------
+- Ashley reached out to gather feedback on Sanjay's experience with Mother Duck
+- Sanjay is unsure if he needs the application but will consider it after team evaluation
+- He prefers communication via email over phone calls
+- Sanjay will follow up once he has more clarity from his team
+- The conversation was focused on understanding the use case for their loyalty application
+
+TOPICS DISCUSSED
+----------------
+Trial Feedback:
+- Ashley checked on Sanjay's experience with the Mother Duck trial
+- Sanjay is still evaluating whether the application meets his needs
+- He plans to consult with his team before making further decisions
+
+Application Evaluation:
+- Sanjay is testing multiple applications and is uncertain about the specific requirements
+- He mentioned the possibility of reaching out via email if he finds the application useful
+- The discussion included potential use cases related to dashboards and powering applications
+
+Communication Preferences:
+- Sanjay prefers email communication over phone calls
+- Ashley confirmed she would follow up via email and LinkedIn
+- Sanjay indicated he may not be available for calls due to his work setup
+
+Next Steps:
+- Sanjay will discuss with his team and determine if further engagement is needed
+- Ashley offered to connect Sanjay with a Solutions Architect if necessary
+- The conversation included scheduling considerations, with Sanjay favoring email follow-up
+
+FULL TRANSCRIPT
+---------------
+[0:18] Sanjay Kumar: Hello.
+
+[0:19] Ashley Conway: Hey Santa it's Ashley with Mother. How are you?
+
+[0:23] Sanjay Kumar: Hello. Who is this?
+
+[0:24] Ashley Conway: Ashley with mother duck. I saw U kicked off a trial with us. So I wanted to give you a call and see
+
+[0:31] Sanjay Kumar: Okay. Rick application are you talking about? Because I've been trying a lot of applications which a
+
+[0:37] Ashley Conway: Oh yeah, sure, no problem. Mother duck is a data warehouse. Does that sound familiar?
+
+[0:41] Sanjay Kumar: oh, I think I remember that but I'm not entirely. If I have any need, I will just reach your custome
+
+[0:52] Ashley Conway: Yeah, I was just calling to see what you were were testing out with mother.
+
+[0:57] Sanjay Kumar: Yeah, so I will, I will look into that, I think if if I find it useful, possibly, I will get back to
+
+[1:05] Ashley Conway: Yeah, no problem. I was just calling to get your feedback and better understand what you were kind o
+
+[1:13] Sanjay Kumar: Yes, I actually bought things that good not good.
+
+[1:24] Ashley Conway: Sorry. I am taking up a little bit. What was that? Okay, okay, okay, great. Is there a specific like
+
+[1:24] Sanjay Kumar: That makes sense.
+
+[1:27] Sanjay Kumar: So I'm doing I have asked my team to look into that and if they have anything, if they have anything
+
+[1:43] Sanjay Kumar: I still have to go back to my team members and ask you to say because we have a large company and we
+
+[1:58] Ashley Conway: Okay. Yeah. And is there a better person? I should connect with then?
+
+[2:04] Sanjay Kumar: Maybe I will have to check with the thing because there's a large team message. So I will have to ge
+
+[2:14] Ashley Conway: Okay. Yeah and and is this for loyalty?
+
+[2:18] Sanjay Kumar: Yes, that's correct.
+
+[2:19] Ashley Conway: Okay, great like I said, would love to better understand the use case and potentially pair you with
+
+[2:34] Sanjay Kumar: Thank you.
+
+[2:41] Sanjay Kumar: Is it, is it possible to communicate over email? Because that will be both comfortable to me. Becaus
+
+[2:48] Ashley Conway: Sure.
+
+[3:02] Ashley Conway: Yeah. What's the best email to reach you at?
+
+[3:05] Sanjay Kumar: It's Sanjay. Kumar k.
+
+[3:09] Ashley Conway: Okay, and the kuma.
+
+[3:15] Sanjay Kumar: Yep, thank you.
+
+[3:16] Ashley Conway: Okay, I will follow up there and I think we are connected on LinkedIn as well as. So I'll go ahead a
+
+[3:25] Sanjay Kumar: Thank you so much.
+
+[3:25] Ashley Conway: I think Sunday.
+
+OPPORTUNITY ANALYSIS
+--------------------
+Potential Signals:
+- Large company ("we have a large company")
+- Has a team evaluating solutions
+- Looking at multiple applications (actively evaluating)
+- Company: Loylty (loyalty application)
+
+Blockers:
+- Not sure of specific need yet
+- Needs team buy-in
+- Prefers email over calls (harder to reach)
+- Testing multiple applications
+
+Playbook Notes:
+- Good clarifying question: "What application are you talking about?" - shows prospect is testing many tools
+- Asked for better contact: "Is there a better person I should connect with?"
+- Confirmed company/use case: "Is this for loyalty?"
+- Offered SA pairing for deeper technical discussion
+- Adapted to prospect preference (email over phone)
+- Connected on LinkedIn as backup channel
+
+Next Steps:
+- Follow up via email
+- Connect on LinkedIn
+- Wait for team evaluation feedback

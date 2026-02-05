@@ -1,0 +1,98 @@
+Call Title: Call with Praveen (Speaker 2)
+Company: Unknown (Fishbowl mentioned)
+Contact: Praveen
+BDR: Clark Fischer
+Date: Jan 13, 2026 3:07 PM EST
+Duration: 4:43
+Call Type: Outbound call
+Outcome: NURTURE - Already committed to Databricks, follow-up meeting scheduled for knowledge sharing
+
+Call Notes: None recorded
+
+Summary: Clark Fischer from Mother Duck discussed DuckDB as a cost-effective alternative to Databricks, but Praveen's team is moving from Big Data (Hadoop) to Databricks mainly for cost and speed reasons. The current decision is already made at the corporate level, with no immediate plans to change. A follow-up meeting for knowledge sharing was scheduled for next week.
+
+Key Notes:
+- Clark introduced DuckDB as a cheaper, simpler alternative to Databricks
+- Praveen's team is moving from Big Data (Hadoop) to Databricks for cost efficiency
+- Corporate-level decision already made, no immediate plans to change
+- Follow-up meeting scheduled for next week for knowledge sharing
+
+---
+
+TRANSCRIPT:
+
+[0:18] Clark Fischer: Hey Praveen.
+
+[0:20] Speaker 2 (Praveen): Yep.
+
+[0:21] Clark Fischer: How's it going? This is Clark. I'm from a company over at mother duck. I saw that you downloaded the
+
+[0:26] Speaker 2 (Praveen): Okay.
+
+[0:33] Speaker 2 (Praveen): Yeah, I think it's been long time yet.
+
+[0:36] Clark Fischer: And I I just wondered, if you had 45 seconds, I could explain why I've called you specifically. And
+
+[0:47] Clark Fischer: You work at a fishbowl, right?
+
+[0:51] Speaker 2 (Praveen): All right, look at things. It
+
+[0:53] Clark Fischer: Oh, okay, that makes sense. We've we're, we're basically the first players in the data space to reco
+
+[1:40] Speaker 2 (Praveen): Not really, we had moving away from Big Data to data breaks in Keizer.
+
+[1:49] Clark Fischer: From from bigquery to fix, right?
+
+[1:52] Speaker 2 (Praveen): Big Data like a slow data?
+
+[1:55] Clark Fischer: Oh, cool. And what? What prompted the change.
+
+[1:59] Speaker 2 (Praveen): I think mostly cost cost effective and
+
+[2:04] Speaker 2 (Praveen): the brakes is more faster compared to Big Data Hadoop.
+
+[2:08] Clark Fischer: Yeah, big universe is much faster. The only thing that I normally see with people who are using data
+
+[2:38] Speaker 2 (Praveen): We are just doing our favorite team is getting trained by themself and bring it.
+
+[2:44] Clark Fischer: Well, we we've seen that with duck TV and mother duck. A lot of teams can get kind of up and running
+
+[2:50] Speaker 2 (Praveen): Mhm.
+
+[3:02] Speaker 2 (Praveen): We already moved out to be honest.
+
+[3:07] Speaker 2 (Praveen): We are almost closing the big black on this month. So there is no way to bring a new at this time bu
+
+[3:29] Clark Fischer: Okay. Yeah. What is your what's an email that works best for you?
+
+[3:33] Speaker 2 (Praveen): What do you have 25 at gmail.com?
+
+[3:38] Clark Fischer: Yes.
+
+[3:41] Clark Fischer: I mean, one of the we often, I mean, databricks is is great. We often find that like nobody wants to
+
+[3:50] Speaker 2 (Praveen): Okay.
+
+[4:00] Speaker 2 (Praveen): Oh, I see. Yeah, it's a, it's a little later. We already moved out and it's, it's a corporate level
+
+[4:01] Clark Fischer: I mean, if that sounds like
+
+[4:11] Clark Fischer: I think the interest is, I mean, it's it's the goal is not to make a big decision over a short amoun
+
+[4:34] Speaker 2 (Praveen): Yeah, I understand. Yeah.
+
+[4:36] Clark Fischer: So the the Gmail is the best deal for you.
+
+[4:39] Speaker 2 (Praveen): Yes.
+
+[4:40] Clark Fischer: Okay, and is there is, is this, is this kind of like a pressing issue or are you just trying to get
+
+[4:47] Speaker 2 (Praveen): No, I'm in a meeting. I'm trying to contact both places.
+
+[4:52] Clark Fischer: Okay, I'll I'll send over an invite and then maybe we chat more next week.
+
+[4:56] Speaker 2 (Praveen): Okay, sounds good.
+
+[4:57] Clark Fischer: Okay. Thanks, talk to you later. Bye.
+
+[4:59] Speaker 2 (Praveen): Thank you. Bye.

@@ -1,0 +1,117 @@
+CALL TRANSCRIPT #030
+====================
+
+Contact: Rebekah Love
+Company: Personal Project
+BDR: Clark Fischer
+Date: Nov 7, 2025 12:30 PM EST
+Duration: 2:36
+Call Type: Outbound
+Outcome: DQ - Not in market
+
+CALL NOTES
+----------
+Note: "not in market"
+
+SUMMARY (AI Generated)
+----------------------
+Clark Fischer discussed Rebekah's political campaign finance transparency project. She has done a soft launch but is using Neon as her cloud database host and is not currently looking for data warehouse options.
+
+KEY NOTES
+---------
+- Rebekah is working on a political campaign finance transparency project
+- She has done a soft launch but needs to complete some tasks before producing reports
+- She chose Neon as her cloud database host instead of a data warehouse
+- She is not currently looking for additional data storage options
+
+TOPICS DISCUSSED
+----------------
+Project Overview:
+- Rebekah is developing a political campaign finance transparency project
+- She is scraping data and generating reports using AI
+- The project has undergone a soft launch
+- She is still finalizing some aspects before full report production
+
+Data Warehouse Discussion:
+- Clark asked if Rebekah was seeking a data warehouse solution
+- She mentioned she is using Neon as her cloud database host
+- She is not actively exploring other data warehouse options at this time
+- Clark noted he would follow up but understood she is not interested currently
+
+Follow-Up and Contact:
+- Clark offered to follow up and mentioned he sent emails
+- Rebekah expressed interest in learning more about Mother Duck for future reference
+- They exchanged pleasantries, and the conversation concluded
+
+FULL TRANSCRIPT
+---------------
+[0:14] Rebekah Love: Hello.
+
+[0:16] Clark Fischer: Hey, Rebecca.
+
+[0:17] Rebekah Love: Yeah.
+
+[0:19] Clark Fischer: Hey, Rebecca, it's Clark. I know it's been like a couple of months but I saw you signed up. I wonder...
+
+[0:29] Rebekah Love: you're with, who,
+
+[0:31] Clark Fischer: Mother duck.
+
+[0:36] Rebekah Love: Why am I not recalling that?
+
+[0:38] Clark Fischer: We're, we're a data warehouse, does that?
+
+[0:43] Rebekah Love: Okay. Yeah, I was probably trying it out with my project that I'm working on.
+
+[0:48] Clark Fischer: Oh, really cool. What? What? What was it?
+
+[0:52] Rebekah Love: I've got a perfect that's if you go to Dark One in tracker. It's a political campaign Finance transp...
+
+[0:57] Clark Fischer: Okay.
+
+[1:05] Clark Fischer: Oh, okay, that's pretty. Oh, wow.
+
+[1:09] Clark Fischer: Yeah, that's pretty interesting. I mean I'm out in New York so this has just come up like in our rec...
+
+[1:18] Rebekah Love: Right, exactly. So yeah, I was scraped basically all the data and generate reports using a I am and...
+
+[1:46] Clark Fischer: Okay, cool, that makes sense. Were you, were you looking for a data warehouse for this?
+
+[1:53] Rebekah Love: Well, so I was, but I went with neon just as a database host off in the cloud, but I'm not really lo...
+
+[2:05] Clark Fischer: Okay.
+
+[2:10] Clark Fischer: Okay, cool. Thank you. That makes sense. I'll mark you down as such and you won't have to hear from...
+
+[2:16] Rebekah Love: Well, okay, I know my hands, I like learning about about things and I don't remember your project, I...
+
+[2:18] Clark Fischer: You know.
+
+[2:25] Clark Fischer: Okay, thank you. Yeah, it's it's mother duck and I sent you a couple of emails. My name is Clark alt...
+
+[2:40] Rebekah Love: Well, I look at your email somehow remember and and I'll check it out, thanks.
+
+[2:43] Clark Fischer: Okay.
+
+[2:45] Clark Fischer: Awesome. Thank you, Rebecca. Appreciate it.
+
+[2:47] Rebekah Love: Good. Bye.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Personal project, not business use case
+- Already using Neon as database host
+- "I'm not really looking" for data warehouse options
+- Didn't recall signing up for MotherDuck
+
+Playbook Notes:
+- Good discovery: Asked about the project to understand use case
+- Identified competitor usage (Neon)
+- Good qualifying question: "Were you looking for a data warehouse for this?"
+- Professional wrap-up, offered to check emails
+- Prospect open to learning more - could be future nurture
+
+Competitor Mentioned:
+- Neon (serverless Postgres) - using as cloud database host
+

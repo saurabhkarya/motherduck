@@ -1,0 +1,120 @@
+CALL TRANSCRIPT #035
+====================
+
+Contact: Faiz Kothari
+Company: e6data (Competitor - Query Engine Company)
+BDR: Clark Fischer
+Date: Nov 26, 2025 12:49 PM EST
+Duration: 3:02
+Call Type: Outbound
+Outcome: DQ - Competitor
+
+CALL NOTES
+----------
+Note: "good pushing past the 'how did you get my phone number objection' But also competitor"
+
+SUMMARY (AI Generated)
+----------------------
+Clark Fischer contacted Faiz Kothari to discuss his interest in Mother Duck, but Faiz indicated he is not actively using it. Faiz works at e6data, a company building its own query engine, making him a competitor. He signed up out of curiosity.
+
+KEY NOTES
+---------
+- Faiz is not currently using Mother Duck actively
+- He is developing a custom query engine for his company (e6data)
+- Faiz signed up out of curiosity, not for a specific use case
+- The company works with small, local datasets
+- The conversation included light-hearted jokes about competition
+
+TOPICS DISCUSSED
+----------------
+Interest in Mother Duck:
+- Faiz signed up out of curiosity
+- He is not actively using Mother Duck at the moment
+- Clark inquired about his reason for signing up
+
+Current Projects:
+- Faiz's company is building its own query engine
+- They work with small, local datasets and do not use large data warehouses like Snowflake or Databricks
+- Faiz clarified they do not use external data warehouses because they have their own solution
+
+Conversation Dynamics:
+- Clark joked about competition and potential threats
+- Faiz had no immediate questions or feedback
+- The call ended with mutual politeness and no further action needed
+
+FULL TRANSCRIPT
+---------------
+[0:03] Clark Fischer: Yes, please.
+
+[0:16] Clark Fischer: Phase.
+
+[0:17] Faiz Kothari: Hello. Yes.
+
+[0:20] Clark Fischer: Hey, this is Clark help you
+
+[0:23] Faiz Kothari: Sorry.
+
+[0:24] Clark Fischer: This is Clark Fisher. I sent you a couple emails I'm from. I saw that you had signed up.
+
+[0:34] Faiz Kothari: Okay. How did you get my phone number?
+
+[0:39] Clark Fischer: I'm not super short within just kind of a list of. It's just part of our contact page here on our CR...
+
+[0:56] Faiz Kothari: No, actually I'm not using mother duck actively, so yeah, I mean yeah, I'm not using my actively mai...
+
+[1:15] Clark Fischer: Oh cool. That makes it was there. Some reason that you signed up for a mother duck or just curiosity...
+
+[1:21] Faiz Kothari: It was more curiosity, I don't have any used case as such right now.
+
+[1:29] Clark Fischer: Why do you say that you're just working kind of locally?
+
+[1:33] Faiz Kothari: yeah, I will go locally and my data sets are also pretty small so like a couple of DB's
+
+[1:41] Clark Fischer: Okay.
+
+[1:44] Clark Fischer: Oh nice. And what do you have like kind of a a bigger Data Warehouse in place today, you know, a sno...
+
+[1:52] Faiz Kothari: No, no no actually the company I work for we ourselves are building a query engine, so I'm not exact...
+
+[1:59] Clark Fischer: Oh, so you're a competitor.
+
+[2:08] Clark Fischer: Oh, so you're telling me, is this like a threat? Is this like you better watch out?
+
+[2:13] Faiz Kothari: No. No. No. Why? Why would I say? Like, I'm just saying that. Like you asked me that? Are we like, a...
+
+[2:28] Clark Fischer: Yes man, just joking no worries. No worries. Okay, cool, cool. Well if there's nothing you think I c...
+
+[2:48] Faiz Kothari: No, no, like not right now. I don't have anything top of my mind right now.
+
+[2:53] Clark Fischer: I won't spill any secrets cuz you guys are doing the, you know, another data warehouse. So I can't s...
+
+[3:01] Faiz Kothari: No, it's not like that but not right now.
+
+[3:10] Clark Fischer: Okay, cool. I appreciate it. Thank you for your time.
+
+[3:13] Faiz Kothari: All right. Thank you. Take care. Bye.
+
+[3:14] Clark Fischer: activate, my
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Works at competitor company (e6data - query engine)
+- "Not using mother duck actively"
+- "Just curiosity" - no use case
+- Small local datasets only
+- Building their own query engine
+
+Playbook Notes:
+- **OBJECTION HANDLING**: "How did you get my phone number?" - Clark pushed past it professionally
+- Light humor about competition worked well
+- Good discovery despite being a competitor
+- Quick qualification questions: "Why do you say you're working locally?"
+- Identified competitor early and kept conversation friendly
+- Good example of handling awkward situations with humor
+
+Competitor Intelligence:
+- e6data - building own query engine
+- Works with small, local datasets
+- Not using Snowflake or Databricks
+

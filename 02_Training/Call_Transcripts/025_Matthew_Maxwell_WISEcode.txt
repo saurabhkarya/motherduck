@@ -1,0 +1,104 @@
+CALL TRANSCRIPT #025
+====================
+
+Contact: Matthew Maxwell
+Company: WISEcode
+BDR: Weyman Cohen
+Date: Jan 9, 2026 10:37 AM EST
+Duration: 2:37
+Call Type: Outbound
+Outcome: NURTURE - Still exploring, stay in touch
+
+CALL NOTES
+----------
+Note: "not yet - stay in touch"
+
+SUMMARY (AI Generated)
+----------------------
+Matthew Maxwell is exploring DuckDB and its Duck Lake format, discussing its features and potential applications, while indicating no immediate plans for implementation. Weyman Cohen offers to connect him with a Solutions Architect for future insights, but Maxwell prefers to explore independently for now.
+
+KEY NOTES
+---------
+- Maxwell is currently learning about DuckDB and its capabilities through an ebook
+- The conversation focused on the advantages of Duck Lake, a lake house format for DuckDB
+- Duck Lake simplifies metadata management and improves query performance
+- Maxwell is in the exploration phase and not planning to implement immediately
+- Weyman offered to connect Maxwell with a Solutions Architect for further discussion
+
+TOPICS DISCUSSED
+----------------
+Duck Lake Format:
+- Duck Lake is a lake house format for DuckDB, managed by MotherDuck
+- It replaces complex storage layers with a simple SQL database for metadata
+- This approach reduces round trips to object storage and speeds up read queries
+- Can be used locally or in MotherDuck's managed service
+- Maxwell is currently exploring its potential without immediate plans to adopt
+
+Future Collaboration:
+- Weyman offered to connect Maxwell with a Solutions Architect
+- Maxwell is interested but prefers to gather information independently at this stage
+- The conversation included the possibility of future discussions and ongoing contact
+
+Current Exploration Status:
+- Maxwell is in the information-gathering phase regarding Duck Lake
+- No immediate application or deployment plans are in place
+- He aims to understand how DuckDB fits into his work before making decisions
+
+FULL TRANSCRIPT
+---------------
+[0:13] Matthew Maxwell: Yes, ma'am.
+
+[0:15] Weyman Cohen: Wait, A Min calling from and so notice that you signed up for the duck TV in action ebook. Just curi
+
+[0:27] Matthew Maxwell: Couldn't find reading through it now, just learn more about it.
+
+[0:30] Weyman Cohen: Okay, great. Is there any dashboard or application that you might have in mind for that? I could kin
+
+[0:43] Matthew Maxwell: No, not at this point. I mean that will come probably but no immediate plan for it right now.
+
+[0:50] Weyman Cohen: We got it. Do you feel like you have a good grasp on, like kind of where it fits, where it shines, w
+
+[1:01] Matthew Maxwell: Could you elaborate on Duck Lake.
+
+[1:03] Weyman Cohen: Yeah, yeah, absolutely. So, Duck Lake basically being the lake house format for duck TB and pull up
+
+[1:56] Matthew Maxwell: And that could be done locally or in mother as well.
+
+[2:00] Weyman Cohen: Yeah, so my other dog has basically a managed service for Duck Lake.
+
+[2:07] Matthew Maxwell: Okay, know, at this point is just kind of More Exploring and figuring out where it sets, I guess cur
+
+[2:18] Weyman Cohen: Yeah, absolutely. Would it help to kind of connect with our Solutions, architect kind of see where o
+
+[2:31] Matthew Maxwell: I'm not right now, but perhaps in the future.
+
+[2:33] Weyman Cohen: Okay.
+
+[2:34] Weyman Cohen: Okay, great. Well I send you a connection request on LinkedIn. Hopefully, we can stay in contact the
+
+[2:43] Matthew Maxwell: All right. Sounds good. Thanks.
+
+[2:44] Weyman Cohen: What?
+
+[2:45] Matthew Maxwell: All right, bye.
+
+NURTURE ANALYSIS
+----------------
+Nurture Signals:
+- Actively learning about DuckDB (reading ebook)
+- Asked clarifying questions about Duck Lake
+- "Perhaps in the future" - open to future engagement
+- Accepted LinkedIn connection
+
+Playbook Notes:
+- Good discovery question: "Is there any dashboard or application you might have in mind?"
+- Excellent product education: Explained Duck Lake format clearly
+- Appropriate nurture offer: LinkedIn connection for long-term relationship
+- Respected prospect's timeline - didn't push for immediate meeting
+- BDR demonstrated good product knowledge about Duck Lake
+
+Next Steps:
+- Follow up via LinkedIn
+- Send relevant content about Duck Lake
+- Check back when they're further along in evaluation
+

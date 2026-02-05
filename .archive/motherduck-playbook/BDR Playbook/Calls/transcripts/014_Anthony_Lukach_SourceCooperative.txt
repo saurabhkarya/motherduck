@@ -1,0 +1,228 @@
+CALL TRANSCRIPT #014
+====================
+
+Contact: Anthony Lukach
+Company: Source Cooperative (Consultancy)
+BDR: Clark Fischer
+Date: Jan 7, 2026 11:22 AM EST
+Duration: 12:24
+Call Type: Outbound
+Outcome: MEETING BOOKED - Follow-up scheduled for Friday 11:30 AM PT
+
+CALL NOTES
+----------
+Note: "source cooperative"
+Note: "using iceberg"
+
+SUMMARY (AI Generated)
+----------------------
+Clark Fischer and Anthony Lukach discussed Anthony's consultancy projects involving data analytics, Iceberg, and serverless data solutions. Anthony works for a consultancy with ongoing projects related to data analytics and non-profit data repositories. They discussed the advantages of using Mother Duck as a lightweight, serverless data warehouse. A follow-up meeting was scheduled for Friday to review Mother Duck's capabilities.
+
+KEY NOTES
+---------
+- Anthony is exploring data analytics solutions for his consultancy, including metrics tracking and data access
+- They discussed the advantages of using Mother Duck as a lightweight, serverless data warehouse over traditional systems
+- A follow-up meeting was scheduled for Friday to review Mother Duck's capabilities and integration options
+- Anthony is interested in query engines and real-time data processing close to the data source
+- The conversation highlighted the flexibility of hosting data either in S3 or within Mother Duck
+
+TOPICS DISCUSSED
+----------------
+Consultancy Projects:
+- Anthony works for a consultancy with ongoing projects related to data analytics
+- Focus on understanding downloads, data access, and building metrics tracking systems
+- Projects involve non-profit data repositories and Object Store-based datasets
+- Interested in lightweight solutions like Iceberg to avoid data lock-in and infrastructure overhead
+
+Data Solutions and Infrastructure:
+- Clark introduced Mother Duck as a scalable, serverless alternative to traditional systems
+- Discussed using S3 for data storage and query engines for fast, near-instant results
+- Anthony prefers a solution that allows data to be queried close to where it is stored, in the cloud
+- They talked about the flexibility of hosting data either in S3 or in Mother Duck
+
+Query Engine and Data Access:
+- Anthony is new to query engines but considers using client-side DuckDB or Spark for data analysis
+- They discussed the benefits of querying data in the cloud for faster access
+- Clark explained how Mother Duck integrates with existing tools like DuckDB and supports real-time analytics
+- They scheduled a follow-up to give Anthony a basic overview of Mother Duck's features
+
+Follow-Up and Scheduling:
+- They arranged a follow-up meeting for Friday morning (Pacific time) at 11:30 AM
+- Clark plans to include a technical team member to deepen the discussion
+- Both are flexible with scheduling and will connect to explore the platform further
+
+FULL TRANSCRIPT
+---------------
+[0:20] Clark Fischer: Hello.
+
+[0:23] Anthony Lukach: Hello.
+
+[0:24] Clark Fischer: Hey Anthony.
+
+[0:26] Anthony Lukach: Is this?
+
+[0:27] Clark Fischer: This is Clark over at mother duck.
+
+[0:30] Anthony Lukach: I'm sorry.
+
+[0:32] Clark Fischer: This is Mark over at mother.
+
+[0:34] Anthony Lukach: Mario ducks.
+
+[0:36] Clark Fischer: Mother duck. I saw that you signed up for an account.
+
+[0:39] Anthony Lukach: Mother duck. Hold on. Yeah. So I just
+
+[0:43] Clark Fischer: It's all it's all coming together now, right?
+
+[0:45] Anthony Lukach: It is. Yeah, I just dropped my kids off from school and walking home and next to a road and hey, wha
+
+[0:51] Clark Fischer: Okay, I just wondering if you had any feedback, I saw that you signed up at 4 in the morning, but yo
+
+[1:00] Anthony Lukach: Yeah, that doesn't sound right. I do like my late night grind but that's a little excessive.
+
+[1:06] Clark Fischer: You must be going hard for in the morning. It's crazy.
+
+[1:08] Anthony Lukach: Yeah. No no I'm in I'm in Vancouver and so I don't know. I don't know where that time came from. Ya
+
+[1:28] Clark Fischer: Is there some kind of project that you're working on? I mean, if you're going till 1 in the morning,
+
+[1:34] Anthony Lukach: Yeah. Again I don't think that time is right. I think I'm not sure where. Yeah. It's probably more l
+
+[1:38] Clark Fischer: Okay.
+
+[1:46] Clark Fischer: Yeah, I am.
+
+[2:34] Anthony Lukach: Of who's downloading, what and doing some kind of Object Store based nature if that makes sense.
+
+[2:40] Clark Fischer: And you're thinking about kind of like a lighter-weight data. I say that right light like a lightwei
+
+[2:50] Anthony Lukach: Yeah. Yeah. I mean the the compelling thing for us about something like iceberg is the fact that, yo
+
+[3:00] Clark Fischer: Yeah.
+
+[3:04] Clark Fischer: You don't want it locked up in some specific system.
+
+[3:07] Anthony Lukach: There's that and also just the the overhead burden of managing infrastructure is something we're try
+
+[3:13] Clark Fischer: Yeah.
+
+[3:25] Clark Fischer: Cool. That makes sense. And then how what do you thinking about for the, the query engine on top of
+
+[3:36] Anthony Lukach: You know what, I'll be totally Frank with you that this is like kind of a new world for me and so, y
+
+[3:51] Clark Fischer: Yeah, like what throw the sequel into over?
+
+[4:14] Clark Fischer: Yeah.
+
+[4:23] Clark Fischer: Yeah, that makes sense.
+
+[4:36] Anthony Lukach: And you know Iceberg you know as these S3 access logs come in and then query them and then cash or r
+
+[4:42] Clark Fischer: Yeah.
+
+[4:51] Clark Fischer: And if I can ask what you're when you're talking about hand off, if if everything is in those like L
+
+[5:03] Anthony Lukach: Yeah, I think yeah. Typically they are, you know, it varies right. You know our role and like busine
+
+[5:05] Clark Fischer: Yeah.
+
+[5:28] Clark Fischer: Yeah.
+
+[5:56] Clark Fischer: Right, that makes sense. They and then are they going to be running? How are they going to be consum
+
+[6:10] Anthony Lukach: Well yeah, like more. So I think
+
+[6:15] Anthony Lukach: Internal and external like dashboard kind of infographics. So again, like a sparkline, you know, it'
+
+[6:19] Clark Fischer: Yeah.
+
+[6:48] Clark Fischer: How much have you gotten to check out mother? We're kind of pretty popular for that same.
+
+[6:55] Anthony Lukach: Very little. Yeah, I know. Yeah I know that the project we're meeting or working towards the project
+
+[7:13] Clark Fischer: Yeah.
+
+[7:25] Clark Fischer: Well, the difference is kind of that. Duck TB is run by Duck TV labs and they're kind of a poor reso
+
+[7:42] Anthony Lukach: Yeah, go for it.
+
+[8:06] Clark Fischer: A lot of the times people for Enterprises cases come to Mother. It sounds kind of like and if I get
+
+[8:39] Anthony Lukach: Yeah, and so, what's, what's the typical pattern, right? Like, you know, how how do you guys get my
+
+[8:51] Clark Fischer: Yeah, yeah. Thank you. Signed up for
+
+[8:58] Clark Fischer: yeah.
+
+[9:23] Clark Fischer: So we can do a couple of different things. I mean, we host data in like sometimes that's one of the
+
+[9:51] Clark Fischer: And so people normally get started because like Duck TV and mother. Like if the exact same syntax ju
+
+[10:20] Anthony Lukach: Sure. Okay cool. So people were using mother duck for like real time where he's at closer to the dat
+
+[10:42] Clark Fischer: Yeah, that's one of the, that's one of the patterns that definitely works. Although you can connect
+
+[10:54] Anthony Lukach: Right.
+
+[11:04] Anthony Lukach: Okay cool. Yeah, I'd be interested in that. Yeah. I guess some stuff today and tomorrow but if you w
+
+[11:14] Clark Fischer: Just Friday seem a little bit better.
+
+[11:17] Anthony Lukach: Yeah. Yeah. Friday morning. Yeah.
+
+[11:20] Clark Fischer: Sure. Okay. And you're on the west coast, right?
+
+[11:22] Anthony Lukach: Yeah, I'm in Pacific time.
+
+[11:24] Clark Fischer: Okay, so we have a specific. We got people all over. I'm sure we can find, how does
+
+[11:33] Clark Fischer: What's 2:30 11:30, but you don't off the top of your head. I don't know if you have your calendar, i
+
+[11:40] Anthony Lukach: Yeah. Yeah I can I can open something up. I'm back home. Now. Take a look. I think I think that'll p
+
+[11:49] Clark Fischer: Yes.
+
+[11:53] Clark Fischer: Okay, well let me say that over and yeah, that sounds good. I'll also probably bring somebody from o
+
+[12:19] Anthony Lukach: Yeah it's I'm all years. So yeah 11:30 looks like it'll work well
+
+[12:26] Clark Fischer: Okay, cool. Well then I'll, I'll see you around. Then I'll send a little follow-up email, just sayin
+
+[12:35] Anthony Lukach: Great. Sounds good. All right. Well thanks so much. Bye.
+
+OPPORTUNITY ANALYSIS
+--------------------
+Positive Signals:
+- Consultancy with multiple data projects (repeatable use case)
+- Interested in lightweight, serverless solutions
+- Working with Iceberg (good fit with MotherDuck)
+- Asked good questions about typical patterns and use cases
+- Agreed to follow-up meeting with technical team
+- Location: Vancouver (Pacific time)
+
+Use Case:
+- Non-profit data repositories
+- Object Store-based datasets (S3)
+- Metrics tracking (downloads, data access)
+- Internal and external dashboards/infographics
+- Real-time queries close to data source
+
+Tech Stack:
+- Considering Iceberg for data format
+- S3 for storage
+- Looking at DuckDB or Spark for query engine
+- Dashboard/visualization needs
+
+Playbook Notes:
+- Caught prospect while walking (good timing!)
+- Good discovery: Asked about project, query engine plans, handoff process
+- Positioned MotherDuck vs DuckDB clearly: "same syntax, just in the cloud"
+- Explained enterprise patterns and flexibility
+- Successfully scheduled follow-up with SE for Friday 11:30 AM PT
+- Will bring technical team member to deepen discussion
+
+Next Steps:
+- Follow-up meeting Friday 11:30 AM PT
+- Clark to bring SE/technical team member
+- Demo MotherDuck capabilities and S3/Iceberg integration

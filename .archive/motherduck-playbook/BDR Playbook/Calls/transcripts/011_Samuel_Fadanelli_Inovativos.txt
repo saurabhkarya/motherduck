@@ -1,0 +1,58 @@
+CALL TRANSCRIPT #011
+====================
+
+Contact: Samuel Fadanelli
+Company: Inovativos
+BDR: Weyman Cohen
+Date: Dec 2, 2025 4:40 PM EST
+Duration: 0:50
+Call Type: Outbound
+Outcome: DQ - Teacher (educational use only)
+
+CALL NOTES
+----------
+Note: "teacher"
+
+SUMMARY (AI Generated)
+----------------------
+Weyman Cohen from MotherDuck called Samuel Fadanelli to follow up on his 21-day free trial, but Samuel is using the service for educational purposes as a teacher. He does not see himself as a qualified lead for professional use.
+
+KEY NOTES
+---------
+- Weyman checked in on Samuel's use of the free trial service
+- Samuel is using the service for educational purposes as a teacher
+- He does not see himself as a qualified lead for professional use
+- The conversation concluded amicably with polite closing remarks
+
+TOPICS DISCUSSED
+----------------
+Trial Service Inquiry:
+- Weyman called to follow up on the 21-day free trial
+- Samuel clarified he is not using the service professionally
+- The focus is on educational use, not lead qualification
+
+User Intent:
+- Samuel is utilizing the service solely for teaching purposes
+- He does not consider himself a qualified lead for business or professional use
+- The conversation highlighted the distinction between personal/educational and professional use
+
+Call Conclusion:
+- Weyman expressed appreciation for Samuel's time
+- The call ended on a friendly note with mutual goodbyes
+
+FULL TRANSCRIPT
+---------------
+[Transcript not available - short call without detailed transcript]
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Teacher using for educational purposes only
+- Not a professional/business use case
+- Self-identified as not a qualified lead
+- Very short call (0:50) - quick DQ
+
+Playbook Notes:
+- Quick identification of educational use case
+- Professional handling of DQ - friendly exit
+- Very efficient call - recognized DQ signal immediately

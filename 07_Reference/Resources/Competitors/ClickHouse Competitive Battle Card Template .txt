@@ -1,0 +1,79 @@
+﻿ClickHouse Competitive Battle Card
+By: Clark Fischer, Last Edited: Dec 15, 2025
+1. Competitor History
+ClickHouse started as Yandex's internal solution for web analytics at scale back in 2009. When Yandex Metrica needed to process billions of clickstream events, they built a purpose-built columnar OLAP database from scratch (processed clickstream data hence, ClickHouse).  
+
+They open-sourced it in 2016 under Apache 2.0, and by 2020-2021, ClickHouse Inc. emerged as a venture-backed startup with Aaron Katz (ex-Elastic, ex-Salesforce) as CEO. Today it processes trillions of rows in production at Netflix, Spotify, and CloudFlare.
+In this way, the development parallels MotherDuck’s: open source engine with a cloud offering built on top.
+________________
+
+
+2. What to Know:
+2a. Architecture
+ClickHouse is a columnar OLAP powerhouse built around its Merge Tree family storage engine. Data gets written as immutable "parts" that merge in the background, allowing for high ingest throughput: CloudFlare pushes 12M+ events per second through it. 
+The sparse primary index is the secret sauce: it only indexes every 8,192 rows (called granules), keeping the entire index in RAM even for petabyte-scale data. Combined with vectorized query execution that leverages SIMD on the CPU, ClickHouse dominates benchmarks like ClickBench. Unfortunately, this also makes joins very difficult, as we’ll see…
+However, there’s a catch: ClickHouse has no cost-based optimizer. What you write is what you get. This means users have to deeply understand primary key ordering, partition keys, skip indexes, materialized views, and compression codecs to unlock its performance. It's better performance if you tune it right, worse developer experience if you don't.
+2b. Pricing and Deployment
+The self-hosted version is free under Apache 2.0 (you manage everything yourself with no official support unless you hire consultants like Altinity). ClickHouse Cloud is their managed offering, technically serverless but really just managed clusters with auto-scaling. You're charged on compute hours (roughly $0.50-$2.00 per compute hour), storage for compressed data, and egress. They've got 1,000+ customers on the cloud version, largely through a PLG self-serve motion integrated with AWS/GCP/Azure marketplaces.
+2c. Strengths
+Raw performance: 3-4 billion rows per second on modest hardware, with compression ratios around 10x. CloudFlare processes 75B events per day at sustained 12M events/sec. Netflix serves petabyte-scale queries in milliseconds. The system handles real-time ingestion at web scale while simultaneously serving analytics queries, with materialized views pre-aggregating data in the background without taxing query performance.
+Observability: ClickHouse is honestly better for logs, metrics, and traces. 
+
+Established product: no one questions ClickHouse’s ability at extreme scale. Yandex Metrica has run it in production for 15+ years processing 100B+ events daily. The ecosystem is flexible with 20+ table engines, including the ability to query S3 data without moving it first.
+2d. Weaknesses
+Learning Curve: But all that performance comes with a cost that isn't on the invoice: developer experience. ClickHouse requires constant tuning because there's no query optimizer to help you. You must choose your primary key wisely: get it wrong and your queries are 2-10x slower. You must define partition keys carefully: too many slow you down, too few prevent data pruning. You must manually add skip indexes for selective reads and define materialized views for pre-aggregation if you want sub-second queries… and on and on.
+This creates a steep steep learning curve with concepts foreign to anyone coming from PostgreSQL, MySQL, or Snowflake. New users face a sunk cost trap where they think their years optimizing Redshift will translate, but ClickHouse optimization is fundamentally different. 
+
+Not ACID compliant: Plus, it's an append-only system: no row-level updates or deletes, no ACID transactions. You can't use it for OLTP operational systems like e-commerce orders or financial transactions.
+
+Eventual Consistency is Complex: Distributed deployments add another layer of complexity. The eventual consistency model means replicas can lag, there's a Zookeeper dependency for consensus, and no auto-rebalancing like Cassandra. Query planning across shards is manual, data skew requires manual rebalancing, and scaling to 100+ nodes demands a solid ops team.
+________________
+
+
+3. Why MotherDuck
+Ease of Use: Setup time is the first differentiator. ClickHouse takes days for self-hosted or hours for Cloud, while MotherDuck is minutes with zero config. Query tuning is significant in ClickHouse: primary keys, skip indexes, materialized views, while MotherDuck's adaptive optimizer handles it automatically. Time-to-first-query is where this really shows: hours or days spent optimizing ClickHouse versus minutes to start querying in MotherDuck.
+The agility angle resonates. ClickHouse is built for web-scale production workloads, but if you're not Netflix or CloudFlare, you're paying the tuning tax without needing the extreme scale. MotherDuck handles the 80% use case: fast enough for most scenarios with zero config required. “ClickHouse wins at petabyte scale. You're at 10B rows. MotherDuck handles that with zero config."
+Dual Execution Mode: Also, ClickHouse open source != DuckDB open source. The dual execution model is unique to MotherDuck. ClickHouse cannot run on your laptop, there's no local mode. MotherDuck gives you DuckDB locally for exploration and MotherDuck Cloud for shared analytics. You want to query data on a plane? ClickHouse needs cloud. MotherDuck works offline. Plus, MotherDuck supports real-time OLTP updates alongside analytics in the same query, while ClickHouse is append-only and forces ETL from operational databases.
+Cost: Cost predictability matters too. ClickHouse Cloud is usage-based on storage, compute, and egress, making bills hard to predict. Self-hosted ClickHouse is "free" but ops costs often exceed compute costs. MotherDuck offers flat hourly tiers or per-query pricing with no surprise bills. The pitch here: "ClickHouse and MotherDuck are similarly priced on the surface, but we’re cheaper when you factor in your DBA's salary."
+________________
+
+
+4. Landmines
+Optimization Fatigue: Hit the nerve! ClickHouse users are exhausted from tuning. Lead with: "You've spent months optimizing ClickHouse. MotherDuck optimizes itself. What could your team build instead?" Trunkrs said it directly: "It takes a lot of work to optimize ClickHouse. We had to scale for that. It wasn't cost efficient."
+Exploratory Power: Push the agility angle! ClickHouse hates iterative, exploratory analytics while MotherDuck loves it: ad-hoc queries, data science notebooks, rapid prototyping. Frame it this way: "ClickHouse is great for dashboards you run 1000x. MotherDuck is great for questions you've never asked before."
+Hybrid Execution: The local dev to cloud prod story is a game-changer. ClickHouse has NO local story; developers wait for cloud instances. With MotherDuck, you run DuckDB locally and deploy the same query to cloud. That greatly streamlines your development process: "Your data science team wants to prototype locally. ClickHouse says 'wait for cloud.' MotherDuck says 'use your laptop.'"
+OLAP Only?: The OLTP play works when customers have operational databases separate from analytics. ClickHouse users often run PostgreSQL or MySQL for transactions and ClickHouse for analytics. MotherDuck can query both directly with no ETL pipeline. "You have live customer data in PostgreSQL and need to analyze it. Why run ETL to ClickHouse when MotherDuck queries it in-place?"
+And, Joins Suck!: The most well known clickhouse 
+
+
+________________
+
+
+5. Red Flags / When We Lose
+Truly Massive Scale: If they're at petabyte-scale like Netflix, Spotify, or CloudFlare, ClickHouse is purpose-built for it. MotherDuck isn't positioned there. Concede gracefully: "If you're at Netflix scale, ClickHouse is your answer. We're great for 10-100B rows."
+Truly Massive Ingestion: For web-scale real-time ingestion—billions of events per day—ClickHouse is proven at 12M+ events/sec. MotherDuck isn't marketed for this. Concede: "If you're ingesting 10B+ events/day, ClickHouse is the right tool."
+A caveat, “truly massive” really only applies to a select few firms. Interrogate prospects’ big data assumptions!
+Home Field Advantage: Observability and logs as the primary use case is ClickHouse territory. They have huge mindshare displacing Elasticsearch, proven at CloudFlare, Netflix, Disney, and Comcast. MotherDuck's observability story is weak. Concede: "If logs and traces are your primary use case, ClickHouse mayyyy be the safer bet."
+Existing Investment: If they have an existing ClickHouse investment (2+ years of tuning, optimization knowledge) switching costs are real. Data migration, retraining, rewriting queries all add up. Concede: "Your ClickHouse investment is real, but many companies use both. MotherDuck is better for new analytics initiatives on top."
+Open Source/On Prem Reqs: Usually in relation to security concerns, and should be disqualified for the same reason we disqualify open source DuckDB fanatics. Don’t chase, but offer DuckDB: "If 'must be open-source,' ClickHouse wins. But it’s likely also worth trying open source DuckDB, which is much simpler than ClickHouse to tune. "
+________________
+
+
+6. Objection Handling
+When they say ClickHouse is more mature and battle-tested, acknowledge it: "Absolutely. Netflix, Spotify, CloudFlare run massive ClickHouse deployments. But maturity doesn't equal ease of use. ClickHouse requires tuning to unlock performance; MotherDuck auto-optimizes. For greenfield analytics, MotherDuck gets you to value faster without hiring a ClickHouse expert."
+For massive real-time ingestion claims (12M+ events/sec), question the actual need: "ClickHouse is proven there; CloudFlare does 75B events/day. But do you really need that scale? If you're at Cloudflare or Netflix levels, ClickHouse is right. If you're 100M-1B events/day, MotherDuck handles it with less ops burden."
+If they're already invested in ClickHouse, don't pitch rip-and-replace: "True. Ripping out ClickHouse means retraining, data migration, ops change. MotherDuck is better for new analytics initiatives. Or go hybrid: ClickHouse for your real-time dashboards, MotherDuck for ad-hoc analytics."
+When they mention ClickHouse Cloud being serverless now, correct the record: "ClickHouse Cloud has auto-scaling, but storage and compute are still bound per node. MotherDuck is truly stateless: any node can query any data. Plus, ClickHouse Cloud still requires data layout tuning. You still pay the tuning cost with ClickHouse Cloud; we eliminate it."
+For teams already fluent in ClickHouse, acknowledge the sunk cost: "That's an asset worth keeping. But if building a new analytics team, MotherDuck has zero training overhead: standard SQL, no ClickHouse-isms."
+________________
+
+
+7. Customer Stories
+🚨Case Study Available! Reference our Trunkrs case study. They struggled with optimization burden and found MotherDuck's response "just a lot snappier" with the ability to "drill down in data faster" and "a lot of that bother is already taken away." They described MotherDuck as making "your data feel like an application" where "with ClickHouse, that's more of a bother."
+________________
+
+
+8. Core Takeaways
+Clarify use case first. Is this petabyte-scale ingest or ad-hoc BI? The answer drives which tool wins. Lead with ease: MotherDuck's edge is zero tuning required. Quantify the tuning tax by calculating their ops budget. ClickHouse is cheap in compute costs but expensive in DBA time. Highlight DuckDB momentum and position MotherDuck as "DuckDB in the cloud."
+The hybrid play works for customers deep in ClickHouse. Suggest ClickHouse for stable dashboards and MotherDuck for ad-hoc analytics. Know when to concede—if they truly need ClickHouse for web-scale or logs-heavy workloads, concede gracefully and offer partnership instead. Use real customer stories from Trunkrs and IHA about tuning burden.
+Add context to benchmarks. ClickBench shows ClickHouse ranking first on tiny synthetic datasets, but real-world MotherDuck often wins on ease plus speed for under 10B rows without tuning (and we do extremely well on the benchmark too!). Respect the OLTP gap: ClickHouse isn't for operational systems, so if customers need OLTP plus OLAP, MotherDuck's hybrid is a game-changer.

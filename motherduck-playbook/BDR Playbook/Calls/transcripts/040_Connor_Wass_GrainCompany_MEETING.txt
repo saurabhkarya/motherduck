@@ -1,0 +1,140 @@
+Call Title: Call with Connor Wass
+Company: Grain Company (Greenfield)
+Contact: Connor Wass
+BDR: Clark Fischer
+Date: Jan 14, 2026 6:21 PM EST
+Duration: 12:00
+Call Type: Outbound call
+Outcome: MEETING BOOKED - Follow-up scheduled to discuss data patterns and solutions
+
+Call Notes: None recorded
+
+Summary: Clark Fischer and Connor discussed building a scalable, simple data stack for Connor's Greenfield grain company project. Connor is starting from scratch with no existing data infrastructure. The goal is to implement a scalable, low-maintenance data stack using tools like Mother Duck and BigQuery.
+
+Key Notes:
+- Connor is starting from scratch with no existing data infrastructure for a grain company
+- The goal is to implement a scalable, low-maintenance data stack using Mother Duck and BigQuery
+- They plan to create a basic proof-of-concept for internal and external data reporting
+- A follow-up meeting is scheduled to review data patterns and solutions
+- The focus is on quick setup, scalability, and avoiding overkill like Snowflake initially
+- Clients include large companies like Heineken and Asahi
+- Connor is a one-person team building this from scratch
+- Looker chosen for external reporting
+
+---
+
+TRANSCRIPT:
+
+[0:06] Speaker 2 (Connor): Hi, speaking.
+
+[0:07] Clark Fischer: Hey Connor. Sorry, my headphones were connected right to the park over at mother.
+
+[0:13] Speaker 2 (Connor): All right, man, how are you?
+
+[0:15] Clark Fischer: Good. How are you? I just got your email about setting up kind of like a smaller data stack for I gu
+
+[0:26] Speaker 2 (Connor): Yeah. Yep. It's a brand of Bola that I work for. So,
+
+[0:33] Speaker 2 (Connor): This is my first waking the role in this company but I've come over from a larger company where the
+
+[0:42] Clark Fischer: Yeah.
+
+[0:56] Clark Fischer: Cool. That's do. They have something in place today that you're moving off of or like this is totall
+
+[1:01] Speaker 2 (Connor): No completely Greenfield man. Like if I have some some like they have plenty of like business tools
+
+[1:20] Clark Fischer: Oh my God, you've got your work cut out for you.
+
+[1:23] Speaker 2 (Connor): Yeah, man. Yeah.
+
+[1:26] Clark Fischer: So, tell me about it. How's it been going so far? You started with with mother duck, right? You just
+
+[1:34] Speaker 2 (Connor): Yeah, so I've just been like because there is literally nothing. I said I've just been uploading som
+
+[1:44] Clark Fischer: Cool, that makes sense.
+
+[1:51] Clark Fischer: My pleasure.
+
+[2:06] Speaker 2 (Connor): Martin maintenance is possible. It's probably going to be something like Duck TV or like something l
+
+[2:07] Clark Fischer: Yeah, of course.
+
+[2:17] Clark Fischer: Yeah.
+
+[2:21] Clark Fischer: You're kind of looking for just like, like set it and forget it. That's kind of what big query is li
+
+[2:47] Speaker 2 (Connor): Yeah, exactly, right? So like I can ride Python and the sequel. So I'm happy to but I think the less
+
+[2:51] Clark Fischer: Yeah.
+
+[3:19] Clark Fischer: Yeah. Then that makes sense. That's kind of where we see mother fit in a lot of the times is that yo
+
+[3:56] Speaker 2 (Connor): Yeah.
+
+[4:10] Clark Fischer: Yeah, that makes sense. What I know you talked about kind of DVT are B. What what else is in your st
+
+[4:30] Speaker 2 (Connor): So it's pretty slow moving in the, in the scheme of things, I think even to start with it was a surp
+
+[4:34] Clark Fischer: Yeah.
+
+[4:47] Clark Fischer: Yeah.
+
+[5:02] Speaker 2 (Connor): Do daily injections? It's just whether or not a wheeled. So at the start, it's it could be really si
+
+[5:05] Clark Fischer: Yeah.
+
+[5:26] Clark Fischer: Yeah, a hundred percent. I don't know if this question is too, on the nose but like what was the? I
+
+[5:47] Speaker 2 (Connor): Yeah. Yeah, man. Like the most advanced person in the business is probably the account using the acc
+
+[6:02] Clark Fischer: Yeah, that makes sense.
+
+[6:17] Speaker 2 (Connor): And this is for our customers which are like large, you know, like Heineken these like large. This i
+
+[6:29] Clark Fischer: Cool.
+
+[6:50] Speaker 2 (Connor): You know, very, very, very light proof-of-concept. Basic you could probably cook up some like power
+
+[7:02] Clark Fischer: Oh yeah, yeah.
+
+[7:07] Speaker 2 (Connor): and I'm just trying to do something that's more traditional without having to do like set up servers
+
+[7:27] Clark Fischer: and then, who's who's consuming the data, it's kind of like the executive executive team
+
+[7:34] Speaker 2 (Connor): Yeah they'll be some like internal stuff. I'm pretty capable of that. That's fine. It's the external
+
+[8:05] Clark Fischer: Yeah.
+
+[8:13] Clark Fischer: It's it's it's 6:30 over here. So it's kind of a bad time to go into any depth on on my side. I'm ov
+
+[8:46] Clark Fischer: Teams or I'm trying to say one man show but it doesn't really whatever we just dropped a new kind of
+
+[9:46] Clark Fischer: I could I could walk you through it and maybe figure out what what patterns would would work for you
+
+[9:58] Speaker 2 (Connor): Yeah, we we can go earlier, if you want, like, like two hours earlier, if that's a better time for y
+
+[10:00] Clark Fischer: You know what? I might I might even be able to check with our Pacific team and I could brief them on
+
+[10:32] Speaker 2 (Connor): Yeah. Yeah.
+
+[10:42] Speaker 2 (Connor): yeah, 10:30 a.m.
+
+[10:50] Speaker 2 (Connor): yeah, that's fine.
+
+[10:51] Clark Fischer: Okay, I don't I honestly I still to this day. I don't really understand how big Australian time zone
+
+[11:01] Speaker 2 (Connor): Yeah, yeah, yeah. Sounds good.
+
+[11:12] Speaker 2 (Connor): No, that's all good man. I think it's at the moment. It's just trying to just trying to understand l
+
+[11:20] Clark Fischer: Yes, of course.
+
+[11:27] Clark Fischer: I need I mean if you're weak one, it's like like good on you free then giving you know, thinking abo
+
+[11:38] Speaker 2 (Connor): Well, that's coming. I'd rather not go and build a bunches Legacy stuff and then have to rebuild it
+
+[11:43] Clark Fischer: Yeah. Yeah, that makes a lot of sense. Okay, well cool. I'll put I'll put a couple of notes on there
+
+[11:59] Speaker 2 (Connor): Yeah, awesome. All right. Thanks man. I cancel it.
+
+[12:01] Clark Fischer: Yeah, I appreciate it. I'll talk to you later. Bye.

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp add:*)"
+    ]
+  },
+  "skills": [
+    {
+      "name": "call-prep",
+      "path": ".claude/skills/call-prep.md",
+      "description": "Generate a personalized call prep document from a LinkedIn profile"
+    }
+  ]
+}

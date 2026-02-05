@@ -1,0 +1,74 @@
+CALL TRANSCRIPT #033
+====================
+
+Contact: Muhammad Shakeel
+Company: Verizon
+BDR: Weyman Cohen
+Date: Jan 26, 2026 12:32 PM EST
+Duration: 1:02
+Call Type: Outbound
+Outcome: DQ - No use case
+
+CALL NOTES
+----------
+Note: "no use case"
+
+SUMMARY (AI Generated)
+----------------------
+Weyman from Mother Duck followed up with Muhammad regarding his 21-day free trial for their data warehouse. Muhammad is using it for personal upskilling in banking courses, not for a work use case.
+
+KEY NOTES
+---------
+- Muhammad is utilizing the data warehouse for personal upskilling in banking
+- Weyman offered assistance and encouraged him to reach out if needed
+- The call was a follow-up on his trial sign-up
+- Muhammad expressed appreciation for the support and mentioned messaging on LinkedIn
+
+TOPICS DISCUSSED
+----------------
+Follow-up on Free Trial:
+- Weyman contacted Muhammad to check on his experience with the 21-day free trial
+- Muhammad is focused on personal development using the data warehouse
+- Weyman offered support and encouraged Muhammad to reach out with questions
+
+Personal Upskilling:
+- Muhammad is using the data to improve his skills in banking courses
+- The conversation centered around his current use case and goals
+
+FULL TRANSCRIPT
+---------------
+[0:13] Weyman Cohen: Hey Bruce, this is Wayne calling from other dog. Notice that you signed up for a 21 day, free trial...
+
+[0:23] Muhammad Shakeel: I am so sorry. My phone was acting up. I didn't hear anything. Could you repeat that? Sorry.
+
+[0:31] Weyman Cohen: Yeah, no worries. Yeah. This is women calling from mother duck data warehouse. I noticed that you si...
+
+[0:36] Muhammad Shakeel: Yes.
+
+[0:44] Muhammad Shakeel: So right now I'm just trying to upscale myself on the brakes so that's what I was using the data for...
+
+[0:52] Weyman Cohen: Okay, perfect. What
+
+[0:57] Weyman Cohen: Okay great. Okay, great. Yeah I think we message on LinkedIn. Feel free to reach back out if there's...
+
+[1:01] Muhammad Shakeel: Yeah.
+
+[1:08] Muhammad Shakeel: Thank you. Thank you so much. Take care.
+
+[1:11] Weyman Cohen: Thanks, take care.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Personal upskilling only - "trying to upscale myself"
+- Not a work use case
+- No mention of business application at Verizon
+- Using for banking courses training
+
+Playbook Notes:
+- Quick DQ identification (1:02 call)
+- Good follow-up question about use case
+- Offered LinkedIn connection for future relationship
+- Professional and brief handling
+- Note: Weyman called him "Bruce" but contact is Muhammad Shakeel (name mismatch)
+

@@ -1,0 +1,113 @@
+﻿Competitive Battle Card - Redshift
+By: Ashley Conway
+
+Last Updated: 12/12/25 
+1. Competitor History & Villain Origin Story 
+* Redshift is Amazon’s 2012 answer to Big Data panic. Back then, everyone thought petabytes were coming for them, so AWS took a 2005-era Postgres engine, stretched it across a cluster zoo. It worked, until the modern world showed up.
+* Initial Release: October 2012 (mature BUT OLD - not following trends/modernizing) vs MotherDuck Founded in 2022 from veterans from BigQuery 
+* Fun fact: Direct shot at Oracle's dominance (hence "shifting from Red") 😈Redshift launched before DuckDB’s creator finished college. That’s how old it is.
+Market Gap in 2012
+* Traditional data warehouses (Oracle, Teradata, IBM) were extremely expensive, requiring significant upfront hardware and licensing costs
+* Companies THOUGHT they would be facing exploding data volumes (hence "big data" era) but couldn't afford enterprise warehouse solutions
+* No cloud-based alternative existed for large-scale analytics workloads
+* AWS customers were asking for a way to analyze large datasets without managing infrastructure
+* Opportunity to capture customers migrating away from expensive on-premise systems
+2. What to Know 
+Architecture: 
+* Distributed MPP Clusters: Redshift spreads data across many compute nodes and runs queries in parallel. Powerful at huge scale but brings classic warehouse complexity and provisioning 
+* Severless…but NOT: Redshift severless still requires minimum RPUs, doesnt scale to zero and benefits from the same tuning as clusters so overhead/idle spend never truly go away
+* MotherDuck trades the massive parallelism of Redshift for simplicity and speed on a single node, which is sufficient for majority of analytics use cases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Pricing Model: 
+* Redshift is a legacy cluster animal- built for era of “always on, always provisioned” Paying whether nodes are hunting or napping. Most teams oversize clusters for peak season which never comes
+* Severless isn’t really severless- still forces a minimum RPU- on even when no ones around
+* Cost sprawl is their tradition- Redshift’s history is full of clusters left running over the weekend, surprise bills from a single gnarly query, and storage that’s somehow both “managed” and separately billed. Perfect terrain for MotherDuck to win with real pay-as-you-go, no warm-up, no cluster babysitting.
+* VS MotherDuck: Standard $1.80/hour, Jumbo $3.60/hour, Mega $10.80/hour
+Weaknesses:
+
+4. Why MotherDuck- 
+* Modern architecture + Serverless Simplicity: saves developer overhead
+* Dual execution- run locally and/or in the cloud
+* Speed and Simplicity- We crush Redshift on query performance. People wait MINUTES for RS to spin up
+* Cost efficiency- Why pay for provisioned clusters sitting idle? Pay only for what you use. We are leaner and simpler = cost savings for YOU
+* Long term play- we will be multi-cloud by next year 
+
+
+
+
+
+5. Landmines 
+* Aim for agility: Redshift hates ad-hoc analytics, app-like querying, iterative data work. We shine there
+* Hit the cost nerve: AWS customers know cluster waste all too well, this is Redshift’s sore spot
+
+* Take the “local + cloud” angle: Redshift can’t run locally. We turn laptops into warehouses. Engineers love this
+
+6. Objection Handling 
+   * “But Redshift is mature and reliable.”
+   * True and aging. Mature like a 2012 Honda Civic. Safe, steady, but not built for modern workflows
+   * “But we’re deep in the AWS ecosystem.”
+   * Great, MotherDuck plays well with S3 and AWS infra. You don’t lose any AWS goodness; you just stop paying for idle clusters
+   * “We need big-warehouse scale.”
+   * DuckLake + DuckDB + MotherDuck handle large workloads just fine. If you truly need petabyte MPP scale, Redshift wins but <1% of companies do
+
+
+8. Red Flags / When We Lose
+   * Deep AWS integration requirements - data never leaves ecosystem
+   * AWS ENT Discount Programs- Scott Mendelsondo we offer AWS credits?? 
+   * Legacy systems w/ Redshift specific optimizations (ex. 
+   * Strict Org requirements to keep all infra in AWS
+   * Maturity- rich set of DWH features 
+
+
+9. Customer Stories & Fathom 
+   * Trunkrs Case Study + Fathom Call
+On Redshift pain points:
+   * "It takes a lot of work to optimize Redshift. And basically, we had to scale for that. And it wasn't cost efficient."
+   * "Even if it just takes 10 seconds longer, that's annoying if you're in a call and you're trying to get to the bottom of a problem." (about slow queries)
+On MotherDuck's impact:
+   * "With MotherDuck, we're seeing that response is just a lot snappier. We can see that we're just going deeper because we have more time to spend on the data."
+   * "The quicker you can go through this and drill down in that data, the more insights you will get and easier it becomes to make sure that we're not making the same mistake today that we made yesterday."
+   * "It really makes your data feel like an application. And that's something you want, but it's difficult with data. It depends a lot on your architecture, your setup, your transformations. With MotherDuck, that's a little bit less. The speed is just a lot higher. So a lot of that bother is already taken away."
+On migration/support:
+   * "We could just work together with you guys on Slack in the beginning and basically run through all the issues we had. If it blocks even for a couple of days, your speed of implementation goes down. But you guys were on top of that."
+   * IHA Fathom Call - Redshift Pain Points + Performance Issues 
+   * Insurify Fathom Call - Redshift Scaling Issues 
+
+10. Resources 
+      * ClickBench Benchmark + Faster Ducks 
+      * If we’re looking at Redshift, the 4x ra3.xlplus costs $4.34 an hour, not too much more than a MotherDuck Jumbo at $3.20, but with less than 1/7th the performance. The Redshift 2x dc2.8xlarge is $9.60/hour, about 10% less expensive than a MotherDuck Mega, but 1/11th the performance.
+      * CelerData Case Study (Eightfold AI Migration)
+      * "Noisy neighbor" problems in multi-tenant environments
+      * Constant operational maintenance burden: WLM tuning, VACUUM operations, slice redistribution
+      * "For teams wanting real-time, low-latency analytics, this ongoing tuning becomes a heavy tax"
+      * Unable to support sub-second customer-facing analytics
+      * Why do so many people hate Redshift?
+      * Basically, it’s more expensive and less performative than its competition.” — users directly calling out cost and performance issues.
+
+      * “The user experience is awful … in Redshift you have a very basic query prompt in AWS console and that’s it.” — complaint about poor UX
+         * Flawed Redshift Pricing Comparisons
+         * Frequent benchmarking tools and comparisons are misleading because they don’t account for real usage patterns (e.g., always‑on costs).
+         * Scared of Redshift
+         *

@@ -1,0 +1,160 @@
+CALL TRANSCRIPT: Call with Guy Caprioli
+========================================
+Company: BlueSky Solutions
+Deal: BlueSky Solutions - New Deal ✓
+Date: Jan 13, 2026 8:41 AM EST
+BDR: Weyman Cohen
+Duration: 10:15
+Outcome: MEETING BOOKED - SA Session scheduled for Tuesday 11:30 AM
+
+CALL NOTES:
+- warehousing data from their 5 facilities
+- 200GB
+- Tech Stack: cloudflare, caspio (no-code)
+
+SUMMARY:
+Guy Caprioli from Blue Sky Solutions discussed their evaluation of Mother Duck for analytics and data warehousing, focusing on a small side project and their existing platform. They plan to explore further with a Solutions Architect session next week to better understand the product's capabilities.
+
+KEY NOTES:
+- Guy is evaluating Mother Duck for a side project and potential work applications.
+- They currently use a no-code platform (Caspio) and plan to integrate data via APIs.
+- Data volume is manageable (~200GB, primarily text-based from five facilities).
+- Guy is interested in a future session with a Solutions Architect for guidance.
+- They prioritize a user-friendly experience due to limited technical resources.
+
+WHY THIS DEAL WON:
+- Perfect fit: 200GB data, 5 facilities (sweet spot for MotherDuck)
+- Limited tech resources → values ease of use and support
+- Decision maker on the call (runs the company)
+- Clear use case: moving from transactional to analytics
+
+TRANSCRIPT:
+-----------
+
+[0:08] Guy Caprioli: Hello.
+
+[0:10] Weyman Cohen: Hey, guys, this is Wayne calling from mother. Notice that you signed up for our 21 day free trial. So I just wanted to see how things have been going.
+
+[0:20] Guy Caprioli: Oh yeah, I'm just just a small little side project to get familiar with the duck TV and mother. So
+
+[0:28] Weyman Cohen: Oh nice. So more. So like a like a hobby project. Kia, curious to learn what your building.
+
+[0:35] Guy Caprioli: I'm fine. I mean I'm not really interested in talking too much about the work I'm doing, but it's just like a niche analysis tool and warehousing database.
+
+[0:44] Weyman Cohen: Okay, got it. And then any chance, there are use cases projects at work where mother duck may come in handy?
+
+[0:56] Guy Caprioli: Yeah. I mean like I said I'm just now the evaluation. Now. I mean it looks looks like it's very it has very rich features...
+
+[1:13] Weyman Cohen: Okay, got it. Yeah, yeah, happy. Let you work solo on it and and keep exploring. Now, we do offer, you know, sessions with our Solutions Architect to kind of help you get up and running faster, get better experience with the product overall.
+
+[1:36] Guy Caprioli: Yeah, well, I mean so that's why I'm has like I'm using it for like this little niche or F you know warehouse to keep track of various things...
+
+[2:11] Weyman Cohen: Yeah, that makes total sense. So are you kind of in the boat where you're currently using a transactional database and looking to move to something more analytics optimized?
+
+[2:25] Guy Caprioli: No, we we we are a platform. We use a no code platform called Caspio.
+
+[2:32] Guy Caprioli: And so I mean just the two hundred percent company so we're doing that. But instead of doing the some of the aggregation calculations in the application...
+
+[3:01] Weyman Cohen: Okay. Got it. Yeah that makes sense. Yeah, like fundamentally kind of shines because we have a single node architecture that's really optimized for query performance on smaller data sets...
+
+[3:40] Guy Caprioli: Okay. No, I mean it's it's definitely interesting. I just got into the duck like literally just a couple of days ago...
+
+[3:59] Weyman Cohen: Okay, got it. Is this for blue sky? Or
+
+[4:03] Guy Caprioli: Yes, Blue Sky Solutions, I run the business, the company.
+
+[4:07] Weyman Cohen: Okay. Got it. Yeah, so I understand. You're yep.
+
+[4:17] Guy Caprioli: Yeah. The, the business side that we don't, we don't really have a deep, you know, group of Technology people at all...
+
+[4:28] Weyman Cohen: Exactly right. So it'll also that makes it really important to have a like a really friendly user experience which is kind of what we pride ourselves on...
+
+[5:14] Guy Caprioli: This week's topic is I have a lot of client partner visits this week but you know, I can definitely get some time in next week...
+
+[6:02] Weyman Cohen: Absolutely. Yeah, well, this session this can kind of help you kind of speed things up so that you can have better experience...
+
+[6:22] Guy Caprioli: like Tuesday after 10 would work well for me Eastern 10:30 after 10:30,
+
+[6:28] Weyman Cohen: Okay, Tuesday after 10, let me just double-check
+
+[6:36] Weyman Cohen: Oh yeah. Okay, we've got 11:30 2:30 Eastern Time.
+
+[6:46] Guy Caprioli: 11:30 would be convenient on my side.
+
+[6:49] Weyman Cohen: Okay, and then email, I have down for you, is first last a blue sky Solutions. If that works.
+
+[6:59] Guy Caprioli: Yeah.
+
+[7:01] Weyman Cohen: Okay, let me send it over. Just to make sure you get it.
+
+[7:17] Weyman Cohen: All righty. Let me know if that just made it to the inbox.
+
+[7:40] Guy Caprioli: Yeah, I got it.
+
+[7:42] Weyman Cohen: Okay, great well hey pleasure talking to you.
+
+[7:43] Guy Caprioli: And do you guys provide as far as the mother duck stuff. Do you guys provide consultation or like ongoing support?
+
+[7:47] Weyman Cohen: Yep.
+
+[8:07] Guy Caprioli: also, you know, the resources to make sure everything keeps running type thing.
+
+[8:16] Weyman Cohen: Absolutely, yes. So we do. So, yeah. In this session will kind of learn a little more about what you're building and then we can kind of give you guidance on the best path forward...
+
+[8:55] Guy Caprioli: Okay, well awesome. I'll look forward to catching up with you guys and I'll try to put some more work into testing it out this week...
+
+[9:07] Weyman Cohen: Okay, great. If you wouldn't mind last question currently. Do you know what your data volume is like?
+
+[9:17] Guy Caprioli: Oh no, it's it's because it's all, you know, text-based is transactional warehousing information, it's not big...
+
+[9:29] Guy Caprioli: Maybe two hundred [GB], we're not talking about an image files or anything like that, maybe?
+
+[9:38] Weyman Cohen: Okay. Got it. Okay? Yeah it's fine. Okay great.
+
+[9:39] Guy Caprioli: Yeah, it's nothing. It's not it's not crazy. Yeah, so we have five facilities, what's that?
+
+[9:43] Weyman Cohen: Sweet. We regret.
+
+[9:46] Weyman Cohen: Yes. Sweet spot with Room to Grow. That's great.
+
+[9:49] Guy Caprioli: Well yeah. But yeah I can get that data. Maybe I'll do is just populate all the the data from the ERP system into mother...
+
+[10:07] Weyman Cohen: All right. Perfect. Well, looking forward to next Tuesday.
+
+[10:10] Guy Caprioli: Fine. Thanks. Bye.
+
+[10:11] Weyman Cohen: All right, thanks, have a good one.
+
+========================================
+KEY LEARNINGS FROM THIS CALL:
+========================================
+
+1. OPENING: Trigger-based - "Notice that you signed up for our 21 day free trial"
+
+2. INITIAL RESPONSE: "small little side project" - Could have been a DQ signal, but BDR probed further
+
+3. KEY PIVOT QUESTION: "Any chance there are use cases projects at work where mother duck may come in handy?"
+   → This converted a "side project" into a business opportunity
+
+4. QUALIFICATION SIGNALS UNCOVERED:
+   - "I run the business, the company" (decision maker)
+   - "We don't really have a deep group of Technology people" (need for easy UX)
+   - "Five facilities" (real business scale)
+   - "200GB text-based data" (perfect fit)
+
+5. OBJECTION HANDLED: "I'm not really interested in talking too much about the work"
+   → BDR respected this but redirected to business use cases
+
+6. MEETING ASK: Offered SA session to "help get up and running faster"
+   → Positioned as VALUE, not sales pitch
+
+7. SIZING QUESTION AT END: "Do you know what your data volume is like?"
+   → Got key qualification info: 200GB, 5 facilities
+
+8. CONFIRMATION: "Sweet spot with Room to Grow" - validated fit for prospect
+
+9. SUPPORT QUESTION: Prospect asked about ongoing support
+   → Shows they're thinking long-term, buying signal!
+
+TALK TRACK TO REPLICATE:
+"We do offer sessions with our Solutions Architect to kind of help you get up and running faster, get better experience with the product overall."

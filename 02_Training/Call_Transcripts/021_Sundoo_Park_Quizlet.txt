@@ -1,0 +1,117 @@
+CALL TRANSCRIPT #021
+====================
+
+Contact: Sundoo Park
+Company: Quizlet (based on HubSpot records)
+BDR: Clark Fischer
+Date: Nov 5, 2025 12:27 PM EST
+Duration: 1:58
+Call Type: Outbound
+Outcome: NURTURE - At Small Data Conference, will follow up via email
+
+CALL NOTES
+----------
+Note: "Positi" (Positive)
+
+SUMMARY (AI Generated)
+----------------------
+Clark Fischer from Mother Duck contacted Sundoo Park to follow up on their free trial experience while Sundoo was attending the Small Data Conference. They planned to follow up after the conference for feedback via email.
+
+KEY NOTES
+---------
+- Clark Fischer reached out regarding Sundoo's free trial of Mother Duck
+- Sundoo was attending a small data conference at the time of the call
+- They planned to follow up after the conference for feedback
+- Communication was primarily via email, with plans to reconnect later
+
+TOPICS DISCUSSED
+----------------
+Conference Attendance:
+- Sundoo was attending a small data conference during the call
+- They compared this conference to larger events like Coalesce and Reinvent
+- The conference was less busy but still active, with many attendees
+
+Mother Duck Free Trial:
+- Clark checked in on Sundoo's experience with the free trial
+- Sundoo signed up for a session related to Mother Duck at the conference
+- They agreed to continue the conversation after the conference
+
+Follow-Up Plans:
+- Sundoo indicated email is the best way to communicate
+- Clark suggested reconnecting after the conference to gather feedback
+- They agreed to discuss further once Sundoo has more time
+
+FULL TRANSCRIPT
+---------------
+[0:17] Sundoo Park: Hello.
+
+[0:18] Clark Fischer: Hi, is this Sunday?
+
+[0:20] Sundoo Park: Yeah, this is speaking.
+
+[0:22] Clark Fischer: Hi. This is Clark from mother duck. I saw that you signed up for a free trial. How's it going?
+
+[0:29] Sundoo Park: What is what is this about?
+
+[0:30] Clark Fischer: It's about mother duck. I saw that you signed up.
+
+[0:33] Sundoo Park: Oh yeah. I met a small conference, so
+
+[0:37] Clark Fischer: Oh, you're there. You're there now?
+
+[0:40] Sundoo Park: Yeah, I'm here. Yeah.
+
+[0:41] Clark Fischer: Oh oh sorry to bother you then you know what, maybe we when we reconvene after it and we can check i
+
+[0:49] Sundoo Park: Okay, yeah, we can do that.
+
+[0:50] Clark Fischer: Okay, cool. Is there a day that might work best to call you?
+
+[0:55] Sundoo Park: I think email should be working, just fine.
+
+[0:59] Clark Fischer: Okay, I think I sent you an email this morning, but if you how is it over there, I'm in New York, bu
+
+[1:02] Sundoo Park: Oh, okay. Yeah, then I'll check it out. Yep.
+
+[1:09] Sundoo Park: Yeah, it's going. Well, lots of people. Yeah.
+
+[1:12] Clark Fischer: not a not a terrible conference I was just at coalesce and it was so busy like I was I was like oh m
+
+[1:21] Sundoo Park: Yeah it's a small one so it's not as busy but you know compared to like aw man or things like that b
+
+[1:27] Clark Fischer: Yeah. Oh my God, reinvent is crazy. It's like a zoo. It like there's ten thousand people at reinvent
+
+[1:32] Sundoo Park: Yeah. But this one is, you know? Yeah. It's the name suggests, it's a small data conference. So you
+
+[1:37] Clark Fischer: Right. Yeah, that's what I was going to say so it should be it should be a small, how you signed up
+
+[1:47] Clark Fischer: Okay, cool. What did you guys what session was it?
+
+[1:51] Sundoo Park: It was a moderate with a duck. Make
+
+[1:55] Clark Fischer: Okay, cool. Yeah. Duck like Duck, like is really popular. I don't know if you if you come off. Any o
+
+[2:03] Sundoo Park: Okay, yeah, it's a session is starting now, so maybe we can discuss this later.
+
+[2:10] Clark Fischer: Yeah, that would be perfect. Sorry to bother you. I appreciate it. Thanks for your time by.
+
+[2:12] Sundoo Park: No worries. Okay, right now.
+
+OPPORTUNITY ANALYSIS
+--------------------
+Positive Signals:
+- Actively attending Small Data Conference (invested in data)
+- Signed up for MotherDuck session at the conference
+- Free trial user
+- Polite and open to follow-up
+
+Playbook Notes:
+- Good awareness of timing - immediately offered to call back later
+- Built rapport by discussing conferences (Coalesce, Reinvent)
+- Respectful of prospect's time at event
+- Confirmed email as preferred communication method
+- Connected MotherDuck interest to conference session
+
+Next Steps:
+- Follow up via email after conference
+- Reference the "moderate with duck" session they attended

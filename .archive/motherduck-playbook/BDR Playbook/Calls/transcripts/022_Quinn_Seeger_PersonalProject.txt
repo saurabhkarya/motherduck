@@ -1,0 +1,65 @@
+CALL TRANSCRIPT #022
+====================
+
+Contact: Quinn Seeger
+Company: Unknown
+BDR: Weyman Cohen
+Date: Jan 8, 2026 5:07 PM EST
+Duration: 1:02
+Call Type: Outbound
+Outcome: DQ - Personal project, not continuing
+
+CALL NOTES
+----------
+Note: "personal project"
+
+SUMMARY (AI Generated)
+----------------------
+The call involved Weyman Cohen inquiring about Quinn Seeger's experience with the Mother Duck data warehouse free trial. Quinn used it for a temporary personal project and does not intend to continue using the platform.
+
+KEY NOTES
+---------
+- Quinn signed up for a 21-day free trial of Mother Duck
+- The trial was used for a temporary personal project
+- Quinn has not used the service since the initial test
+- He does not intend to continue using the platform
+
+FULL TRANSCRIPT
+---------------
+[0:01] Quinn Seeger (IVR): Hi, if you record your name and reason for calling, I'll see if this person is available.
+
+[0:08] Weyman Cohen: Mother duck data warehouse.
+
+[0:14] Quinn Seeger (IVR): Thanks, please. Stay on the line.
+
+[0:24] Quinn Seeger: Quitting.
+
+[0:26] Weyman Cohen: Penguin, this is Wayne calling from other doc, notice who signed up for twenty one day, free trial,
+
+[0:34] Quinn Seeger: Yeah, I just did a temporary project where I needed it. Honestly. Haven't really used it since nor d
+
+[0:44] Weyman Cohen: Okay, cool. So was it more so personal project at work related?
+
+[0:51] Quinn Seeger: More personal.
+
+[0:54] Weyman Cohen: More personal.
+
+[0:55] Quinn Seeger: Yeah.
+
+[0:59] Weyman Cohen: Hello.
+
+[1:01] Quinn Seeger: Hello.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- Personal project only
+- Temporary need, already completed
+- Not using since initial test
+- No intention to continue
+
+Playbook Notes:
+- Good qualifying question: "Was it more personal or work related?"
+- Quick DQ identification
+- Efficient call (1:02)
+- Call appears to have been cut off at end

@@ -1,0 +1,65 @@
+CALL TRANSCRIPT #027
+====================
+
+Contact: Sam Barani
+Company: Culstrata-AI
+BDR: Weyman Cohen
+Date: Jan 12, 2026 9:06 AM EST
+Duration: 0:17
+Call Type: Outbound
+Outcome: DQ - Not interested
+
+CALL NOTES
+----------
+Note: "not interested"
+
+SUMMARY (AI Generated)
+----------------------
+Sam Barani indicated he is not interested during the call, which focused on his sign-up for a Mother Duck trial. The call was very brief (17 seconds) with minimal engagement.
+
+KEY NOTES
+---------
+- Sam signed up for a 21-day trial of the Mother Duck Data Warehouse
+- The call included a mention of duck TV in action
+- Sam expressed that he is not interested
+- The call duration was approximately 18 seconds
+- The conversation was initiated by Weyman Cohen
+
+TOPICS DISCUSSED
+----------------
+Mother Duck Data Warehouse Trial:
+- Sam signed up for a 21-day trial
+- Weyman introduced himself and discussed the trial purpose
+- The focus was on the trial sign-up and related services
+
+Duck TV in Action:
+- Weyman mentioned the duck TV service during the call
+- This was part of the discussion following the trial sign-up
+- The conversation was brief and primarily informational
+
+FULL TRANSCRIPT
+---------------
+[0:10] Sam Barani: Hello, hello.
+
+[0:13] Weyman Cohen: Waving calling from other. Doc I noticed that you signed up for a mother duck Data Warehouse 21 day...
+
+[0:18] Sam Barani: Hello.
+
+[0:22] Sam Barani: Yes.
+
+[0:23] Weyman Cohen: Hey, I noticed that you signed up for the duck TV in action.
+
+DQ ANALYSIS
+-----------
+Disqualification Signals:
+- "Not interested" explicit statement
+- Minimal engagement (just "Hello" and "Yes")
+- Very short call (17 seconds)
+- Prospect seemed distracted or disengaged
+
+Playbook Notes:
+- Call ended very quickly
+- Prospect didn't engage with discovery questions
+- Very brief - not enough time to qualify
+- May have been bad timing or wrong number
+
