@@ -32,7 +32,7 @@ theme:
     - search.share
     - content.code.copy
     - content.tabs.link
-    - toc.integrate
+    - toc.follow
   font:
     text: Inter
     code: Fira Code
