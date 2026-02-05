@@ -306,70 +306,127 @@ bdr-coach briefing
 ## Call Prep Workflow (Active)
 
 ### Overview
-Automated workflow to generate personalized call prep documents from LinkedIn profiles using the MotherDuck BDR Playbook.
+Two-phase workflow for prospect call preparation and post-call analysis.
 
-### Quick Start
+---
 
-**Option 1: Use the slash command**
+### PHASE 1: Pre-Call Prep (LinkedIn → BDR Section)
+
+**Trigger:** User sends LinkedIn URL or profile content
+
+**What I Do:**
+1. Fetch/parse the LinkedIn profile
+2. Extract: name, title, company, location, experience, skills, recent posts
+3. Identify priority signals (consultant, Snowflake experience, AI projects, etc.)
+4. Generate personalized BDR Section with:
+   - Priority signals table
+   - Two opening script options
+   - Tailored discovery questions
+   - Key talking points
+   - Anticipated objections + responses
+   - The ask (SA meeting)
+   - Red flags to watch for
+   - Quick facts table
+5. Save to `Call Prep/FirstName_LastName_Company.md`
+6. Update `Call Prep/README.md` with new prospect
+
+**Quick Start:**
 ```
-/call-prep https://linkedin.com/in/prospect-name
+Create a call prep for: [LinkedIn URL or paste profile content]
 ```
 
-**Option 2: Paste LinkedIn content directly**
+---
+
+### PHASE 2: Post-Call Update (Transcript → AE Section + Feedback)
+
+**Trigger:** User provides call transcript after the call
+
+**What I Do:**
+1. Analyze the transcript for:
+   - Call outcome (Meeting Booked / Nurture / DQ / No Contact)
+   - What was learned about the prospect
+   - Key quotes
+   - Pain points and interests discovered
+2. **If MEETING BOOKED**, add AE/CE Section:
+   - Discovery insights summary for AE
+   - What we learned (current setup, business context)
+   - AE talking points (what to emphasize in demo)
+   - Red flags / risks
+3. Add Call Feedback & Coaching:
+   - What went well (3-4 positives)
+   - What should have been done differently (with example scripts)
+   - Score card (meeting booked, discovery depth, LinkedIn intel usage, etc.)
+   - Key takeaway quote
+4. Update the existing Call Prep file
+5. Update status in the file header
+
+**Quick Start:**
 ```
-Create a call prep for: [paste LinkedIn profile content]
+Here's the transcript from my call with [Name]: [paste transcript]
 ```
 
-### What Gets Generated
+---
 
-Each call prep document includes:
-- **Priority signals** - Why this prospect matters
-- **Tailored openings** - 2 options based on their profile
-- **Discovery questions** - Customized for their role/company
-- **Talking points** - Relevant value props from playbook
-- **Objection handling** - Anticipated pushback + responses
-- **The Ask** - How to close for the SA meeting
-- **Quick facts** - Key info at a glance
-- **Call notes template** - Ready for HubSpot
+### Document Structure
+
+```
+# Call Prep: First Last
+
+[Header: Company, Title, Location, Status]
+
+---
+
+## BDR Section          ← Phase 1: Pre-call prep
+  - Why they're priority
+  - Openings
+  - Discovery questions
+  - Talking points
+  - Objections
+  - The Ask
+  - Red flags
+  - Quick facts
+
+---
+
+## Call Notes           ← Fill during/after call
+
+---
+
+## AE/CE Section        ← Phase 2: Only if meeting booked
+  - Discovery insights
+  - What we learned
+  - AE talking points
+  - Red flags / risks
+
+---
+
+## Call Feedback & Coaching  ← Phase 2: Always add
+  - What you did well
+  - What to improve
+  - Score card
+  - Key takeaway
+```
+
+---
 
 ### Files & Locations
 
 | Item | Location |
 |------|----------|
-| **Skill definition** | `.claude/skills/call-prep.md` |
 | **Template** | `Call Prep/TEMPLATE_Call_Prep.md` |
 | **Output folder** | `Call Prep/` |
-| **Playbook source** | `.archive/motherduck-playbook/BDR Playbook/` |
+| **Index** | `Call Prep/README.md` |
 
 ### Naming Convention
 ```
 Call Prep/FirstName_LastName_Company.md
 ```
 
-Examples:
-- `Shannon_McGill_FullStackDataSolutions.md`
-- `John_Smith_Acme.md`
-
-### Key Playbook Files Referenced
-
-1. **Calls Playbook** - Patterns, talk tracks, discovery framework
-   ```
-   .archive/motherduck-playbook/BDR Playbook/Calls/Calls_Playbook.md
-   ```
-
-2. **Cold Call Framework** - Objection handling, call structure
-   ```
-   .archive/motherduck-playbook/BDR Playbook/03_Outbound_Prospecting/04_Cold_Call_Framework.md
-   ```
-
-3. **Competitive Intel** - Battlecards for Snowflake, Databricks, BigQuery
-   ```
-   .archive/motherduck-playbook/BDR Playbook/06_Competitive_Intel/
-   ```
+---
 
 ### Signal Detection
 
-**High-Priority Signals (look for these):**
+**High-Priority Signals:**
 | Signal | Why It Matters |
 |--------|----------------|
 | Consultant/Agency | Multiplier - can bring to multiple clients |
@@ -379,7 +436,7 @@ Examples:
 | Small team | Simplicity angle |
 | GB-TB data volumes | Sweet spot for MotherDuck |
 
-**Potential DQ Signals:**
+**DQ Signals:**
 | Signal | Risk |
 |--------|------|
 | Student/teacher | Not business use |
@@ -387,36 +444,38 @@ Examples:
 | Petabyte scale | May need enterprise solution |
 | Deep competitor lock-in | Hard to switch |
 
-### Workflow Steps
+---
 
-1. **Input**: LinkedIn URL or pasted profile content
-2. **Extract**: Parse name, title, company, experience, skills
-3. **Analyze**: Identify signals, match to playbook patterns
-4. **Generate**: Create personalized call prep from template
-5. **Save**: Write to `Call Prep/` folder
-6. **Summary**: Show top angles and recommended approach
+### Scoring Framework (Post-Call)
 
-### Example Usage
+| Criteria | ✅ | ❌ |
+|----------|---|---|
+| Got the meeting | Booked SA demo | No next step |
+| Discovered current stack | Know their tools | Didn't ask |
+| Quantified data volume | GB/TB range | Unknown |
+| Quantified spend/pain | Dollar amount or severity | Vague |
+| Understood timeline | When they'd evaluate | Not discussed |
+| Used LinkedIn intel | Referenced their posts/projects | Generic pitch |
+| Set demo expectations | Clear agenda for AE | AE goes in blind |
 
-**Input:**
+---
+
+### Example Workflow
+
+**Step 1 - User sends LinkedIn:**
 ```
-Create a call prep for this prospect:
-
-Shannon McGill
-Data Engineering Consultant at Full Stack Data Solutions
-- "Cost optimization strategies reducing Snowflake spend by 20%"
-- Works with BigQuery, Snowflake, Airflow
-- Building CEO Sidekick AI app
+Create call prep for: https://linkedin.com/in/shannon-mcgill
 ```
 
-**Output:**
-- Identifies: Consultant (multiplier), Snowflake cost focus, AI interest
-- Recommends: Cost angle opening, consultant value prop
-- Creates: `Call Prep/Shannon_McGill_FullStackDataSolutions.md`
+**I create:** `Call Prep/Shannon_McGill_FullStackDataSolutions.md` with BDR Section
 
-### Tips
+**Step 2 - User makes the call, then sends transcript:**
+```
+Here's the transcript from Shannon: [paste transcript]
+Meeting was booked for next Tuesday.
+```
 
-- **Before calls**: Review the generated prep, highlight 2-3 key points
-- **During calls**: Use the call notes template to capture info
-- **After calls**: Update HubSpot with outcome and notes
-- **Iterate**: If a pattern works well, let me know to update the playbook
+**I update the file with:**
+- AE/CE Section (insights for the AE)
+- Call Feedback & Coaching (what went well, what to improve)
+- Updated status: MEETING BOOKED
