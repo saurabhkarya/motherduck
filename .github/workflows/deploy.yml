@@ -57,18 +57,15 @@ jobs:
       - name: Password protect site
         run: |
           # Encrypt all HTML files with password
-          find site -name "*.html" -type f | while read file; do
-            staticrypt "$file" \
-              -p "aryaduck" \
-              --short \
+          for file in $(find site -name "*.html" -type f); do
+            staticrypt "$file" -p "aryaduck" -o "$file" \
               --template-title "MotherDuck BDR Playbook" \
               --template-instructions "Enter password to access the playbook" \
               --template-color-primary "#6B46C1" \
               --template-color-secondary "#805AD5" \
-              --template-button "Unlock" \
-              -o "$file"
+              --template-button "Unlock"
           done
-          echo "=== Password protection applied ==="
+          echo "=== Password protection applied to all HTML files ==="
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -12,13 +12,56 @@
 .md-typeset h1 {
   font-weight: 700;
   letter-spacing: -0.02em;
+  margin-bottom: 1rem;
 }
 
 .md-typeset h2 {
   font-weight: 600;
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid var(--md-primary-fg-color--light);
+}
+
+.md-typeset h3 {
+  font-weight: 600;
   margin-top: 1.5em;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  margin-bottom: 0.6em;
+  color: var(--md-primary-fg-color);
+}
+
+/* IMPROVED LIST STYLING */
+.md-typeset ul,
+.md-typeset ol {
+  margin-bottom: 1.5em;
+}
+
+.md-typeset li {
+  margin-bottom: 0.6em;
+  line-height: 1.7;
+}
+
+.md-typeset li > p {
+  margin-bottom: 0.4em;
+}
+
+/* Nested lists */
+.md-typeset ul ul,
+.md-typeset ol ol,
+.md-typeset ul ol,
+.md-typeset ol ul {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+/* Better spacing between list items with content */
+.md-typeset li + li {
+  margin-top: 0.5em;
+}
+
+/* Bold text in lists */
+.md-typeset li strong {
+  color: var(--md-primary-fg-color--dark);
 }
 
 /* Improved table styling */
@@ -26,7 +69,8 @@
   font-size: 0.85rem;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: 1.5em 0;
 }
 
 .md-typeset table:not([class]) th {
@@ -36,10 +80,16 @@
   text-transform: uppercase;
   font-size: 0.75rem;
   letter-spacing: 0.05em;
+  padding: 12px 16px;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 10px 16px;
+  vertical-align: top;
 }
 
 .md-typeset table:not([class]) tr:nth-child(even) {
-  background-color: var(--md-default-fg-color--lightest);
+  background-color: rgba(107, 70, 193, 0.04);
 }
 
 .md-typeset table:not([class]) tr:hover {
@@ -51,16 +101,24 @@
 .md-typeset details {
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  margin: 1.5em 0;
 }
 
 /* Better code blocks */
 .md-typeset pre {
   border-radius: 8px;
+  margin: 1em 0;
 }
 
 .md-typeset code {
   border-radius: 4px;
-  padding: 0.1em 0.4em;
+  padding: 0.15em 0.4em;
+  background-color: rgba(107, 70, 193, 0.1);
+}
+
+.md-typeset pre code {
+  background-color: transparent;
+  padding: 0;
 }
 
 /* Navigation improvements */
@@ -78,17 +136,51 @@
   opacity: 1;
 }
 
-/* Sidebar styling */
+/* LEFT SIDEBAR STYLING (where TOC now lives) */
+.md-sidebar--primary {
+  width: 280px;
+}
+
 .md-nav__title {
   font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--md-primary-fg-color);
+  padding: 0.8rem 0.6rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-nav__item {
+  padding: 0.15rem 0;
 }
 
 .md-nav__link {
-  transition: color 0.15s ease, padding-left 0.15s ease;
+  transition: all 0.15s ease;
+  border-radius: 4px;
+  padding: 0.4rem 0.6rem;
 }
 
 .md-nav__link:hover {
-  padding-left: 4px;
+  background-color: rgba(107, 70, 193, 0.08);
+  padding-left: 0.8rem;
+}
+
+.md-nav__link--active {
+  background-color: rgba(107, 70, 193, 0.12);
+  font-weight: 600;
+  color: var(--md-primary-fg-color);
+}
+
+/* TOC integration styling */
+.md-nav--integrated .md-nav__title {
+  display: none;
+}
+
+.md-nav--integrated > ul {
+  border-left: 2px solid var(--md-primary-fg-color--light);
+  padding-left: 0.8rem;
+  margin-left: 0.5rem;
 }
 
 /* Search styling */
@@ -102,6 +194,42 @@
   letter-spacing: -0.01em;
 }
 
+/* Main content area - give it more space */
+.md-content {
+  max-width: 900px;
+}
+
+/* Paragraphs */
+.md-typeset p {
+  line-height: 1.8;
+  margin-bottom: 1em;
+}
+
+/* Blockquotes - for call prep sections */
+.md-typeset blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  background: linear-gradient(135deg, rgba(107, 70, 193, 0.05), rgba(107, 70, 193, 0.02));
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.5rem 0;
+  font-style: normal;
+}
+
+.md-typeset blockquote p {
+  margin-bottom: 0.5em;
+}
+
+.md-typeset blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Horizontal rules */
+.md-typeset hr {
+  margin: 2em 0;
+  border-color: var(--md-primary-fg-color--light);
+  opacity: 0.3;
+}
+
 /* Footer cleanup */
 .md-footer {
   margin-top: 3rem;
@@ -111,40 +239,34 @@
 .priority-high {
   background: linear-gradient(135deg, #E53E3E, #C53030);
   color: white;
-  padding: 2px 8px;
+  padding: 2px 10px;
   border-radius: 4px;
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
+  display: inline-block;
 }
 
 .priority-good {
   background: linear-gradient(135deg, #38A169, #2F855A);
   color: white;
-  padding: 2px 8px;
+  padding: 2px 10px;
   border-radius: 4px;
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
+  display: inline-block;
 }
 
 .priority-dq {
   background: linear-gradient(135deg, #718096, #4A5568);
   color: white;
-  padding: 2px 8px;
+  padding: 2px 10px;
   border-radius: 4px;
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
-}
-
-/* Quick reference cards */
-.md-typeset blockquote {
-  border-left: 4px solid var(--md-primary-fg-color);
-  background: var(--md-default-fg-color--lightest);
-  padding: 1rem;
-  border-radius: 0 8px 8px 0;
-  margin: 1rem 0;
+  display: inline-block;
 }
 
 /* Smooth scrolling */
@@ -153,13 +275,14 @@ html {
 }
 
 /* Better link styling */
-.md-typeset a {
+.md-typeset a:not(.md-nav__link) {
+  color: var(--md-primary-fg-color);
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: border-color 0.15s ease;
 }
 
-.md-typeset a:hover {
+.md-typeset a:not(.md-nav__link):hover {
   border-bottom-color: var(--md-accent-fg-color);
 }
 
@@ -167,6 +290,10 @@ html {
 @media screen and (max-width: 76.1875em) {
   .md-nav__title {
     background-color: var(--md-primary-fg-color);
+  }
+
+  .md-sidebar--primary {
+    width: 100%;
   }
 }
 
@@ -176,4 +303,20 @@ html {
     background-color: #f5f5f5 !important;
     color: #333 !important;
   }
+}
+
+/* Definition lists - for structured content */
+.md-typeset dl {
+  margin-bottom: 1.5em;
+}
+
+.md-typeset dt {
+  font-weight: 600;
+  color: var(--md-primary-fg-color--dark);
+  margin-top: 1em;
+}
+
+.md-typeset dd {
+  margin-left: 1.5em;
+  margin-bottom: 0.5em;
 }

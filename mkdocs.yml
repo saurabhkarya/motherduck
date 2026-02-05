@@ -26,12 +26,13 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.indexes
+    - navigation.path
     - search.suggest
     - search.highlight
     - search.share
     - content.code.copy
     - content.tabs.link
-    - toc.follow
+    - toc.integrate
   font:
     text: Inter
     code: Fira Code
