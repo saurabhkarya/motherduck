@@ -27,15 +27,21 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material
+          pip install mkdocs mkdocs-material mkdocs-minify-plugin
+          npm install -g staticrypt
 
       - name: Prepare docs folder
         run: |
           mkdir -p docs
           # Copy content folders
-          for dir in 01_* 02_* 03_* 04_* 05_* 06_* 07_* "Call Prep"; do
+          for dir in 01_* 02_* 03_* 04_* 05_* 06_* 07_* "Call Prep" stylesheets; do
             [ -d "$dir" ] && cp -r "$dir" docs/
           done
           # Copy root markdown files
@@ -47,6 +53,21 @@ jobs:
 
       - name: Build site
         run: mkdocs build
+
+      - name: Password protect site
+        run: |
+          # Encrypt all HTML files with password
+          find site -name "*.html" -type f | while read file; do
+            staticrypt "$file" "aryaduck" \
+              --short \
+              --template-title "MotherDuck BDR Playbook" \
+              --template-instructions "Enter password to access the playbook" \
+              --template-color-primary "#6B46C1" \
+              --template-color-secondary "#805AD5" \
+              --template-button "Unlock" \
+              -o "$file"
+          done
+          echo "=== Password protection applied ==="
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -21,29 +21,71 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.indexes
     - search.suggest
     - search.highlight
+    - search.share
     - content.code.copy
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Inter
+    code: Fira Code
   icon:
     repo: fontawesome/brands/github
+    logo: material/duck
 
 plugins:
-  - search
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
 
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
-  - pymdownx.superfences
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - pymdownx.details
   - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
   - toc:
       permalink: true
+      toc_depth: 3
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/saurabhkarya/motherduck
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md

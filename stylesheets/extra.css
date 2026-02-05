@@ -1,0 +1,179 @@
+/* MotherDuck BDR Playbook - Custom Styles */
+
+/* Root variables */
+:root {
+  --md-primary-fg-color: #6B46C1;
+  --md-primary-fg-color--light: #805AD5;
+  --md-primary-fg-color--dark: #553C9A;
+  --md-accent-fg-color: #F6AD55;
+}
+
+/* Better typography */
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* Improved table styling */
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table:not([class]) tr:hover {
+  background-color: rgba(107, 70, 193, 0.08);
+}
+
+/* Card-like content boxes */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* Better code blocks */
+.md-typeset pre {
+  border-radius: 8px;
+}
+
+.md-typeset code {
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+}
+
+/* Navigation improvements */
+.md-tabs {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+.md-tabs__link {
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  opacity: 1;
+}
+
+/* Sidebar styling */
+.md-nav__title {
+  font-weight: 600;
+}
+
+.md-nav__link {
+  transition: color 0.15s ease, padding-left 0.15s ease;
+}
+
+.md-nav__link:hover {
+  padding-left: 4px;
+}
+
+/* Search styling */
+.md-search__form {
+  border-radius: 8px;
+}
+
+/* Header logo area */
+.md-header__title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Footer cleanup */
+.md-footer {
+  margin-top: 3rem;
+}
+
+/* Priority badges for Call Prep */
+.priority-high {
+  background: linear-gradient(135deg, #E53E3E, #C53030);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.priority-good {
+  background: linear-gradient(135deg, #38A169, #2F855A);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.priority-dq {
+  background: linear-gradient(135deg, #718096, #4A5568);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+/* Quick reference cards */
+.md-typeset blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  background: var(--md-default-fg-color--lightest);
+  padding: 1rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1rem 0;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better link styling */
+.md-typeset a {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+.md-typeset a:hover {
+  border-bottom-color: var(--md-accent-fg-color);
+}
+
+/* Mobile improvements */
+@media screen and (max-width: 76.1875em) {
+  .md-nav__title {
+    background-color: var(--md-primary-fg-color);
+  }
+}
+
+/* Print improvements */
+@media print {
+  .md-typeset table:not([class]) th {
+    background-color: #f5f5f5 !important;
+    color: #333 !important;
+  }
+}

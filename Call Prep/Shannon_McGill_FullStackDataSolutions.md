@@ -1,7 +1,10 @@
 # Call Prep: Shannon McGill
 **Company:** Full Stack Data Solutions (Consultancy)
+
 **Title:** Principal Data Consultant / Founder
+
 **Location:** Buda, Texas
+
 **LinkedIn:** Active (posted in last 30 days)
 
 ---
