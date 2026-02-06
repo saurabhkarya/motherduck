@@ -12,6 +12,23 @@
 
 ---
 
+## AE Handoff Summary
+
+*Fill out when meeting is booked*
+
+| Field | Value |
+|-------|-------|
+| **Meeting Date** | |
+| **Current Setup** | |
+| **Data Volume** | |
+| **Current Spend** | |
+| **Timeline** | |
+| **Use Case** | |
+| **Why Interested** | |
+| **Demo Priorities** | |
+
+---
+
 ## BDR Section
 
 ## Why {{FIRST_NAME}} is a {{PRIORITY_LEVEL}} Prospect

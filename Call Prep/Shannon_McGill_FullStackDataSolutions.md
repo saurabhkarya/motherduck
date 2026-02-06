@@ -12,6 +12,21 @@
 
 ---
 
+## AE Handoff Summary
+
+| Field | Value |
+|-------|-------|
+| **Meeting Date** | Check calendar |
+| **Current Setup** | Snowflake (manages for main client) |
+| **Data Volume** | Unknown |
+| **Current Spend** | Unknown |
+| **Timeline** | Unknown |
+| **Use Case** | Data repository / lakehouse → reporting |
+| **Why Interested** | Heard "faster & cheaper" at Day-to-Day conf; wants standard platform for managed services business |
+| **Demo Priorities** | 1) Customer-facing/sharing features (new to him) 2) Cost comparison vs Snowflake 3) Consultant/MSP positioning |
+
+---
+
 ## AE/CE Section
 
 ## Discovery Call Insights (from BDR call)
@@ -24,7 +39,7 @@
 
 **Current Setup:**
 
-- Uses **Snowflake** for her main client
+- Uses **Snowflake** for his main client
 - Use case: **Data repository / lakehouse** - loads raw data, integrates between business apps, reports on top
 - "Nothing too fancy" - straightforward reporting
 
@@ -36,15 +51,15 @@
 
 - Currently has **ONE main client** (manages their Snowflake instance)
 - **Future goal:** Offer managed database services to multiple clients
-- Sees MotherDuck as potential **central platform for all her clients**
+- Sees MotherDuck as potential **central platform for all his clients**
 
-**Why She's Interested:**
+**Why He's Interested:**
 
 - Heard MotherDuck is "**faster and cheaper than Snowflake**" at Day-to-Day conference
 - Attended a MotherDuck talk at the conference
 - **NOT aware** of dashboard/customer-facing capabilities - this is a NEW opportunity to show
 
-**How She Found Us:**
+**How He Found Us:**
 
 - Day-to-Day conference
 - Got a hat, attended a talk
@@ -53,28 +68,28 @@
 ### AE Talking Points
 
 1. **Lead with the Consultant/MSP Angle**
-   - She wants to build a managed services business
-   - MotherDuck as her standard stack = multiplier effect
+   - He wants to build a managed services business
+   - MotherDuck as his standard stack = multiplier effect
    - "One platform for all your clients" positioning
 
 2. **Show Customer-Facing Capabilities**
-   - She didn't know about dashboards - this is upside
+   - He didn't know about dashboards - this is upside
    - Demo sharing, embedded analytics, client collaboration
 
 3. **Cost Comparison is Already Validated**
-   - She's already bought into "faster and cheaper"
+   - He's already bought into "faster and cheaper"
    - Can go deeper on specifics vs. Snowflake
 
 4. **Start Small, Think Big**
-   - She has ONE client now
-   - Position MotherDuck as the foundation she builds on
-   - As she adds clients, MotherDuck scales with her
+   - He has ONE client now
+   - Position MotherDuck as the foundation he builds on
+   - As he adds clients, MotherDuck scales with him
 
 ### Red Flags / Risks
 
 - Only one client currently (small revenue potential short-term)
-- May be early in building her business
-- **Upside:** If she grows, we grow with her (land & expand via consultant)
+- May be early in building his business
+- **Upside:** If he grows, we grow with him (land & expand via consultant)
 
 ### Quick Facts About Shannon
 
@@ -342,7 +357,7 @@ Follow-up date: Check calendar
 
 ### 2. Didn't Quantify the Pain
 
-**What happened:** She mentioned "faster and cheaper" but you didn't dig in.
+**What happened:** He mentioned "faster and cheaper" but you didn't dig in.
 
 **What to do instead:**
 
@@ -351,11 +366,11 @@ Follow-up date: Check calendar
 client is spending on Snowflake today? Monthly, annually?"
 ```
 
-**Why it matters:** Cost savings is her main driver. If you can say "she's spending $3K/month and we could save her 70%," that's a compelling demo setup.
+**Why it matters:** Cost savings is his main driver. If you can say "he's spending $3K/month and we could save him 70%," that's a compelling demo setup.
 
 ### 3. Missed the Consultant Angle Deep-Dive
 
-**What happened:** She volunteered her managed services vision, but you didn't explore it.
+**What happened:** He volunteered his managed services vision, but you didn't explore it.
 
 **What to do instead:**
 
@@ -366,7 +381,7 @@ are you thinking? And would they each have their own
 instance or share one?"
 ```
 
-**Why it matters:** This is a MULTIPLIER opportunity. Understanding her growth plans helps the AE position MotherDuck as her platform, not just a tool.
+**Why it matters:** This is a MULTIPLIER opportunity. Understanding his growth plans helps the AE position MotherDuck as his platform, not just a tool.
 
 ### 4. Didn't Mention CEO Sidekick / AI Features
 

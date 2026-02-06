@@ -347,7 +347,10 @@ Create a call prep for: [LinkedIn URL or paste profile content]
    - What was learned about the prospect
    - Key quotes
    - Pain points and interests discovered
-2. **If MEETING BOOKED**, add AE/CE Section:
+2. **If MEETING BOOKED**, fill out AE Handoff Summary table at top:
+   - Meeting Date, Current Setup, Data Volume, Current Spend
+   - Timeline, Use Case, Why Interested, Demo Priorities
+3. **If MEETING BOOKED**, add AE/CE Section:
    - Discovery insights summary for AE
    - What we learned (current setup, business context)
    - AE talking points (what to emphasize in demo)
